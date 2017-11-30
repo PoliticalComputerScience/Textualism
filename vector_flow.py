@@ -1,15 +1,23 @@
 import gensim
 from gensim.models import Word2Vec as Word2Vec
-import sys
+import sys, re
+import nltk
+from nltk.tokenize import word_tokenize
+SENTENCE_TOKENIZER = nltk.data.load('tokenizers/punkt/english.pickle') 
+QUOTES = re.compile("\u201c|\u201d")
 
-def read(file_name):
+
+def read(file_names):
 	"""
 	Reads in a text file as a string, returning the stringified version
-	@param file_name: (type=str) file to be read
+	@param file_names: (type=list<str>) files to be read
 	@return: (type=str)
 	"""
-	with open(file_name, "r") as f:
-		data = f.read().replace("\n", "").replace(",", "")
+	data = ""
+	for file_name in file_names:
+		with open(file_name, "r") as f:
+			data += re.sub(QUOTES, "\"", f.read())
+			data += "\n"
 	return data
 
 def parse(text):
@@ -18,11 +26,11 @@ def parse(text):
 	@param text: (type=str) text to parse
 	@return: (type=list<list<str>>) parsed text 
 	"""
-	sentences = text.split(".")
-	sentences = [sentence.split(" ") for sentence in sentences]
+	sentences = SENTENCE_TOKENIZER.tokenize(text)
+	sentences = [word_tokenize(sentence) for sentence in sentences]
 	return sentences
 
-def init_model(sentences, min_count=2, window=8, dim=20):
+def init_model(sentences, min_count=2, window=8, dim=40):
 	"""
 	Initializes a Word2Vec model
 	@param sentences: (type=list<list<str>>) a list of lists of words
@@ -34,10 +42,10 @@ def init_model(sentences, min_count=2, window=8, dim=20):
 	model = Word2Vec(sentences, min_count=min_count, window=window, size=dim)
 	return model
 
-data = read(sys.argv[1])
+data = read(sys.argv[2:])
 sentences = parse(data)
 model = init_model(sentences)
-model.save("test_model")
+model.save(sys.argv[1])
 
 
 
