@@ -1,0 +1,4 @@
+https://github.com/linanqiu/word2vec-sentiments  -  tutorial(?) on doc2vec, an extension of word2vec
+https://rare-technologies.com/word2vec-tutorial/ - another tutorial on use of word2vec
+https://plot.ly/python/3d-network-graph/         - drawing graph structures: v cool I think
+https://github.com/tmikolov/word2vec             - LOOK AT THIS it looks like this is where the word2vec codebase is now maintained!!! Also contains the evaluation data from Google!!
