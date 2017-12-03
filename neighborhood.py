@@ -13,16 +13,17 @@ class Neighborhood:
 		"""
 		self.word = word
 		self.similarity_neighbors = model.wv.most_similar(positive=[word])
-		"""q = queue.PriorityQueue(10)
+		q = queue.PriorityQueue(10)
 		word_to_vec = {word:model.wv[word] for word in model.wv.vocab}
 		word_vector = word_to_vec[word]
 		for key in word_to_vec:
 			dist_word_pair = (cosine_distance(word_to_vec[key], word_vector), key)
 			q.put(dist_word_pair)
 		self.proximity_neighbors = []
+		print("done")
 		while not q.empty():
 			pair_to_add = q.get()
-			self.proximity_neighbors.append((pair_to_add[1], pair_to_add[0]))""" #(not working am stupid)
+			self.proximity_neighbors.append((pair_to_add[1], pair_to_add[0])) #(not working am stupid)
 
 
 #TO EXECUTE ON COMMAND LINE
