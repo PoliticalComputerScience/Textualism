@@ -1,0 +1,1033 @@
+Changing the Constitutional Landscape for Firearms: The US Supreme
+Court’s Recent Second Amendment Decisions
+Jon S. Vernick, JD, MPH, Lainie Rutkow, JD, PhD, MPH, Daniel W. Webster, ScD, MPH, and Stephen P. Teret, JD, MPH
+In 2 recent cases—with important
+implications for public
+health practitioners, courts,
+and researchers—the US Supreme
+Court changed the
+landscape for judging the constitutionality
+of firearm laws
+under the Constitution’s Second
+Amendment.
+In District of Columbia v
+Heller (2008), the court determined
+for the first time that
+the Second Amendment grants
+individuals a personal right to
+possess handguns in their
+home. In McDonald v City of
+Chicago (2010), the court concluded
+that this right affects
+the powers of state and local
+governments.
+The court identified broad
+categories of gun laws—other
+than handgun bans—that remain
+presumptively valid but
+did not provide a standard
+to judge their constitutionality.
+We discuss ways that researchers
+can assist decision
+makers. (Am J Public Health.
+2011;101:2021–2026. doi:10.
+2105/AJPH.2011.300200)
+HAVING GONE ALMOST 70
+years without deciding a case directly
+addressing the US Constitution’s
+Second Amendment ‘‘right
+to keep and bear arms,’’ beginning
+in 2008 the US Supreme Court
+decided 2 such cases with important
+implications for the public’s
+health. In District of Columbia v
+Heller1 (decided June 26, 2008),
+the Supreme Court concluded
+for the first time that the
+Constitution grants individuals
+a personal right to possess handguns
+in their home for protection. In
+its decision, the court struck down
+a 1976 District of Columbia law
+that outlawed most handgun
+ownership.
+But the Heller decision left several
+important questions unanswered,
+particularly whether the
+Second Amendment affects state
+or local firearm laws or only limits
+the power of the federal government.
+In McDonald v City of Chicago2
+(decided June 28, 2010), the
+Supreme Court determined that the
+Second Amendment does indeed
+apply to laws enacted by state and
+local governments. Nevertheless,
+the McDonald decision also leaves
+critical issues undecided, issues that
+lower courts must now address and
+that may affect the risk of firearm
+violence for millions of Americans.
+Firearms were associated with
+more than 240 000 deaths from
+2000 to 2007, including homicides,
+suicides, and unintentional
+deaths. During that same period,
+November 2011, Vol 101, No. 11 | American Journal of Public Health Vernick et al. | Peer Reviewed | Government, Politics, and Law | 2021
+GOVERNMENT, POLITICS, AND LAW
+more than 530000 additional
+nonfatal firearm injuries were
+treated in hospital emergency departments.3
+Laws at the federal,
+state, and local levels seek to address
+this public health burden.4
+Evaluations of a number of these
+laws indicate public health and
+safety benefits; for other laws, the
+effects remain controversial.5---8
+We briefly review the history of
+how the Supreme Court and lower
+federal courts initially interpreted
+the Second Amendment and examine
+how the Heller and McDonald
+decisions have changed that interpretation.
+We also discuss the
+implications for researchers, policymakers,
+and the courts.
+SECOND AMENDMENT
+DECISIONS BEFORE
+HELLER
+According to the Second
+Amendment, ‘‘A well regulated Militia,
+being necessary to the security
+of a free State, the right of the people
+to keep and bear Arms, shall not
+be infringed.’’9 Prior to the Heller
+decision, there was little disagreement
+among the courts about this
+language’s meaning. In fact, until
+Heller no federal appellate court had
+ever invalidated any law as a violation
+of the Second Amendment.
+Two primary legal reasons
+explained this virtual unanimity.
+The first involves something lawyers
+call the ‘‘incorporation doctrine.’’
+When the Constitution was
+first ratified, most of its provisions
+specified the extent and limits of
+federal government authority.
+Even the familiar protections
+enumerated in the Bill of Rights––
+such as the First Amendment’s
+freedom of speech and religion
+clauses––initially affected only the
+powers of the federal government,
+not the state governments.10 In
+1868, however, the 14th Amendment
+was ratified, explicitly forbidding
+states to ‘‘deprive any person
+of life, liberty, or property, without
+due process of law.’’11 As a result,
+the Supreme Court began to decide
+that most of the Bill of Rights
+guarantees were included in––or
+‘‘incorporated’’ into––the more general
+language of the 14th Amendment
+as a limit on state (not just
+federal) powers. But the court has
+never accepted the argument that
+the entire Bill of Rights was incorporated
+en masse, preferring a caseby-case
+(right-by-right) approach.12
+Until the McDonald decision,
+the Second Amendment remained
+one of the very few parts of the Bill
+of Rights not so ‘‘incorporated.’’
+In fact, in a pair of 19th-century
+cases––United States v Cruikshank
+(1876)13 and Presser v Illinois
+(1886)14––the court found that the
+Second Amendment limited only
+the federal government. Numerous
+state laws affecting gun ownership
+have been upheld on this basis.15,16
+The second reason why most
+courts, before Heller and McDonald,
+had little trouble upholding gun
+laws involves the language of the
+Second Amendment itself, specifi-
+cally the ‘‘militia’’ clause preceding
+the ‘‘right to keep and bear arms.’’
+In 1939, the Supreme Court decided
+United States v Miller, a case in
+which 2 individuals challenged
+their criminal indictment under
+a federal law restricting sawed-off
+shotguns.17 Because Miller involved
+a federal law, the earlier Cruikshank
+and Presser decisions were not directly
+applicable. In Miller, the court
+upheld the indictments, ruling that
+the Second Amendment did not
+protect the right to keep and bear
+a firearm that did not have ‘‘some
+reasonable relationship to the preservation
+or efficiency of a well regulated
+militia’’18 (see also Lewis v
+United States19). Miller was a relatively
+brief opinion without substantial
+discussion of the basis for
+its ruling. Nevertheless, lower
+courts routinely upheld federal
+and state firearm laws citing
+Miller.
+20,21
+The first crack in this unanimity
+among the federal courts came in
+1999 with United States v Emerson.
+22 As part of a divorce proceeding,
+Sacha Emerson received
+a restraining order forbidding her
+estranged husband from threatening
+her or their child. Mr. Emerson
+had previously purchased a handgun.
+But under federal law, individuals
+subject to certain restraining
+orders relating to intimate partner
+violence are not permitted to possess
+firearms.23
+Emerson challenged the constitutionality
+of the law in federal
+district court. District judge Samuel
+Cummings agreed with Emerson,
+concluding that, unlike prior
+federal decisions, the Second
+Amendment granted individuals
+a ‘‘right to keep and bear arms’’
+regardless of any relationship with
+militia service. He also determined
+that the federal law violated that
+individual Second Amendment
+right.24 On appeal, the Fifth Circuit
+Court of Appeals largely agreed
+with Judge Cummings’ interpretation
+of the scope of the Second
+Amendment. But the court nevertheless
+upheld the federal law in
+question, concluding that the Second
+Amendment right could be
+subject to ‘‘limited, narrowly
+tailored specific exceptions that are
+reasonable.’’25
+DISTRICT OF COLUMBIA v
+HELLER (2008)
+Well before Emerson, a lively
+debate had emerged among
+scholars regarding the proper interpretation
+of the Second
+Amendment.26 Some generally favored
+the traditional interpretation
+endorsed by nearly all courts, arguing
+that it was justifiable by the
+Constitution’s language and history.27,28
+Others argued that the
+Second Amendment should be
+seen as protecting a personal right
+to own guns unrelated to militia
+service, a right that might affect the
+constitutionality of some gun laws.
+These authors urged the courts––
+particularly the Supreme Court––to
+reinterpret the Second Amendment
+on the basis of its history, analysis
+of the words in the amendment
+itself, and early views of its
+meaning.29,30 In 2008, with District
+of Columbia v Heller, the court
+accepted that suggestion.
+Since 1976, the District of Columbia
+had banned the private
+possession of handguns that were
+not owned and registered prior to
+September of that year.31 Long
+guns (i.e., rifles and shotguns) could
+still be possessed in the home. Dick
+Anthony Heller sought a registration
+certificate for a handgun he
+wished to possess in his home, and
+the District of Columbia refused.
+Five other individuals, including the
+original lead plaintiff, Shelly Parker,
+joined Heller in challenging the
+District’s law. None alleged that he
+or she was a member of any official
+militia. The federal district court
+rejected their arguments, relying
+2022 | Government, Politics, and Law | Peer Reviewed | Vernick et al. American Journal of Public Health | November 2011, Vol 101, No. 11
+GOVERNMENT, POLITICS, AND LAW
+heavily on the Supreme Court’s
+Miller decision. The court also
+noted that all other federal courts
+had declined to follow the Fifth
+Circuit Court of Appeals’ reasoning
+in Emerson.
+32 The plaintiffs appealed
+and the US Court of Appeals
+for the District of Columbia reversed,
+striking down the District’s
+handgun ban.33 The District then
+appealed the case to the US Supreme
+Court.
+When the Supreme Court
+agreed to hear the Heller case, this
+represented the first time since
+Miller in 1939 that the Supreme
+Court had even considered a case
+directly addressing the Second
+Amendment. As a result, stakeholders
+on both sides of the issue
+mobilized in an effort to influence
+the court. More than 30 friendof-the-court
+(amicus curiae)
+briefs were filed with the Supreme
+Court by groups as diverse as
+the American Public Health
+Association, the National Rifle
+Association (NRA), and the
+NAACP.34 These amicus briefs
+offered legal arguments as well
+as public health and criminological
+research about the pros and
+cons of gun ownership and
+regulation.
+Writing for a 5 to 4 majority of
+the court, Justice Antonin Scalia
+agreed with the Court of Appeals
+that the District of Columbia’s
+handgun ban was unconstitutional.
+In a lengthy opinion, Scalia
+reviewed the Second Amendment’s
+text, the history of its rati-
+fication, early commentary on its
+scope, and past cases. He relied on
+a bevy of historical material as
+well as some of the recent scholarly
+writings to affirm that the
+Second Amendment protects an
+individual right not limited by
+service in a militia. To reach this
+conclusion, Scalia interpreted the
+Miller decision differently than
+most other federal courts, determining,
+in part, that Miller means
+only that the Second Amendment
+does not protect those weapons
+not typically possessed by lawabiding
+citizens for lawful purposes,
+such as short-barreled
+shotguns.35
+Other weapons, notably handguns,
+which Scalia described as ‘‘the most
+popular weapon chosen by Americans
+for self-defense in the home,’’ 36
+clearly fall within the protection of
+the Second Amendment.
+However, critically for public
+health and safety, Scalia also acknowledged
+that ‘‘[l]ike most
+rights, the right secured by the
+Second Amendment is not unlimited.’’37
+In an oft-quoted portion of
+the opinion, Scalia expanded on
+some of these limitations:
+[N]othing in our opinion should
+be taken to cast doubt on longstanding
+prohibitions on the possession
+of firearms by felons and
+the mentally ill, or laws forbidding
+the carrying of firearms in
+sensitive places such as schools
+and government buildings, or
+laws imposing conditions and
+qualifications on the commercial
+sale of arms.38
+Scalia further assured the
+reader that the court identifies
+‘‘these presumptively lawful regulatory
+measures only as examples;
+our list does not purport to be
+exhaustive.’’39 In fact, elsewhere in
+the opinion, the court also mentioned
+prohibitions on the carrying
+of ‘‘dangerous and unusual
+weapons’’ and ‘‘laws regulating the
+storage of firearms to prevent accidents.’’40
+Despite its length, the Heller
+decision left at least 3 important
+questions unanswered. Although
+Justice Scalia listed certain presumptively
+valid gun laws, some of
+them––such as ‘‘laws imposing
+conditions and qualifications on
+the commercial sale of arms’’––
+were described in very general
+terms. Does this mean that any
+such conditions on gun purchases
+are valid? If not, then a second
+unanswered question is what
+standard should be applied to
+judge the constitutionality of gun
+laws other than handgun bans?
+As Scalia acknowledged, other
+constitutional rights are also not
+absolute. Perhaps the most famous
+example: despite the First
+Amendment’s freedom of speech
+protections, the government may
+still prohibit (falsely) shouting
+‘‘fire’’ in public places.41 For those
+other constitutional rights, there are
+generally standards that the court
+applies to determine whether a law
+affecting those rights may nevertheless
+be upheld. Scalia did not
+supply a specific standard.
+In his dissent, Justice Stephen
+Breyer specifically criticized the
+majority opinion for this omission.
+Breyer suggested that the
+court adopt an ‘‘interest-balancing’’
+approach requiring judges
+to weigh ‘‘the interests protected
+by the Second Amendment on
+one side and the governmental
+public-safety concerns on the
+other.’’42 Scalia rejected Breyer’s
+suggestion, believing that standard
+to be inappropriate, and
+concluded that the standard
+should be allowed to develop
+over time in future cases.
+The third major unanswered
+question from Heller is whether
+the Second Amendment protects
+an individual ‘‘right to keep and
+bear arms’’ that cannot be infringed
+by state or local laws or
+whether it applies only to federal
+laws. Because Washington, DC, is
+a federal enclave, the question
+never specifically arose in Heller.
+This is precisely the issue raised by
+McDonald v City of Chicago.
+SECOND AMENDMENT
+CASES IMMEDIATELY
+AFTER HELLER
+Even before McDonald was decided,
+lower courts were faced
+with new challenges to gun laws.
+Overwhelmingly, the courts upheld
+the constitutionality of these
+laws. In some cases, the courts
+simply applied Scalia’s language in
+Heller regarding presumptively
+valid gun laws, as in the challenges
+brought by criminal defendants
+against the federal law barring gun
+ownership by convicted felons.43
+Some courts applied one of the
+existing standards of review identi-
+fied by the Supreme Court for other
+constitutional protections, but there
+was little consistency in these decisions.
+In other cases involving state
+or local laws, however, some
+courts relied on the much older
+Cruikshank and Presser cases,
+concluding that the Second
+Amendment––even after Heller––
+did not limit state or local gun
+laws. These courts often acknowledged
+that the Supreme
+Court, not the lower federal
+courts, retained the prerogative
+of overruling or limiting its own
+prior decisions.44,45 In McDonald
+v City of Chicago, the court did
+just that.
+November 2011, Vol 101, No. 11 | American Journal of Public Health Vernick et al. | Peer Reviewed | Government, Politics, and Law | 2023
+GOVERNMENT, POLITICS, AND LAW
+McDONALD v CITY OF
+CHICAGO (2010)
+Otis McDonald and several other
+plaintiffs were Chicago, Illinois residents
+who wished to keep handguns
+in their homes for protection,
+but a Chicago law had essentially
+banned handguns since 1982. Oak
+Park, Illinois, had a similar law on its
+books, and the courts combined
+challenges brought by Oak Park
+residents, the NRA, and other
+groups into one decision. Both the
+district court and the Court of
+Appeals upheld the laws in question
+citing Cruikshank and Presser.
+In a 5 to 4 decision––with the
+same 5 justices in the majority as in
+Heller––the Supreme Court reversed.
+Writing for the majority, Justice
+Samuel Alito began by noting that
+Cruikshank and Presser were decided
+prior to the Supreme Court’s
+more modern ‘‘selective incorporation’’
+approach. To determine
+whether the Second Amendment
+should be incorporated via the14th
+Amendment’s due process clause
+as a limit on state power, Alito
+wrote that the relevant inquiry was
+whether the right to keep and
+bear arms is fundamental to our
+scheme of ordered liberty, or...
+whether this right is ‘deeply
+rooted in this Nation’s history
+and tradition.46
+For Alito, the court’s decision in
+Heller and its review of the history
+of the Second Amendment made
+it clear that a right to self-defense
+in the home with a handgun is
+indeed deeply rooted in history
+and tradition and therefore must
+be incorporated. Alito also concluded
+that historical evidence
+both before and ‘‘immediately
+following the ratification of the
+Fourteenth Amendment only
+confirms that the right to keep and
+bear arms was considered fundamental.’’47
+Among the arguments
+that Alito rejected was the assertion
+by Chicago and Oak Park that the
+Second Amendment should be
+treated differently, in that it ‘‘differs
+from all of the other provisions of
+the Bill of Rights because it concerns
+the right to possess a deadly
+implement and thus has implications
+for public safety.’’48
+Alito responded that ‘‘the right
+to keep and bear arms, however, is
+not the only constitutional right
+that has controversial public safety
+implications.’’48 The municipalities
+also argued that incorporating the
+Second Amendment would ‘‘stifle
+experimentation’’ by states and
+municipalities to address the specifics
+of local levels of violence and
+would simply lead to ‘‘extensive
+and costly litigation.’’ Alito rejected
+these claims as well.49
+Importantly, Alito repeated Scalia’s
+reassurance from Heller that
+the Second Amendment right is not
+absolute and that certain longstanding
+types of gun laws are presumptively
+valid. However, once
+again the court declined to provide
+a standard for lower courts to apply
+in judging other gun laws. This
+prompted a spirited portion of the
+dissent by Justice Breyer, complaining
+that ‘‘judges do not know
+the answers to the kinds of empirically
+based questions that will often
+determine the need for particular
+forms of gun regulation.’’50
+IMPLICATIONS
+The Heller and McDonald decisions
+have important implications
+for the courts, policymakers,
+and researchers. Also, how these
+groups respond to the decisions
+will have important implications
+for the public.
+For the Courts
+Immediately following both the
+Heller and McDonald decisions,
+individuals and pro-gun interest
+groups challenged a host of federal,
+state, and local gun laws. The
+courts, therefore, have been
+forced to apply the general principles
+of the 2 cases but without
+guidance from the Supreme Court
+about a specific standard to govern
+the constitutionality of a given
+gun law. At one end of the spectrum,
+broad handgun bans are
+clearly impermissible. At the
+other, certain laws, such as barring
+felons from having guns, are presumptively
+valid. But what will be
+the status of the plethora of laws
+falling somewhere in between?
+What about laws banning only
+specific types of handguns, such
+as so-called ‘‘junk guns’’? What
+about limits on the number of
+handguns that can be purchased at
+any given time (known as onehandgun-per-month
+laws)? Or
+prohibitions on those convicted of
+misdemeanor (rather than felony)
+crimes from owning firearms?
+One of the first post-McDonald
+cases involved precisely this type
+of misdemeanor restriction. In
+United States v Skoien, the federal
+law barring gun ownership by
+people convicted of certain domestic
+violence misdemeanors
+was at issue. A 3-judge panel of the
+Seventh Circuit Court of Appeals
+initially concluded that the law
+violated the Second Amendment.51
+However, the full Seventh
+Circuit Court of Appeals then
+agreed to review the decision and
+upheld the law.
+The full Court of Appeals applied,
+in part, a standard often
+called ‘‘intermediate scrutiny’’
+(because the burden on the government
+in defending its law resides
+somewhere between the
+other 2 commonly used constitutional
+standards, the ‘‘rational
+basis’’ test and ‘‘strict scrutiny’’
+standards). Under intermediate
+scrutiny, the court concluded that
+the federal law would be valid
+if the government could show
+that the law in question was ‘‘substantially
+related to an important
+government objective.’’52 To
+apply this standard, the court
+relied heavily on research regarding
+the relationship between
+domestic violence and firearms,
+recidivism among domestic
+abusers, and the risk of guns in
+the home generally.
+Under almost any standard of
+review, the courts are likely to
+consider, among other factors,
+whether the law in question promotes
+public health and safety
+goals. This will necessarily involve
+examining public health, criminology,
+or other social science research.
+Courts must therefore
+have access to the relevant research
+and be able to comprehend
+its meaning, including balancing
+conflicting claims in the contentious
+area of guns and violence.
+The need for judges to have
+greater facility with scientific evidence
+has long been recognized.53,54
+For Policymakers
+Probably the safest form of immediate
+post-Heller and postMcDonald
+prediction is for some
+2024 | Government, Politics, and Law | Peer Reviewed | Vernick et al. American Journal of Public Health | November 2011, Vol 101, No. 11
+GOVERNMENT, POLITICS, AND LAW
+uncertainty about which gun laws
+(other than handgun bans) will be
+upheld and which judged unconstitutional.
+In such a climate, there
+may be a chilling effect for policymakers
+contemplating new laws
+intended to reduce firearm violence.
+Legislators may remember
+Heller’s assertion that many different
+types of gun laws remain
+presumptively valid.
+In addition, laws that focus upstream
+(as public health professionals
+often advocate) on gun
+makers and sellers, rather than
+gun buyers and owners, may be
+less likely to present Second
+Amendment problems. Laws requiring
+safer firearm design––
+for example, devices to prevent
+accidental discharge or use by
+a child––can promote public
+health without interfering with an
+individual’s right to own a gun.55
+Similarly, laws improving oversight
+of gun dealers and targeting illegal
+traffickers may not implicate the
+core Second Amendment right of
+gun ownership in the home identi-
+fied by the Supreme Court.56
+For policymakers proposing
+new gun laws, establishing an evidence-based
+legislative record
+may be especially important. This
+may mean holding hearings at
+which researchers and other experts
+can testify about the scientific
+basis for new laws and including
+language in the preamble
+of the bill itself justifying the law.
+Courts often rely on such information.
+The city councils of the
+District of Columbia and Chicago
+followed this approach when rewriting
+their gun laws after the
+applicable court decisions. Each
+city enacted new laws––short of
+a handgun ban––intended to make
+it difficult for high-risk people to
+obtain firearms.57,58 Aspects of the
+District of Columbia and Chicago
+laws were immediately challenged.
+These cases are pending.
+Governments defending existing
+laws may find it helpful to partner
+with a variety of groups. Some
+interest groups and law firms offer
+pro bono legal representation or
+other assistance. As in both Heller
+and McDonald, public health organizations,
+biomedical groups, and
+researchers (as warranted by the
+evidence) can provide friend-ofthe-court
+briefs to aid courts.
+For Researchers
+Researchers must be prepared
+to help judges and policymakers.
+Researchers can work with policymakers
+to translate scientific findings
+into sound public policy.
+They can assist courts directly
+by serving as expert witnesses
+at trials helping judges navigate
+complex (and sometimes conflicting)
+research.
+Researchers can also anticipate
+the kinds of gun laws most likely to
+face constitutional challenges and
+conduct new research to inform
+decision makers. Many gun laws
+have never been carefully evaluated.
+But relevant research need
+not be limited to direct evaluations
+of the public health impact of gun
+laws. Unbiased studies that consider
+possible risk and protective
+factors for violence may also be
+useful for courts and policymakers.
+Most gun laws can be divided
+into one of 3 categories: laws
+addressing potentially high-risk
+people, firearms, and uses or contexts.59
+In each of these areas,
+additional research can assist decision
+makers. As in the Skoien
+decision, developing a better understanding
+of which aspects of individuals’
+prior criminal, mental
+health, substance abuse, or other
+history increase their risk for violence
+will allow courts to assess the
+potential public safety benefits of
+new or existing laws. Several states
+ban or regulate categories of firearms
+deemed high risk, including
+assault weapons, poorly made
+handguns, and handguns without
+certain safety features.60 Some of
+these laws have already been challenged.
+In Heller, Justice Scalia
+identified laws restricting the carrying
+of ‘‘dangerous and unusual’’
+weapons as presumptively valid.
+Research can help courts determine
+whether some guns are ‘‘dangerous
+and unusual’’ enough to warrant
+regulating them.
+Finally, firearms in some contexts
+or places may be riskier than
+in others. Federal law, for example,
+forbids guns in school zones,61
+and 18 states require guns to be
+stored safely when not in use.62
+Heller emphasizes the right to have
+a handgun in one’s home. Research
+may assist courts in determining
+whether or how to extend the right
+to other, potentially high-risk places.
+New research and analysis
+conducted by legal scholars and
+historians can also assist courts
+and policymakers. Research can
+examine how the language of the
+Second Amendment was developed,
+interpreted, and applied to
+specific types of laws throughout
+the nation’s history. Scholars
+can also consider and recommend
+to courts appropriate ways to analyze
+Second Amendment cases
+on the basis of existing principles
+of jurisprudence, including standards
+of review.
+Once a study is completed, researchers
+should consider publishing
+findings in forums that are
+easily accessible to judges and
+policymakers. In addition to peerreviewed
+biomedical or social science
+journals, researchers might
+also consider secondary publication
+in law journals or reviews
+available in legal databases such as
+Westlaw or Lexis/Nexis.
+CONCLUSIONS
+In the pages of this journal in
+1993, an article concluded:
+At some time in the future, the
+Supreme Court may, in fact,
+overrule Presser and Miller and
+grant to the NRA and others the
+interpretation of the Second
+Amendment they seek. Until that
+time, however, public health advocates
+should understand that
+the Second Amendment poses no
+real obstacle to the implementation
+of even broad gun control
+legislation.63(p1776)
+That time has arrived. Public
+health researchers and advocates
+must now be prepared to assist
+courts and policymakers as we
+have described.
+For now, however, the full impact
+of these 2 cases remains unclear.
+But if policymakers and
+others fear acting to protect public
+health and safety because of the
+decisions that courts might make
+in the future, this could have farreaching
+implications for the millions
+of Americans who wish to
+live free from the threat of firearm
+violence. j
+About the Authors
+Jon S. Vernick, Daniel W. Webster, and
+Stephen P. Teret are with the Johns Hopkins
+Bloomberg School of Public Health and the
+Johns Hopkins Center for Gun Policy and
+November 2011, Vol 101, No. 11 | American Journal of Public Health Vernick et al. | Peer Reviewed | Government, Politics, and Law | 2025
+GOVERNMENT, POLITICS, AND LAW
+Research, Baltimore, MD. Lainie Rutkow is
+with the Johns Hopkins Bloomberg School
+of Public Health.
+Correspondence should be sent to Jon S.
+Vernick, JD, MPH, 624 N Broadway,
+Baltimore, MD 21205 (e-mail: jvernick@
+jhsph.edu). Reprints can be ordered at
+http://www.ajph.org by clicking the
+‘‘Reprints/Eprints’’ link.
+This article was accepted January 30,
+2011.
+Contributors
+J. S. Vernick led the research and the
+writing of the article. L. Rutkow, D.W.
+Webster, and S. P. Teret made substantive
+and editorial contributions to the
+research and the writing of the article.
+Human Participant Protection
+No protocol approval was needed for this
+research because no human participants
+were involved.
+References
+1. District of Columbia v Heller, 128 SCt
+2783 (2008).
+2. McDonald v City of Chicago, 130 SCt
+3020 (2010).
+3. Centers for Disease Control and Prevention.
+Web-based Injury Statistics Query
+and Reporting System (WISQARS). Available
+at: http://www.cdc.gov/injury/
+wisqars/index.html. Accessed June 14,
+2011.
+4. State Laws and Published Ordinances––Firearms,
+2007. Washington,
+DC: Bureau of Alcohol, Tobacco, Firearms
+and Explosives; 2008.
+5. Vernick JS, Webster DW, Vittes KA.
+Law and policy approaches to keeping
+guns from high risk people. In: Culhane J,
+ed. Reconsidering Law and Policy Debates:
+A Public Health Perspective. New York,
+NY: Cambridge University Press; 2011:
+153---186.
+6. Wintemute GJ. The future of firearm
+violence prevention: building on success.
+JAMA. 1999;282(5):475---478.
+7. Hemenway D. Private Guns, Public
+Health. Ann Arbor, MI: University of
+Michigan Press; 2004.
+8. National Research Council Committee
+to Improve Research Information and
+Data on Firearms. Firearms and Violence:
+A Critical Review. Washington, DC: National
+Academies Press; 2005.
+9. US Constitution, Second Amendment.
+Available at: http://www.archives.gov/
+exhibits/charters/bill_of_rights_transcript.
+html. Accessed June 14, 2011.
+10. Barron ex rel Tiernan v Mayor of
+Baltimore, 8 L Ed 672 (1833).
+11. US Constitution, 14th Amendment.
+Available at: http://www.archives.gov/
+exhibits/charters/constitution_amend
+ments_11-27.html. Accessed June 14,
+2011.
+12. Nowak JE, Rotunda RD. Constitutional
+Law. 8th ed. St. Paul, MN: West
+Publishing; 2009.
+13. United States v Cruikshank, 92 US
+542 (1876).
+14. Presser v Illinois, 116 US 252 (1886).
+15. Fresno Rifle and Pistol Club Inc. v
+Van de Kamp, 746 F Supp 1415 (ED CA
+1990).
+16. Quilici v Village of Morton Grove, 695
+F2d 261 (7th Cir 1982).
+17. United States v Miller, 307 US 174
+(1939).
+18. United States v Miller, 307 US 174,
+178 (1939).
+19. Lewis v United States, 445 US 55, 65
+(1980).
+20. United States v Oakes, 564 F2d 384
+(10th Cir 1977).
+21. Hickman v Block, 81 F3d 98 (9th Cir
+1996).
+22. United States v Emerson, 46 F Supp
+2d 598 (ND TX 1999), aff’d in part,
+rev’d in part, 270 F3d 203 (5th Cir 2001).
+23. 18 USC x922(g)(8) (2010).
+24. United States v Emerson, 46 F Supp
+2d 598, 611 (ND TX. 1999).
+25. United States v Emerson, 270 F3d
+203, 261 (5th Cir 2001).
+26. Bogus CT. The history and politics
+of Second Amendment scholarship: a
+primer. Chic Kent Law Rev. 2000;
+76(1):3---25.
+27. Dorf MC. What does the Second
+Amendment mean today? Chic Kent Law
+Rev. 2000;76(1):291---347.
+28. Spitzer RJ. Lost and found: researching
+the Second Amendment. Chic
+Kent Law Rev. 2000;76(1):349---401.
+29. Levinson S. The embarrassing Second
+Amendment. Yale Law J. 1989;
+99(3):637---659.
+30. Kates DB. Handgun prohibition and
+the original meaning of the Second
+Amendment. Mich Law Rev. 1983;
+82(2):204---273.
+31. DC Code x7---2502.02 (2007).
+32. Parker v District of Columbia, 311 F
+Supp 2d 103 (DC 2004).
+33. Parker v District of Columbia, 478
+F3d 370 (DC Cir 2007).
+34. SCOTUSblog: DC v Heller. Available
+at: http://www.scotuswiki.com/index.
+php?title=DC_v._Heller. Accessed June
+14, 2011.
+35. District of Columbia v Heller, 128 SCt
+2783, 2815---2816 (2008).
+36. District of Columbia v Heller, 128 SCt
+2783, 2818 (2008).
+37. District of Columbia v Heller, 128 SCt
+2783, 2816 (2008).
+38. District of Columbia v Heller, 128 SCt
+2783, 2816---2817 (2008).
+39. District of Columbia v Heller, 128 SCt
+2783, 2817 (2008).
+40. District of Columbia v Heller, 128 SCt
+2783, 2817---2820 (2008).
+41. Schenck v United States, 249 US 47
+(1919).
+42. District of Columbia v Heller, 128 SCt
+2783, 2852 (2008) (Breyer J, dissenting).
+43. United States v Brunson, 2008 US
+App LEXIS 19456 (4th Cir 2008).
+44. Maloney v Cuomo, 554 F3d 56 (2nd
+Cir 2009).
+45. National Rifle Association of America
+Inc. v Chicago, 567 F3d 856 (7th Cir 2009).
+46. McDonald v City of Chicago, 130 SCt
+3020, 3036 (2010).
+47. McDonald v City of Chicago, 130 SCt
+3020, 3041 (2010).
+48. McDonald v City of Chicago, 130 SCt
+3020, 3045 (2010).
+49. McDonald v City of Chicago, 130 SCt
+3020, 3046---3047 (2010).
+50. McDonald v City of Chicago, 130 SCt
+3020, 3128 (2010). (Breyer J, dissenting).
+51. United States v Skoien, 587 F3d 803
+(7th Cir 2010).
+52. United States v Skoien, 2010 US App
+LEXIS (7th Cir. 2010).
+53. Reference Manual on Scientific Evidence.
+Washington, DC: Federal Judicial
+Center; 1994.
+54. Christoffel T, Teret SP. Epidemiology
+and the law: courts and confidence
+intervals. Am J Public Health. 1991;
+81(12):1661---1666.
+55. Teret SP, Wintemute GJ. Policies to
+prevent firearm injuries. Health Aff.
+1993;12(4):96---108.
+56. Vernick JS, Webster DW. Policies to
+prevent firearm trafficking. Inj Prev.
+2007;13(2):78---79.
+57. DC Code x7-2501.01 et seq (2010).
+58. Chicago Responsible Gun Ownership
+Ordinance. Available at: https://
+portal.chicagopolice.org/portal/page/por
+tal/ClearPath/About%20CPD/Fire
+arm%20Registration. Accessed June 14,
+2011.
+59. Zimring FE. Firearms, violence and
+public policy. Sci Am. November1991:
+48---54.
+60. Vernick JS, Teret SP. A public health
+approach to regulating firearms as consumer
+products. Univ PA Law Rev. 2000;
+148(4):1193---1211.
+61. 18 USC x922 (q)(2) (2010).
+62. Webster DW, Vernick JS, Zeoli AM,
+Manganello J. Association between youthfocused
+firearm laws and youth suicides.
+JAMA. 2004;292(5):594---601.
+63. Vernick JS, Teret SP. Firearms and
+health: the right to be armed with accurate
+information about the Second
+Amendment. Am J Public Health. 1993;
+83(12):1773---1777.

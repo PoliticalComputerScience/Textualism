@@ -1,0 +1,460 @@
+The Commonplace Second Amendment
+
+Prof. Eugene Volokh, UCLA Law School *
+
+(73 NYU L. Rev. 793 (1998))
+ 
+The Second Amendment is widely seen as quite unusual, because it has a justification clause as well as an operative clause.  Professor Volokh points out that this structure was actually quite commonplace in American constitutions of the Framing era:  State Bills of Rights contained justification clauses for many of the rights they secured.  Looking at these state provisions, he suggests, can shed light on how the similarly structured Second Amendment should be interpreted.  In particular, the provisions show that constitutional rights will often -- and for good reason -- be written in ways that are to some extent overinclusive and to some extent underinclusive with respect to their stated justifications.
+ 
+Introduction
+
+              "The Second Amendment, unusually for constitutional provisions, contains a statement of purpose as well as a guarantee of a right to bear arms." 1  This unusual attribute, some argue, is reason for courts to interpret the Second Amendment quite differently than they interpret other constitutional provisions -- perhaps to the point of reading it as having virtually no effect on government action. 2
+
+              My modest discovery 3 is that the Second Amendment is actually not unusual at all:  Many contemporaneous state constitutional provisions are structured similarly.  Rhode Island's 1842 constitution, its first, provides
+
+The liberty of the press being essential to the security of freedom in a state, any person may publish his sentiments on any subject, being responsible for the abuse of that liberty . . . . 4
+Compare this to the Second Amendment's
+A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed. 5
+The 1784 New Hampshire Constitution says
+In criminal prosecutions, the trial of facts in the vicinity where they happen, is so essential to the security of the life, liberty and estate of the citizen, that no crime or offence ought to be tried in any other county than that in which it is committed . . . . 6
+The 1780 Massachusetts Constitution -- followed closely by the 1784 New Hampshire Constitution and the 1786 Vermont Constitution -- says
+The freedom of deliberation, speech, and debate, in either house of the legislature, is so essential to the rights of the people, that it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever. 7
+I list dozens more such provisions in the Appendix.
+              These provisions, I believe, shed some light on the interpretation of the Second Amendment:
+
+They show that the Second Amendment should be seen as fairly commonplace, rather than strikingly odd.
+They rebut the claim that a right expires when courts conclude that the justification given for the right is no longer valid or is no longer served by the right.
+They show that operative clauses are often both broader and narrower than their justification clauses, thus casting doubt on the argument that the right exists only when (in the courts' judgment) it furthers the goals identified in the justification clause. 8
+They point to how the two clauses might be read together, without disregarding either.
+              The provisions also suggest two things about interpretation more generally.  First, they remind us that the U.S. Constitution is just one of the at least fifty-one American constitutions in force today, and one of the dozens of constitutions that existed during the Framing era. 9  The legal academy's understandable focus on federal matters can blind us to some important details.
+
+              Second, these provisions help show the value of testing interpretive proposals against a politically mixed range of texts.  On a topic as incendiary as gun control, it's obviously tempting for people to reach an interpretation based largely on their policy desires.  If we want to be honest interpreters, a broad set of test cases for our interpretive method is a good tool for checking our political biases.
+
+I.  A Normal Right
+
+              To begin with, so long as the Second Amendment seems strikingly unusual -- so long as it appears to be the only provision with a justification clause -- people will naturally wonder whether this oddity is some sort of signal:  Perhaps, for instance, the Framers were themselves so hesitant about the right that they intentionally tried to limit its force; in any event, they must have been telling us something, or else why would they have written the Amendment so strangely?
+
+              The state provisions show that the Second Amendment is just one of many constitutional provisions that happen to be structured this way, and that the federal Bill of Rights is just one of many that contain only one or a few justification clauses. 10  I have seen no evidence of a correlation between the presence of a justification clause and the provision's perceived importance. 11
+
+              These state provisions also remind us that early constitutions were political documents as well as legal ones.  They were meant to capture people's allegiance, both in order to get the provision approved, and to persuade future generations to adhere to it.  In this context, setting forth the justifications for a provision makes perfect rhetorical sense.  This observation doesn't dispose of the question of what legal significance should be given to the clauses once they are enacted, but it does counsel against viewing the presence of the clauses as something deeply portentous.
+
+II.  A Permanent Right
+
+              Some people suggest the justification clause provides a built-in expiration date for the right.  So long as a well-regulated militia is necessary to the security of a free state (or so long as the right to keep and bear arms contributes to a well-regulated militia, or so long as the militia is in fact well-regulated), the argument goes, the people have a right to keep and bear arms; but once the circumstances change and the necessity disappears, so does the right. 12
+
+              This reading seems at odds with the text:  The Amendment doesn't say "so long as a militia is necessary"; it says "being necessary."  Such a locution usually means the speaker is giving a justification for his command, not limiting its duration. 13  If anything, it might require the courts to operate on the assumption that a well-regulated militia is necessary to the security of a free state, since that's what the justification clause asserts. 14
+
+              But the unsoundness of the "temporary right" reading becomes even starker when one considers the other state constitutional provisions.  Consider, for instance, the New Hampshire Venue Article:
+
+In criminal prosecutions, the trial of facts in the vicinity where they happen is so essential to the security of the life, liberty and estate of the citizen, that no crime or offence ought to be tried in any other county than that in which it is committed . . . . 15
+Today few believe that the trial of the facts in the vicinity where they happen is essential to life, liberty, and property.  Perhaps this was so when most jurors were expected to rely on their personal knowledge about the facts or about the characters of the defendants and the witnesses, when travel was very difficult, or when cultural divides were primarily geographical. 16  Today, though, it's much more common to hear insistence on a trial being moved outside the vicinity where the crime was committed, on the theory that jurors in the area of the crime would be unduly inflamed against the defendant. 17  Even those who support local trials would probably only say that local trials are helpful, not "essential"; and even those who stress the importance of trial by jurors who come from a demographically similar place wouldn't care much about trial in the same county.
+              We wouldn't, however, interpret the "is so essential" language in the Venue Article as meaning "so long as it is believed by judges to be essential."  Bills of Rights are born of mistrust of government:  The government is barred from prosecuting cases in another county because of the fear that some future government may not be attentive enough to "the security of the life, liberty, and estate of the citizen."  The provision's enactors doubtless contemplated that there'd be disagreement about the value of local trials. 18  It seems most likely that they mentioned the value of local trials in the constitution to show their commitment to this position, 19 not to leave the judiciary -- itself a branch of the government -- carte blanche to conclude otherwise, 20 and thus eliminate the operative clause's check on government power. 21  The trial-in-the-county provision must remain in effect whether or not a judge thinks it still serves the purpose; the provision was enacted by the people, and it's up to the people, not judges, to decide whether it's obsolete. 22
+
+              Likewise, consider the Massachusetts, New Hampshire, and Vermont Speech and Debate Articles, each of which provides that
+
+The freedom of deliberation, speech, and debate, in either house of the legislature, is so essential to the rights of the people, that it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever. 23
+Today, many might doubt that entirely unfettered freedom of speech in the legislature -- including, for instance, the freedom to defame people with impunity -- is really "so essential to the rights of the people."  It may have been seen as "essential" by people who lived in a time when speech outside the legislature was more legally constrained than it is now, or who had lived under a mighty undemocratic executive, a judiciary appointed by that executive, and a legislature that was just starting to assert its prerogatives. 24  But today, even without a Speech and Debate Article, legislators would be as free to speak their minds as are newspaper publishers, political candidates, and so on -- probably free enough to preserve "the rights of the people."  Some might even say the rights of the people today are more jeopardized by legislators' power to slander people or order arrests or issue subpoenas without risk of punishment than they would be by legislators made timid by the absence of the speech and debate privilege. 25  Even those who disagree could probably imagine a reasonable judge taking this view.
+              Nonetheless, I take it courts ought not use this altered context as a reason to nullify the Speech and Debate Articles.  Bills of Rights are meant to prevent certain kinds of governmental conduct precisely in the face of claims that this conduct is more conducive to people's greater happiness or even greater liberty.  Courts should read the provision as (1) declaring that, no matter what you or I might think, the enactors of the right believed that unlimited legislative freedom of speech was indeed essential to the rights of the people, and (2) commanding that such freedom be preserved so long as the provision remains part of the Constitution.  They ought not read it as preserving the right only so long as a court believes the right is valuable. 26  The same should apply to the Second Amendment.
+
+III.  A Right Broader and Narrower Than Its Justification
+
+              Some argue the justification clause should be read as a condition on the operative clause:  The right to keep and bear arms is protected only when it contributes to a well-regulated militia, or only when the well-regulated militia is necessary to the security of a free State.  Thus, one commentator says, because "the Framers included a preamble to the Second Amendment . . . [i]t is at least arguable that the only 'gun rights' protected by the Second Amendment are those that in fact support 'the security of a free State´ -- and that might mean none at all." 27
+
+              Again, this seems inconsistent with the text, which contains no "only when" clause.  What's more, the text itself suggests that the operative clause is sometimes broader and sometimes narrower than its justification.  The underinclusiveness of the operative clause is uncontroversial:  The government is entitled to act in ways that are at odds with the Amendment's justification, so long as it doesn't deprive the people of the right to keep and bear arms.  Congress has no obligation, for instance, to properly train the militia, or to demand that it be armed. 28  Congress may even take steps that might undercut the value of a well-regulated militia to the security of a free state, for instance by creating a standing army. 29
+
+              The overinclusiveness of the operative clause is likewise evident from the text.  The operative clause says the right to keep and bear arms belongs to "the people."  Given that "the right of the people" is likewise used to describe the right to petition the government, the right to be free from unreasonable searches and seizures, and the rights to keep and bear arms recognized in various contemporaneous state constitutions -- all individual rights that belong to each person, not just to members of the militia -- "the people" seems to refer to people generally. 30  The justification clause, though, refers to the militia, which has always generally included pretty much all able-bodied men from age eighteen to forty-five 31 rather than all people. 32  People who aren't in the militia, such as men over forty-five, 33 or those few whose professions have generally exempted them from militia service -- such as ship pilots or post office employees 34 -- don't seem to further the purpose set forth in the justification clause, but their rights are still covered by the text of the operative clause.
+
+              Thinking about the other constitutional provisions further reminds us that we shouldn't expect an operative provision to fit perfectly with its justification.  Let's return for a moment to the New Hampshire Venue Article:
+
+In criminal prosecutions, the trial of the facts near where they happen is so essential to the security of the life, liberty, and estate of the citizen, that no crime or offence ought to be tried in any other county than that in which it is committed . . . . 35
+The operative clause doesn't serve the Article's purposes in every case:  Some transfers from one county to another might actually bring the trial closer to where the crime took place.  Likewise, the trial of facts in the vicinity where they happen isn't always essential to the security of life, liberty, and estate -- for instance, if the defendant and the witnesses are unknown to the jurors, the defendant lives as far from the proposed alternate venue as from the county where the crime was committed, and the proposed venue and the county where the crime was committed are demographically similar.  Still, the provision means what it says:  The trial must be in the county in which the offense took place. 36  The provision is quite explicit about what is to be done, regardless of whether the particular application of the provision would serve its broader purpose.
+              Likewise, consider the New Hampshire Ex Post Facto Article:
+
+Retrospective laws are highly injurious, oppressive and unjust.  No such laws, therefore, should be made, either for the decision of civil causes, or the punishment of offences. 37
+One can probably imagine situations where retrospective laws, especially civil ones, are not in fact injurious, oppressive, and unjust (or at least not highly so). 38  Even those who believe that all ex post facto laws are highly unjust would probably concede that some reasonable judges could take a different view.  And yet the provision bans all ex post facto laws, not only the highly unjust ones.
+              These provisions, like constitutional rights provisions more generally, don't just announce a purpose and ask courts to do whatever the judges think fits the purpose.  Their enactors could have done so -- they could have broadly required "the trial of the facts near where they happen," or required "the trial of facts in a way conducive to the security of the life, liberty, and estate of the citizen," or banned "highly injurious, oppressive and unjust" laws generally.  But they instead chose to impose much more specific constraints, constraints that are both over- and underinclusive.
+
+              Those who enacted the Bills of Rights apparently didn't trust courts to decide for themselves what's "conducive to the security of the citizen" or what's "highly injurious, oppressive and unjust," or even what's "near."  They meant to constrain courts, not to leave them with complete discretion to do justice any way they think best.  The enactors had broad ends in mind, but they chose to serve those ends by enacting into law some particular means. 39
+
+              So it is with the Second Amendment.  The Framers may have intended the right to keep and bear arms as a means towards the end of maintaining a well-regulated militia -- a well-trained armed citizenry 40 -- which in turn would have been a means towards the end of ensuring the security of a free state.  But they didn't merely say that "a well-regulated Militia is necessary to the security of a free State" 41 (as some state constitutions said), or "Congress shall ensure that the Militia is well-regulated," or even "Congress shall make no law interfering with the security of a free State."  Rather, they sought to further their purposes through a very specific means. 42
+
+              Congress thus may not deprive people of the right to keep and bear arms, even if their keeping and bearing arms in a particular instance doesn't further the Amendment's purposes.  As the other state constitutional provisions show, there should be nothing surprising in this.  When you mean to check government authority, 43  you do this by imposing specific commands on the government, even if they sometimes don't match your purposes perfectly, rather than by letting the government decide how it thinks the purposes can best be served.
+
+IV.  What the Justification Clause Might Mean
+
+              What then does the justification clause mean?  It might have a political and educational goal -- stressing to the public and government officials the connection between an armed citizenry and freedom, 44 just as other provisions may aim to persuade people about the desirability of "a more perfect Union" 45 or the virtue of local trials 46 or the importance of the liberty of the press. 47  But we still properly expect the clause, like all constitutional provisions, to have some legal meaning.  To borrow from United States v. Miller, 48 the only 20th-century Supreme Court case that deals with the Second Amendment at any length, it seems reasonable to say:  "With obvious purpose to assure the continuation and render possible the effectiveness of [the Militia] the declaration and guarantee of the Second Amendment were made.  It must be interpreted and applied with that end in view." 49
+
+              I believe the justification clause may aid construction of the operative clause but may not trump the meaning of the operative clause:  To the extent the operative clause is ambiguous, the justification clause may inform our interpretation of it, but the justification clause can't take away what the operative clause provides.  And because we know that operative clauses may be at times broader and at times narrower than justification clauses, we should accept that the two clauses will sometimes point in different directions.
+
+              This might seem like a gossamer distinction, but it's what we would try to do with regard to the other constitutional provisions I've mentioned above. 50  (It's also consistent with the general rules of statutory construction used in the late 1700s and 1800s. 51)  Does "no crime or offence ought to be tried in any other county than that in which it is committed" 52 prohibit hearings on preliminary motions -- such as challenges to the sufficiency of an indictment -- in another county?  Since the justification clause says that "the trial of the facts in the vicinity where they happen is so essential to the security of . . . the citizen," the term "tried" in the operative clause should probably be read as covering only trial of the facts, not determination of purely legal questions. 53  But I assume that we'd reject a construction that allows a trial in another county, no matter how close the other county might be or how irrelevant the venue might in this case seem to preserving "the security of the life, liberty, and estate of the citizen."  Likewise, when it is said that "any person may publish his sentiments on any subject," 54 a justification clause stressing "the liberty of the press" can't limit the right only to members of the institutional press.
+
+              "County" and "person" are, of course, particularly unambiguous terms; let's consider a vaguer provision.  Say that a person is on trial for publishing books condemning private property.  He claims his speech is protected by a provision that says
+
+The liberty of the press being essential to the security of freedom in a state, any person may publish his sentiments on any subject, being responsible for the abuse of that liberty . . . . 55
+The government argues that any speech that undermines "the security of freedom in a state" is per se an "abuse of . . . liberty," and that the speech here undermines freedom because history shows that private property is necessary for freedom. 56
+              I take it that, though "abuse" is a vague term, we'd still try to make sure that the justification clause not trump the operative clause.  We'd consider the fact that "abuse" seems to suggest harmful use, and not merely use that's inconsistent with the liberty's justifications; thus, we'd probably demand at least that the speech have some substantial tendency to cause harm.  We'd also consider the fact that the operative clause is useful only if it's a meaningful constraint on government discretion:  If the government can suppress any speech that it believes in some way undermines freedom, then this constraint disappears. 57  We'd recall that the provision protects "the liberty of the press," and not "conduct that supports the security of freedom in a state," and that the operative clause can does not seem limited to speech that would directly serve the purpose expressed in the justification clause.
+
+              The line between interpreting the operative clause in light of the justification clause and interpreting the justification clause to trump the operative clause is of course fairly uncertain.  Many problems of statutory construction are uncertain.  But the various constitutional provisions I collect here suggest that the line must be and can be drawn.
+
+              Let's consider a few questions raised by the Second Amendment.  Whose rights does it secure?  The Second Amendment says the right is "the right of the people"; the First, Fourth, and Ninth Amendments use this phrase to refer to an individual right.  Early Kentucky, Massachusetts, North Carolina, Pennsylvania, and Vermont Bills of Rights speak of "the right of the people to bear arms." 58  Since these provisions secure rights against the state governments, they must recognize a right belonging to someone other than the state or entities whose membership is defined by the state -- this likewise suggests that "the right of the people to bear arms" refers to a right of individuals.
+
+              The justification clause can't transform this rather unambiguous term into "the right of the States" or "the right of the militia."  (Miller, in fact, never suggested that it did. 59)  True, reading "people" to refer to each person might mean that the right is somewhat broader than the justification, but one should expect the possibility of a mismatch between justification clauses and operative clauses:  The means chosen to serve the end will often be somewhat broader or narrower than the end itself.  But it's the means that are being made into law.
+
+              What arms may be kept and borne?  Here Miller might well have been right to consider the justification clause.  Miller was indicted for transporting a sawed-off shotgun, in violation of the National Firearms Act of 1934. 60  There was no evidence introduced in any proceeding that this kind of weapon was useful to a citizen-militiaman, 61 and the Court held that such utility wasn't so well-known that it could be judicially noticed. 62  The Court thus concluded that
+
+[i]n the absence of any evidence tending to show that possession or use of a [sawed-off shotgun] at this time has some reasonable relationship to the preservation or efficiency of a well regulated militia, we cannot say that the Second Amendment guarantees the right to keep and bear such an instrument. 63
+              "[A]rms," unlike "the right of the people," is used only once in the U.S. Constitution, and rarely in early state constitutions.  Its meaning isn't made clear by these provisions, and it's plausible to interpret it as referring to something less than all the weapons known to humanity.  Reading "arms" as referring to weapons valuable to people as members of the militia thus seems textually consistent with the operative clause.  It also doesn't nullify the right by making it easily evadable by those whom it's meant to constrain.
+
+              What about a claim that, say, "to keep and bear arms" refers only to people's keeping arms in state-run arsenals, and bearing them while they are under the direct command of state officers?  This position seems inconsistent with the operative clause (and again Miller did not hold this). 64  As I mentioned above, a right of the people to bear arms (or to keep and bear arms) is present in the pre-1791 constitutions of four states; because this right against the state government can't be at the sufferance of the state, "the right of the people to bear arms" seems to have meant a right to have arms even without state authorization.  The Indiana, Kentucky, Missouri, Ohio, Pennsylvania, and Vermont provisions guaranteeing the right of the people to bear arms in "defense of themselves and the State" 65 likewise suggest that "bearing arms" meant more than just bearing them under state control.  What's more, under the Militia Clauses, the federal government could at any time take direct command of the militia away from the states. 66  If the right was only a right to possess arms under the supervision of one's militia superiors -- who might well be under federal command -- then the right would impose little constraint on the federal government.
+
+              Referring to the lessons learned from the other constitutional provisions won't turn interpreting the Second Amendment into a mechanical process; no interpretive theory can promise this.  But the other provisions do show that it's possible to interpret an operative clause in light of a justification clause without reading either out of the constitutional text, and without incorrectly insisting on each being coextensive with the other.
+
+Conclusion
+
+              For better or worse, interpreting legal texts is a mushy business.  Lawyers who support a particular result on policy grounds can often come up with an interpretation that reaches this result, and even persuade themselves that it's the best interpretation.
+
+              At the same time, I write from the premise that interpreting a text is not the same enterprise as reading the text to achieve whatever policy result one prefers.  Legal texts should to some extent constrain their interpreters, and interpreters should try to subordinate their policy views (even if they cannot ignore them entirely) to the inquiry into what the text says.  Sometimes, the interpreter must say, "Too bad, the best reading of the text is one that produces a result I dislike, but I guess I'm stuck with it."  Interpretation means sometimes having to say you're sorry.
+
+              One way of testing one's interpretive approach -- of distinguishing honest interpretation from mere inscription of one's own policy preferences on the text -- is applying it to a wide array of texts of different political valences.  It's easy enough to craft an interpretive trick that reaches the result one wants in the case for which it was crafted.  But when one tests it against other provisions, one sees more clearly whether it's a sound interpretive method.
+
+              My modest discovery is that the Second Amendment belongs to a large family of similarly structured constitutional provisions:  They command a certain thing while at the same time explaining their reasons.  Because some of the provisions appeal to liberals and some to conservatives, they offer a natural test suite for any proposed interpretation of the Second Amendment.  If the interpretive method makes sense with all the provisions, that's a point in its favor.  But if it reaches the result that some may favor for the Second Amendment only by reaching patently unsound results for the other provisions, we should suspect that the method is flawed.  
+
+ 
+Appendix
+
+              The following roughly contemporaneous constitutional provisions contain, like the Second Amendment, a justification clause and an operative clause.  To focus on those provisions most similar to the Second Amendment, I have mostly limited this list to rights provisions that appear to be possibly self-executing -- omitting the clearly purely hortatory provisions and the clearly structural provisions -- and have somewhat arbitrarily cut off the list at the Rhode Island Constitution of 1842 (that state's first).  I have also included Madison's original proposals for amendments to the Constitution, and the proposals submitted by the various state ratifying conventions.
+
+I.  Free Press
+
+              The Liberty of the Press is essential to the security of freedom in a state; it ought, therefore, to be inviolably preserved. 67
+
+              The liberty of the press being essential to the security of freedom in a state, any person may publish his sentiments on any subject, being responsible for the abuse of that liberty . . . . 68
+
+              [T]he freedom of the press is one of the great bulwarks of liberty, and therefore ought never to be restrained. 69
+
+              [T]he people have a right to freedom of speech, and of writing, and publishing their sentiments; therefore the freedom of the press ought not to be restrained. 70
+
+              [T]he freedom of the press is one of the greatest bulwarks of liberty and ought not to be violated. 71
+
+              [T]he freedom of the press, as one of the great bulwarks of liberty, shall be inviolable. 72
+
+II.  Free Speech and Debate in the Legislature
+
+              The freedom of deliberation, speech, and debate, in either house of the legislature, is so essential to the rights of the people, that it cannot be the foundation of any accusation or prosecution, action or complaint, in any other court or place whatsoever. 73
+
+III.  Free Speech/Press
+
+              The free communication of thoughts and opinions is one of the invaluable rights of man; and every citizen may freely speak, write and print on any subject -- being responsible for the abuse of that liberty. 74
+
+IV.  Jury of the Vicinity
+
+              In criminal prosecutions, the trial of facts in the vicinity where they happen, is so essential to the security of the life, liberty and estate of the citizen, that no crime or offence ought to be tried in any other county than that in which it is committed . . . . 75
+
+V.  Juror Qualifications
+
+              In order to reap the fullest advantage of the inestimable privilege of the trial by jury, great care ought to be taken that none but qualified persons should be appointed to serve; and such ought to be fully compensated for their travel, time and attendance. 76
+
+VI.  Jury Trial in Civil Cases
+
+              [I]n controversies respecting property, and in suits between man and man, the ancient trial by Jury is one of the greatest Securities to the rights of the people, and ought to remain sacred and inviolable. 77
+
+              [T]he trial by Jury in the extent that it obtains by the Common Law of England is one of the greatest securities to the rights of a free People, and ought to remain inviolate. 78
+
+              [I]n controversies respecting property, and in suits between man and man the antient trial by jury, as hath been exercised by us and our ancestors, from the time whereof the memory of man is not to the contrary, is one of the greatest securities to the rights of the people, and ought to remain sacred and inviolate. 79
+
+              In suits at common law, between man and man, the trial by jury, as one of the best securities to the rights of the people, ought to remain inviolate. 80
+
+VII.  Ex Post Facto
+
+              That retrospective laws, punishing acts committed before the existence of such laws, and by them only declared penal or criminal, are oppressive, unjust, and incompatible with liberty; wherefore, no ex post facto law shall ever be made. 81
+
+              Retrospective laws are highly injurious, oppressive and unjust.  No such laws, therefore, should be made, either for the decision of civil causes, or the punishment of offences. 82
+
+VIII.  Pretrial Restraints
+
+              Every man being presumed innocent, until he is pronounced guilty by the law, no act of severity which is not necessary to secure an accused person shall be permitted. 83
+
+IX.  Searches and Seizures
+
+              Every subject has a right to be secure from all unreasonable searches, and seizures, of his person, his houses, his papers, and all his possessions.  All warrants, therefore, are contrary to this right, if the cause or foundation of them be not previously supported by oath or affirmation, and if the order in the warrant to a civil officer, to make search in suspected places, or to arrest one or more suspected persons, or to seize their property, be not accompanied with a special designation of the persons or objects of search, arrest, or seizure . . . . 84
+
+              [T]he people have a right to hold themselves, their houses, papers, and possessions free from search and seizure, and therefore warrants without oaths or affirmations first made, affording a sufficient foundation for them, and whereby any officer or messenger may be commanded or required to search suspected places, or to seize any person or persons, his or their property, not particularly described, are contrary to that right, and ought not to be granted. 85
+
+              [E]very freeman has a right to be secure from all unreasonable searches and siezures [sic] of his person, his papers and his property; all warrants, therefore, to search suspected places, or sieze [sic] any freeman, his papers or property, without information upon Oath (or affirmation of a person religiously scrupulous of taking an oath) of legal and sufficient cause, are grievous and oppressive . . . . 86
+
+              [E]very Freeman has a right to be secure from all unreasonable searches and seizures of his person his papers or his property, and therefore, that all Warrants to search suspected places or seize any Freeman his papers or property, without information upon Oath or Affirmation of sufficient cause, are grievous and oppressive . . . . 87
+
+X.  Slavery and Indentured Servitude
+
+              That all men are born equally free and independent, and have certain natural, inherent and unalienable rights; amongst which are, the enjoying and defending life and liberty -- acquiring, possessing and protecting property -- and pursuing and obtaining happiness and safety.  Therefore, no male person, born in this country, or brought from over sea, ought to be holden by law to serve any person, as a servant, slave, or apprentice, after he arrives to the age of twenty-one years; nor female, in like manner, after she arrives to the age of eighteen years . . . . 88
+
+XI.  Hereditary Offices
+
+              No office or place whatsoever in government, shall be hereditary -- the abilities and integrity requisite in all, not being transmissible to posterity or relations. 89
+
+XII.  Pensions
+
+              Economy being a most essential virtue in all states, especially in a young one; no pension shall be granted, but in consideration of actual services, and such pensions ought to be granted with great caution, by the legislature, and never for more than one year at a time. 90
+
+XIII.  Religious Freedom
+
+              That, as it is the duty of every man to worship God in such manner as he thinks most acceptable to him; all persons, professing the Christian religion, are equally entitled to protection in their religious liberty; wherefore no person ought by any law to be molested in his person or estate on account of his religious persuasion or profession, or for his religious practice . . . . 91
+
+              That religion, or the duty which we owe to our Creator, and the manner of discharging it, can be directed only by reason and conviction, not by force or violence; and therefore all men are equally entitled to the free exercise of religion, according to the dictates of conscience . . . . 92
+
+              And whereas we are required, by the benevolent principles of rational liberty, not only to expel civil tyranny, but also to guard against that spiritual oppression and intolerance wherewith the bigotry and ambition of weak and wicked priests and princes have scourged mankind, this convention doth further, in the name and by the authority of the good people of this State, ordain, determine, and declare, that the free exercise and enjoyment of religious profession and worship, without discrimination or preference, shall forever hereafter be allowed, within this State, to all mankind:  Provided, That the liberty of conscience, hereby granted, shall not be so construed as to excuse acts of licentiousness, or justify practices inconsistent with the peace or safety of this State. 93
+
+              Whereas Almighty God hath created the mind free; and all attempts to influence it by temporal punishments or burdens, or by civil incapacitations, tend to beget habits of hypocrisy and meanness; and whereas a principal object of our venerable ancestors, in their migration to this country and their settlement of this state, was, as they expressed it, to hold forth a lively experiment, that a flourishing civil state may stand and be best maintained with full liberty in religious concernments; we, therefore, declare that no man shall be compelled to frequent or to support any religious worship, place, or ministry whatever, except in fulfillment of his voluntary contract; nor enforced, restrained, molested, or burdened in body or goods; nor disqualified from holding any office; nor otherwise suffer on account of his religious belief; and that every man shall be free to worship God according to the dictates of his conscience, and to profess and by argument to maintain his opinion in matters of religion; and that the same shall in no wise diminish, enlarge, or affect his civil capacity. 94
+
+              Although it is the duty of all men frequently to assemble together for the public worship of the Author of the universe, and piety and morality, on which the prosperity of communities depends, are thereby promoted; yet no man shall or ought to be compelled to attend any religious worship, or to contribute to the erection or support of any place of worship, or to the maintenance of any ministry, against his own free will and consent . . . . 95
+
+              [R]eligion or the duty which we owe to our Creator, and the manner of discharging it can be directed only by reason and conviction, not by force or violence, and therefore all men have an equal, natural and unalienable right to the free exercise of religion according to the dictates of conscience . . . . 96
+
+XIV.  Proportional Punishments
+
+              All penalties shall be proportioned to the nature of the offence, the true design of all punishment being to reform, not to exterminate, mankind. 97
+
+              All penalties ought to be proportioned to the nature of the offence.  No wise legislature will affix the same punishment to the crimes of theft, forgery and the like, which they do to those of murder and treason; where the same undistinguishing severity is exerted against all offences; the people are led to forget the real distinction in the crimes themselves, and to commit the most flagrant with as little compunction as they do those of the lightest dye:  For the same reason a multitude of sanguinary laws is both impolitic and unjust.  The true design of all punishment being to reform, not to exterminate, mankind. 98
+
+XV.  Poll Taxes
+
+              [T]he levying taxes by the poll is grievous and oppressive; therefore, the legislature shall never levy a poll-tax for county or State purposes. 99
+
+XVI.  Petition
+
+              Although disobedience to laws by a part of the people, upon suggestions of impolicy or injustice in them, tends by immediate effect and the influence of example, not only to endanger the public welfare and safety, but also, in governments of a republican form, contravenes the social principles of such governments founded on common consent for common good, yet the citizens have a right, in an orderly manner, to meet together, and to apply to persons intrusted with the powers of government for redress of grievances or other proper purposes, by petition, remonstrance, or address. 100
+
+XVII.  Judicial Tenure
+
+              [T]he independency and uprightness of Judges are essential to the impartial administration of justice, and a great security to the rights and liberties of the people; wherefore the Chancellor and Judges ought to hold commissions during good behaviour; and the said Chancellor and Judges shall be removed for misbehaviour, on conviction in a court of law, and may be removed by the Governor, upon the address of the General Assembly; Provided, That two-thirds of all the members of each House concur in such address. 101
+
+              It is essential to the preservation of the rights of every individual, his life, liberty, property, and character, that there be an impartial interpretation of the laws, and administration of justice.  It is the right of every citizen to be tried by judges as free, impartial, and independent as the lot of humanity will admit.  It is therefore, not only the best policy, but for the security of the rights of the people, and of every citizen, that the judges of the supreme judicial court should hold their offices as long as they behave themselves well; and that they should have honorable salaries ascertained and established by standing laws. 102
+
+XVIII.  Monopolies
+
+              That monopolies are odious, contrary to the spirit of a free government, and the principles of commerce; and ought not to be suffered.  
+
+ 
+    *    Acting Professor of Law, University of California, Los Angeles.  B.S., 1983; J.D., 1992, University of California, Los Angeles.  Many thanks to Evan Caminker, Stephen Gardbaum, C.B. Kates, Kenneth Karst, Kenneth Klee, David Kopel, Nelson Lund, Dan Polsby, Scot Powe, Glenn Harlan Reynolds, David Sklansky, Jonathan Varat, and Adrian Vermeule for their helpful comments.  Unless otherwise noted, all historical constitutional provisions cited here are taken from The Federal and State Constitutions, Colonial Charters, and Other Organic Laws (Francis Newton Thorpe ed., 1909).
+
+    1.    Geoffrey R. Stone, Louis M. Seidman, Cass R. Sunstein & Mark V. Tushnet, Constitutional Law Supp. 53-54 (3rd ed., Supp. 1997).  See also L. Scot Powe, Guns, Words, and Constitutional Interpretation, 38 Wm. & Mary L. Rev. 1311, 1335 (1997) ("No other amendment has its own preface."); John Hart Ely, Democracy and Distrust 95 (1980) ("The Second Amendment has its own little preamble . . . .  Thus here, as almost nowhere else [citing in a footnote the Copyright and Patent Clause as the only possible exception], the framers and ratifiers apparently . . . [chose] explicitly to legislate the goal in terms of which the provision was to be interpreted."); Sanford Levinson, The Embarrassing Second Amendment, 99 Yale L.J. 637, 644 (1989) ("What is special about the Amendment is the inclusion of an opening clause -- a preamble, if you will -- that seems to set out its purpose.  No similar clause is a part of any other Amendment . . . ."); L. Tribe, American Constitutional Law 299 n.6 (2nd ed. 1988) (discussing "the nearly unique inclusion of a purposive preamble [in the Second Amendment] -- the only other such language appears in the copyright clause"); George F. Will, America's Crisis of Gunfire, Wash. Post, Mar. 21, 1991, at A21 ("Many gun control advocates argue that the unique 13-word preamble stipulates the amendment's purpose in a way that severely narrows constitutional protection of gun ownership."); Erwin Griswold, Phantom Second Amendment 'Rights', Wash. Post, Nov. 4, 1990, at C7 ("The amendment is unique among the guarantees of the Bill of Rights, because its purpose is clearly expressed in its text.").
+
+    2.    See, e.g., sources cited infra notes 12 & 27.  But see Glenn Harlan Reynolds & Don B. Kates, The Second Amendment and States' Rights:  A Thought Experiment, 36 Wm. & Mary L. Rev. 1737, 1765 (1995) (suggesting that if second clause is subordinated to first, and Amendment is seen as guaranteeing only states' rights, then Amendment might actually end up being even broader and more frightening than under individual rights vision).
+
+    3.    I have seen no other Second Amendment discussions that cite any of the provisions I mention here.  Cf. Nelson Lund, The Past and Future of the Individual's Right to Arms, 31 Ga. L. Rev. 1, 25 (1996) (using as thought experiment hypothetical provision with justification clause, but never citing to real provisions I discuss here); Powe, supra note 1 (comparing First Amendment to Second Amendment without mentioning free speech/free press provisions I discuss here).  Others, writing about other subjects, have of course observed that some state constitutional provisions contain justification clauses, but to my knowledge have never drawn the connection to the Second Amendment preamble.
+
+              My references to the Lund, Powe, and Levinson articles, supra and supra note 1, aren't meant as general criticisms; all three are excellent pieces.
+
+    4.    R.I. Const. art. I, § 20 (1842); see also infra note 10; infra text accompanying note 72 (quoting Madison's original draft of federal Free Press Clause).
+
+    5.    U.S. Const. amend. II.
+
+    6.    N.H. Const. pt. I, art. XVII (1784).
+
+    7.    Mass. Const. pt. I, art. XXI (1780); N.H. Const. pt. I, art. XXX (1784) (substituting "action, complaint, or prosecution" for "accusation or prosecution, action or complaint"); Vt. Const. ch. I, art. XVI (1786) (omitting "either house of" and substituting "can not" for "cannot").
+
+    8.    I call the clause a "justification clause" rather than a "purpose clause" because the only thing it indicates on its face is the drafters' justification for the right.  The drafters' purpose might be inferred from the justification, but that's a more complicated endeavor.  For instance, it's not clear whether the purpose of the Rhode Island Free Press Clause, R.I. Const. art. I, § 20 (1842), see supra text accompanying note 4, should be seen as preserving "the security of freedom in a state," or preserving "the liberty of the press [in order to further] the security of freedom in a state."  If it's the former, then only part of the justification clause -- the second half -- would be properly called the purpose clause.  Cf. U.S. Const. art. I, § 8, cl. 8 -- "The Congress shall have Power . . . To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries . . . ." -- in which the introductory clause seems to be more explicitly a purpose provision.
+
+    9.    Several early states, such as Kentucky and Pennsylvania, had more than one constitution even in the late 1700s.  See, e.g., Kent. Const. (1792); Kent. Const. (1799); Pa. Const. (1776); Pa. Const. (1790).
+
+    10.    See, e.g., N.J. Const. art. XX (1776) (barring judges and executive officials from serving in legislature, to avoid "all suspicion of corruption"); Va. Const. Bill of Rights §§ 14, 16 (1776) (asserting that "the people have a right to uniform government," justifying single state government, and that "religion . . . can be directed only by reason and conviction," justifying religious freedom).  Had James Madison had his way, the Bill of Rights would have included two more justification clauses.  His original draft of the Free Press Clause read "the freedom of the press, as one of the great bulwarks of liberty, shall be inviolable"; his original draft of the Civil Jury Trial Clause read "In suits at common law, between man and man, the trial by jury, as one of the best securities to the rights of the people, ought to remain inviolate."  1 Annals of Cong. 451, 453 (Joseph Gales ed., 1789).
+
+    11.    I assume here that lessons from early state Bills of Rights can be valuable in understanding the federal Bill of Rights; the provisions were written more or less at the same time, came from the same legal culture, and were much influenced by one another.  This is certainly the Supreme Court's view.  See, e.g., Harmelin v. Michigan, 501 U.S. 957, 966 (1991) (examining Eighth Amendment in light of contemporaneous state constitutional provisions on punishment); Taylor v. Illinois, 484 U.S. 400, 407 & n.13 (1988) (interpreting Sixth Amendment's Compulsory Process Clause in light of contemporaneous state constitutional provisions on criminal defendant's right to establish elements of his case); Marshall v. Barlow's, Inc., 436 U.S. 307, 311 (1978) (using Virginia Bill of Rights as aid in interpreting Fourth Amendment's Warrant Clause).
+
+    12.    David C. Williams, Civic Republicanism and the Citizen Militia: The Terrifying Second Amendment, 101 Yale L.J. 551 (1991), takes essentially this view.  Professor Williams argues that the well-regulated militia protects the security of a free State only so long as pretty much everyone has arms, and so long as the arms-bearers are "virtuous," id. at 554; because this is no longer the case, he argues that the right is essentially "meaningless" and "outdated," id. at 554-55.  See also Christopher L. Eisgruber, The Living Hand of the Past: History and Constitutional Justice, 65 Fordham L. Rev. 1611, 1621 n.23 (1997) (suggesting that Second Amendment's justification clause may mean that Amendment protects only those gun rights that support state security, which today may mean no gun rights at all).  For a fuller treatment of Eisgruber's argument, see infra note 27 and accompanying text.
+
+    13.    Cf. Madison Debates of the Federal Convention, H.R. Doc. No. 69-398, at 425 (1926) ("Mr. Govr. MORRIS.  Some check being necessary on the Legislature, the question is in what hands it should be lodged."); The Federalist No. 51, at 348 (James Madison) (Jacob E. Cooke ed., 1961) ("In the constitution of the judiciary department in particular, it might be inexpedient to insist rigorously on the principle: first, because peculiar qualifications being essential in the members, the primary consideration ought to be to select that mode of choice which best secures these qualifications . . . .").
+
+    14.    See, e.g., Brannon P. Denning & Glenn Harlan Reynolds, It Takes a Militia: A Communitarian Case for Compulsory Arms Bearing, 5 Wm. & Mary Bill Rts. J. 185, 202-03 (1996) (arguing that Second Amendment's first clause could be interpreted to impose obligation on federal government to maintain militia).  Some suggest that the "being necessary" clause is not actually a justification clause at all.  Rather, the argument goes, the two clauses are actually two separate provisions, one merely hortatory, praising the militia, and another creating the right entirely independently of the militia.  Some evidence for this proposition comes from the Virginia, New York, North Carolina, and Rhode Island proposals for the federal Bill of Rights, all of which contained two independent clauses:  "That the people have a right to keep and bear arms; that a well regulated Militia composed of the body of the people capable of bearing arms [or, in two proposals, 'trained to arms'] is the proper, natural and safe defence of a free State."  See infra note 32.  This argument is plausible, but ultimately to my mind not persuasive:  In the Second Amendment, the two clauses did end up connected through the "being necessary" locution, which seems to suggest a causal relationship, even if such a relationship wasn't visible in the original proposals.
+
+    15.    N.H. Const. pt. I, art. XVII (1784).
+
+    16.    See, e.g., United States v. Johnson, 323 U.S. 273, 275 (1944); United States v. DiJames, 731 F.2d 758, 762 (11th Cir. 1984); 3 Joseph Story, Commentaries on the Constitution § 1775, at 654 (1833).
+
+    17.    See, e.g., Sheppard v. Maxwell, 384 U.S. 333, 363 (1966).
+
+    18.    See, e.g., 3 Story, supra note 16, § 1775, at 655 (discussing controversy about whether juries that are too local may seem to be prejudiced).
+
+    19.    Cf. Martin v. Hunter's Lessee, 14 U.S. (1 Wheat) 304, 347 (1816) (concluding that "[t]he constitution has presumed (whether rightly or wrongly we do not inquire) that . . . state prejudices . . . might [interfere with] the regular administration of justice," and that this constitutional commitment leads to a certain interpretation of Article III).
+
+    20.    Of course, whenever judges are called on to enforce constitutional provisions, they will inevitably have some discretion to determine what the provisions mean.  But it's one thing to give judges the discretion to resolve textual ambiguities, and quite another to give them the discretion to decide whether a particular provision -- no matter how clear -- no longer makes policy sense and should no longer be enforced.
+
+    21.    There's a hot debate in constitutional theory about original meaning, original intention, and textual fidelity, but I don't mean to engage that debate here; it seems to me that the points I raise here are relevant to our understanding of how the text should be read, regardless of the particular originalist or textualist theory to which one subscribes.  (The argument to which I'm responding -- that the Amendment should be read in a particular way because of the presence of a certain clause -- is an originalist or textualist argument.)
+
+    22.    See, e.g., N.H. Const. pt. I, art. 17 (1978) (providing now for trial in "county or judicial district" rather than just in county, and also containing another exception); Opinion of the Justices, 494 A.2d 259 (N.H. 1985) (interpreting this provision).  Guido Calabresi, in his notable A Common Law for the Age of Statutes (1982), has argued that judges should indeed set aside supposedly obsolete statutes; still, Judge Calabresi correctly doesn't try to extend this principle (which is controversial even in the statutory realm) to constitutional provisions.  To begin with, one key argument in favor of his proposal is that it simply "shift[s]. . . the burden of inertia," merely requiring the legislature to reenact the law if it wants to keep it.  See id. at 121.  This argument doesn't apply when popular reenactment of the law would require the massive supermajoritarian efforts needed to reenact a federal constitutional amendment.  More fundamentally, when the people enact a right aimed at controlling government overreaching, we should be especially suspicious of a branch of the government deciding that this constraint on governmental power is now obsolete.
+
+    23.    Mass. Const. pt. I, art. XXI (1780); see also N.H. Const. pt. I, art. XXX (1784) (substituting "action, complaint, or prosecution" for "accusation or prosecution, action or complaint"); Vt. Const. ch. I, art. XVI (1786) (omitting "either house of" and replacing "cannot" with "can not").
+
+    24.    See United States v. Johnson, 383 U.S. 169, 178 (1966) (locating origins of federal Speech and Debate Clause in "a history of conflict between the [House of] Commons and the Tudor and Stuart monarchs during which successive monarchs utilized the criminal and civil law to suppress and intimidate critical legislators"); 1 Story, supra note 16, § 863, at 328 (discussing effect of congressional privilege).
+
+    25.    See, e.g., 1 Story, supra note 16, § 863 at 328-30 (stating federal Speech and Debate Clause gives immunity for slanders spoken in congressional speeches or debates); Eastland v. United States Servicemen's Fund, 421 U.S. 491, 510 (1975) (describing clause as giving Congressmen immunity for issuance of a subpoena "'even though their conduct, if performed in other than legislative contexts, would in itself be unconstitutional´" as a violation of the First Amendment (quoting Doe v. McMillan, 412 U.S. 306, 312-13 (1973))); Gravel v. United States, 408 U.S. 606, 618 (1972) (stating Congressmen can "with impunity order an unconstitutional arrest" (discussing Kilbourn v. Thompson, 103 U.S. 168 (1881))).
+
+    26.    One can imagine an intermediate position:  A court may nullify a right when the stated purpose is clearly and unarguably no longer applicable.  This, the argument would go, lets courts clean out the unambiguously obsolete provisions, but doesn't let them merely substitute their own policy judgments so long as the matter remains controversial.  I'm not sure this is a sound role for courts to play, especially since provisions that are really so obviously and uncontroversially obsolete could readily be repealed through a conventional amendment.  In any case, this argument can't apply to the Second Amendment precisely because there remains a great deal of controversy about whether its purposes are indeed obsolete.  Many thoughtful people still believe today what Blackstone, Story, and Cooley believed in the 18th and 19th centuries, see infra note 43 -- that an armed citizenry (which, as Part III, infra, points out, is what "militia" has historically meant) is necessary to secure a free State against oppressive government.  See, e.g., Senator Hubert H. Humphrey, Know Your Lawmakers, Guns, Feb. 1960, at 4:
+
+Certainly one of the chief guarantees of freedom under any government, no matter how popular and respected, is the right of the citizens to bear arms. . . . [T]he right of the citizens to bear arms is just one guarantee against arbitrary government and one more safeguard against a tyranny which now appears remote in America, but which historically has proved to be always possible.
+See also Robert J. Cottrol & Raymond T. Diamond, The Second Amendment: Toward an Afro-Americanist Reconsideration, 80 Geo. L.J. 309, 359-61 (1991); David B. Kopel, Lethal Laws, 15 N.Y.L. Sch. J. Int'l & Comp. L. 355, 356 (1995) (reviewing Jay Simkin et al., Lethal Laws (1994)); Levinson, supra note 1, at 656-57; Daniel D. Polsby & Don B. Kates, Jr., Of Holocausts and Gun Control, 75 Wash. U. L.Q. 1237 (1997).  See generally Randy E. Barnett & Don B. Kates, Under Fire:  The New Consensus on the Second Amendment, 45 Emory L.J. 1139, 1228-32 (1996) (giving various reasons why armed citizenry is still useful today).  Perhaps their view is wrong, but it's clear that a court that disregards this view and simply asserts that a well-regulated militia is no longer necessary is indeed implementing its own policy judgments, rather than an objective, unarguable consensus.
+    27.    Eisgruber, supra note 12, at 1611, 1621 n.23; see also Tribe, supra note 1, § 5-2, at 299 n.6 (arguing that purpose specified in preamble shows that the right is limited to those activities that further "a state's ability to have a militia").  This is also the view taken by many courts that have confronted the matter.  See, e.g., Love v. Pepersack, 47 F.3d 120, 124 (4th Cir. 1995) (concluding that right only extends to situations where a particular person's arms ownership "preserve[s] or insure[s] the effectiveness of the militia"); United States v. Hale, 978 F.2d 1016, 1020 (8th Cir. 1992) (stating "the claimant of Second Amendment protection must prove that his or her possession of the weapon was reasonably related to a well regulated militia," and this covers only situations where claimant could show "that he was a member of a military organization [other than the militia itself] or that his use of the weapon was 'in preparation for a military career´" (quoting Cases v. United States, 131 F.2d 916, 923 (1st Cir. 1942))); United States v. Oakes, 564 F.2d 384, 387 (10th Cir. 1977) (denying claimant's right to keep firearm even though member of registered militia-type group because "the purpose of the second amendment as stated . . . in United States v. Miller, [307 U.S. 174, 178 (1939)], was to preserve the effectiveness . . . of the state militia"); United States v. Warin, 530 F.2d 103, 106-07 (6th Cir. 1976) (concluding that defendant's being subject to enrollment in militia does not give right to own submachine gun since such a right would have no "'reasonable relationship to the preservation . . . of a well regulated militia´" (quoting Miller, 307 U.S. at 178)); Brown v. City of Chicago, 250 N.E.2d 129, 131 (Ill. 1969) (citing Burton v. Sills, 248 A.2d 521, 526 (N.J. 1968), for proposition that "regulation which does not impair the maintenance of the state's active, organized militia is not in violation of . . . the second amendment"); State v. Skinner, 203 N.W.2d 161, 162 (Neb. 1973) (citing United States v. Synnes, 438 F.2d 764 (8th Cir. 1971), vacated on other grounds, 404 U.S. 1009 (1972), for proposition that "prohibiting the possession of firearms by felons does not obstruct the maintenance of a well-regulated militia"); City of East Cleveland v. Scales, 460 N.E.2d 1126, 1130 (Ohio Ct. App. 1983) ("Thus, the clauses of the amendment are bound together.  The right of an individual is dependent upon a role in rendering the militia effective.").
+
+    28.    Cf. Militia Act of May 8, 1792, ch. 33, § 1, 1 Stat. 271, 271 (repealed 1903) (requiring all able-bodied adult white male citizens from 18 to 45 to arm themselves).
+
+    29.    See U.S. Const. art. I, § 8, cl. 12.
+
+    30.    See U.S. Const. amends. I, IV; Mass. Const. pt. I, art. XVII (1780); N.C. Const. Decl. of Rights, art. XVII (1776); Pa. Const. Decl. of Rights, cl. XIII (1776); Vt. Const. ch. I, art. XV (1777); see also U.S. Const. amend. IX ("The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.").  The state constitutional provisions restrain state governments, so the rights logically have to belong to individuals rather than to states or to entities whose membership was controlled by the state.  But see Commonwealth v. Davis, 343 N.E.2d 847, 848-49 (Mass. 1976) (holding, in my view indefensibly, that right secured by state constitution belongs only to state-organized force).  Cf., e.g., Wilson v. State, 33 Ark. 557, 560 (1878) (treating provision worded similarly to Massachusetts one as individual right provision, and using it to strike down gun control measure), cited as still good law in Jones v. City of Little Rock, 862 S.W.2d 273, 275 (Ark. 1993); Glasscock v. City of Chattanooga, 11 S.W.2d 678 (Tenn. 1928) (same); Clayton E. Cramer, For the Defense of Themselves and the State 238 (1994) (criticizing Davis).
+
+    31.    See, e.g., Militia Act of May 8, 1792, ch. 33, § 1, 1 Stat. 271, 271 (repealed 1903) (stating "each and every free able-bodied white male citizen of the respective states, resident therein, who is or shall be of the age of eighteen years, and under the age of forty-five years (except as is herein after excepted) shall . . . be enrolled in the militia"); Militia Act, 10 U.S.C. § 311 (1994) (defining militia to consist of "all able-bodied males at least 17 years of age and . . . under 45 years of age [plus some re-enlisted National Guard members up to age 64] who are, or who have made a declaration of intention to become, citizens of the United States and of female citizens of the United States who are members of the National Guard"); Miller, 307 U.S. at 179 ("The signification attributed to the term Militia appears from [late 18th-century writings].  These show plainly enough that the Militia comprised all males physically capable of acting in concert for the common defense.").  State constitutions generally have similar definitions, though some contain slight variations.  Compare Ariz. Const. art. XVI, § 1 (1910); Ark. Const. art. XI, § 1 (1874); Ind. Const. art. XII, § 1 (1851); Iowa Const. art. VI, § 1 (1857); Ky. Const. § 219 (1890); N.M. Const. art. XVIII, § 1 (1911); N.D. Const. art. 13, § 188 (1889); S.C. Const. art. XIII, § 1 (1868); S.D. Const. art. XV, § 1 (1889); Utah Const. art. XV, § 1 (1895); Wyo. Const. art. XVII, § 1 (1889) (referring to all able-bodied male citizens, or sometimes all able-bodied males, from 18 to 45, with other slight variations), with Kan. Const. art. 8, § 1 (1859) (referring to all able-bodied male citizens from 21 to 45) and with Fla. Const. art. 10, § 2 (1968 revision); Ill. Const. art. XII, § 1 (1970); Ind. Const. art. 12, § 1 (1851) (amended 1974); and Mont. Const. art. VI, § 13, cl. 2 (1972) (referring to all able-bodied persons or all able-bodied persons over 17).  See generally Don B. Kates, Jr., Handgun Prohibition and the Original Meaning of the Second Amendment, 82 Mich. L. Rev. 204, 215 n.46 (1983) (stating that militia in colonial times included males aged 15, 16, or 18 through 45, 50, or 60, depending on colony).  Following the Court's sex equality decisions, the militia now probably includes able-bodied women in the proper age category as well as able-bodied men.  See United States v. Virginia, 518 U.S. 515 (1996) (striking down sex classification in context of state military college); Craig v. Boren, 429 U.S. 190 (1976) (holding that sex classifications are constitutional only if substantially related to important state interest).  But see Rostker v. Goldberg, 453 U.S. 57 (1981) (upholding sex classification in context of draft registration law).
+
+    32.    As the original state proposals for the Second Amendment make clear, the "well-regulated militia" refers to this very same adult male citizenry, not to any subset.  See H.R. Doc. No. 69-398, at 1030 (1927) (documenting Rhode Island's proposed amendments to U.S. Constitution: "That the people have a right to keep and bear arms; that a well regulated Militia composed of the body of the people capable of bearing arms, is the proper, natural and safe defence of a free State"); id. at 1036 (documenting New York's proposed amendments to U.S. Constitution, in which right to bear arms amendment is identical to Rhode Island's proposal, except for capitalization); id. at 1047 (documenting North Carolina's proposed amendments to U.S. Constitution: "That the people have a right to keep and bear arms; that a well regulated Militia composed of the body of the people, trained to arms, is the proper, natural and safe defence of a free State"; id. at 1030 (documenting Virginia's proposed amendments to U.S. Constitution, in which right to bear arms amendment is same as in North Carolina formulation except for comma before "trained"); see also Va. Const. Bill of Rights § 13 (1776) ("That a well regulated militia, composed of the body of the people, trained to arms, is the proper, natural, and safe defense of a free state . . . ."); 1 Annals of Cong. 778 (Joseph Gales ed., 1789) (quoting early House draft of Second Amendment that said "[a] well regulated militia, composed of the body of the people, being the best security of a free state, the right of the people to keep and bear arms shall not be infringed . . . .").  Of course, "composed of the body of the people" couldn't mean composed of all the people -- women were excluded, as were the young and the old; but the language strongly suggests that the "well-regulated militia" referred to a major portion of the able-bodied male citizenry, rather than just a select subgroup.  Small, specially recruited groups, such as today's National Guard, were in the late 1700s called "select militias," not "well-regulated" ones, and were widely disliked.  See Joyce L. Malcolm, To Keep and Bear Arms: The Origins of an Anglo-American Right 148 (1994) ("Because of their long-standing prejudice against a select militia as constituting a form of standing army liable to be skewed politically and dangerous to liberty, every state had created a general militia.").  "Well-regulated" appears to have meant "well-disciplined" or "well-functioning."  See 13 Oxford English Dictionary 524 (2d ed. 1989) (offering definition "regulated . . . . b. Of troops: Properly disciplined.  Obs. rare [providing example from 1690] . . . ."); cf., e.g., Articles of Confederation art. VI, ¶ 4 (insisting that "every State shall always keep up a well regulated and disciplined militia, sufficiently armed and accoutred"); Mayor of New York v. Miln, 36 U.S. (11 Pet.) 102, 128 (1837) ("The object of all well-regulated governments is, to promote the public good, and to secure the public safety"); Olney v. Arnold, 3 U.S. (3 Dall.) 308, 314 (1796) (discussing "the policy of all well-regulated, particularly of all republican governments"); The Federalist No. 6, at 32 (Alexander Hamilton) (Jacob E. Cooke ed., 1961) ("Sparta was little better than a well regulated camp"); The Federalist No. 83, at 567 (Alexander Hamilton) (Jacob E. Cooke ed., 1961) ("The capricious operation of so dissimilar a method of trial in the same cases, under the same government, is of itself sufficient to indispose every well regulated judgment towards it").  See generally Glenn Harlan Reynolds, A Critical Guide to the Second Amendment, 62 Tenn. L. Rev. 461, 474 (1995).
+
+    33.    I stress here men over 45 because they are a clear example of people who were uncontroversially full-fledged members of the polity, including many of its leaders, but not members of the militia.  Women, though, would probably be included too.  To my knowledge, they were seen as members of "the people" -- I assume that the Fourth Amendment right of the people to be free from unreasonable searches and seizures, for instance, was seen as protecting women as well as men -- and at least one early case, Nunn v. State, 1 Ga. 243, 251 (1846), specifically stated that "the right of the people to bear arms" includes both men and women.
+
+    34.    See, e.g., Militia Act of May 8, 1792, ch. 33, § 2, 1 Stat. 271, 272 (repealed 1903) (excluding from militia service Vice-President, judicial, executive, and legislative officers of U.S. government, custom-house officers and clerks, postal officers, post-office stage drivers and ferrymen, export inspectors, pilots, and mariners employed in private sea service).
+
+    35.    N.H. Const. pt. I, art. XXVII (1784).
+
+    36.    See, e.g., State v. Jackson, 90 A. 791, 792 (N.H. 1914) (holding that "county" means county; even if county is subdivided into districts, jurors may come from anywhere in county).
+
+    37.    N.H. Const. pt. I, art. XXIII (1784).
+
+    38.    See, e.g., Usery v. Turner Elkhorn Mining Co., 428 U.S. 1, 18 (1976) (upholding retroactive application of liability for black lung disease).  The federal Ex Post Facto Clauses bar only retroactive criminal laws, see Calder v. Bull, 3 U.S. (3 Dallas) 386, 390-91 (1798), as do many contemporaneous state ex post facto provisions, see infra note 81 and accompanying text.
+
+    39.    Frederick Schauer explains this splendidly with regard to the Court's Free Speech Clause doctrine, in The Second-Best First Amendment, 31 Wm. & Mary L. Rev. 1, 15-18 (1989) ("Wary . . . of the mistakes that might be made in direct application of [the] background justifications for [freedom of speech] the 'make no law abridging the freedom of speech´ instruction substitutes the built-in errors of underinclusion and overinclusion for the errors . . . attendant to a more maximally precise particularistic evaluation."); see also Richard H. Fallon, Jr., The Supreme Court, 1996 Term -- Foreword: Implementing the Constitution, 111 Harv. L. Rev. 54, 82 n.146 (1997) (pointing out that "[r]ules are almost always either underinclusive or overinclusive as measured by their background justifications," but they nonetheless make sense when we distrust decisionmakers' ability to apply the background justifications directly); id. at 118 ("[F]or a rule to work as a rule, it must have some capacity . . . to bar direct appeal to its underlying rationale.").
+
+    40.    See supra notes 31-32 and accompanying text.
+
+    41.    See, e.g., Md. Const. art. I, § 25 (1776); N.H. Const. pt. I, art. I, § 24 (1784); Va. Const. Bill of Rights § 13 (1776).
+
+    42.    See William Van Alstyne, The Second Amendment and the Personal Right to Arms, 43 Duke L.J. 1236, 1242-43 (1994).
+
+    43.    See 1 William Blackstone, Commentaries on the Laws of England *143-*144 (1765) ("The fifth and last auxiliary right of the subject . . . is that of having arms for their defence, suitable to their condition and degree, and such as are allowed by law . . . [which] is indeed a public allowance, under due restrictions, of the natural right of resistance and self-preservation, when the sanctions of society and laws are found insufficient to restrain the violence of oppression."); Thomas Cooley, The General Principles of Constitutional Law in the United States of America 270 (1880) ("The right [to keep and bear arms] was meant to be a strong moral check against the usurpation and arbitrary power of rulers, and as a necessary and efficient means of regaining rights when temporarily overturned by usurpation."); Joseph Story, A Familiar Exposition of the Constitution of the United States § 450, at 264 (1840) ("One of the ordinary modes, by which tyrants accomplish their purposes without resistance, is, by disarming the people, and making it an offence to keep arms, and by substituting a regular army in the stead of a resort to the militia.  The friends of a free government cannot be too watchful, to overcome the dangerous tendency of the public mind to sacrifice, for the sake of mere private convenience, this powerful check upon the designs of ambitious men.").
+
+    44.    See Lund, supra note 3, at 35-36 (arguing that "prefatory language of the Second Amendment conveys a rhetorical respect" for the "traditional republican" view preferring militias over standing armies) (citing David T. Hardy, The Second Amendment and the Historiography of the Bill of Rights, 4 J.L. & Pol. 1, 49-50 (1987)); see also Malcolm, supra note 32, at 154-55, 163-64 (concluding that "[t]he clause concerning the militia was . . . intended to express the preference for a militia over a standing army").
+
+    45.    U.S. Const. preamble.  See U.S. Term Limits, Inc. v. Thornton, 514 U.S. 779, 838 (1995) (appealing to "more perfect Union" language in Preamble).  Cf. Hess v. Port Auth. Trans-Hudson Corp., 513 U.S. 30, 54 (1994) (Stevens, J., concurring) (appealing to Preamble's "establish Justice" language).
+
+    46.    See supra text accompanying note 35.
+
+    47.    See infra text accompanying notes 67-74.
+
+    48.    307 U.S. 174 (1939).
+
+    49.    Id. at 178.  But see Lund, supra note 3, at 43-44 (arguing that Miller viewed right's purposes too narrowly).
+
+    50.    See supra Part III.
+
+    51.    See, e.g., Joel Prentiss Bishop, Commentaries on the Written Laws and Their Interpretation § 48 (1882) ("As showing the inducements to the act, [the preamble] may have a decisive weight in a doubtful case.  But where the body of the statute is distinct, it will prevail over a more restricted preamble.") (footnote omitted); Fortunatus Dwarris, A General Treatise on Statutes 655 (1830) ("In doubtful cases, recourse may be had to the preamble, to discover the inducements the legislature had to the making of the statute; but where the terms of the enacting clause are clear and positive, the preamble cannot be resorted to."); Theodore Sedgwick, A Treatise on the Rules Which Govern the Interpretation and Application of Statutory and Constitutional Law 55 (1857) ("[The] body of the act may even be restrained by the preamble, when no inconsistency or contradiction results.  But it is well settled that where the intention of the Legislature is clearly expressed in the [body], the preamble shall not restrain it, although it be of much narrower import.") (footnote omitted); E. Fitch Smith, Commentaries on Statute and Constitutional Law and Statutory and Constitutional Construction §§ 562, 567, 573 (1848) (noting preambles should not alter meaning of otherwise clear statute).  Justice Story concludes that the Preamble to the Constitution
+
+is properly resorted to, where doubts or ambiguities arise upon the words of the enacting part, . . . [but] never can be resorted to, to enlarge the powers confided to the general government . . . [I]t can never amount, by implication, to an enlargement of any power expressly given.  It can never be the legitimate source of any implied power, when otherwise withdrawn from the constitution.
+1 Story, supra note 16, § 459, at 462.  Story is speaking here about the explicit grants of power in Article I, but the same should be applicable to the explicit reservation of power in the Bill of Rights.  Accord, e.g., Beard v. Rowan, 34 U.S. (9 Pet.) 301, 317 (1835); Ware v. Hylton, 3 U.S. (3 Dall.) 199, 233 (1796) (Chase, J.); Jones v. Walker, 13 F. Cas. 1059, 1065 (C.C.D. Va. n.d.) (No. 7507) (Jay, Circuit Justice); Kent v. Somervell, 7 G. & J. 265, 274-75 (Md. 1835); Holbrook v. Holbrook, 18 Mass. (1 Pick.) 248, 251 (1822); Jackson v. Gilchrist, 15 Johns. 88, 116 (N.Y. 1818); Seidenbender v. Charles, 4 Serg. & Rawle 151, 164-66, 172 (Pa. 1818); Salkeld v. Johnston, 66 Eng. Rep. 1004, 1008-09 (V.C. 1842); Foster v. Banbury, 57 Eng. Rep. 915, 916 (V.C. 1829); Emanuel v. Constable, 38 Eng. Rep. 639, 640 (M.R. 1827); Lees v. Summersgill, 34 Eng. Rep. 197, 198 (M.R. 1811); King v. Marks, 102 Eng. Rep. 557, 559 (K.B. 1802); Crespigny v. Wittenoom, 100 Eng. Rep. 1304, 1305-06 (K.B. 1792); Kinaston v. Clark, 26 Eng. Rep. 526, 527 (K.B. 1741); King v. Athos, 88 Eng. Rep. 104, 109 (K.B. 1723); Copeman v. Gallant, 24 Eng. Rep. 404, 407 (Ch. 1716); cf. Halton v. Cove, 109 Eng. Rep. 887, 895 (K.B. 1830) (following same general rule, but seeming to lay more stress on preamble).  Nor was this interpretive canon simply makeweight:  For cases in which the court followed the text despite the seeming incongruity with the preamble, see Kent, 7 G. & J. at 274-75; Seidenbender, 4 Serg. & Rawle at 164-66, 172; Marks, 102 Eng. Rep. at 559; Lees, 34 Eng. Rep. at 198; Athos, 88 Eng. Rep. at 109.
+    52.    N.H. Const. pt. I, art. XVII (1784).
+
+    53.    Cf. State v. Thompson, 20 N.H. 250, 254-55 (1850) (reaching this result on other grounds).
+
+    54.    R.I. Const. art. I, § 20 (1842) (emphasis added).
+
+    55.    Id.
+
+    56.    I firmly believe this latter proposition, and I'd wager that many judges would believe it, too.
+
+    57.    I assume here that the free press provision protects against more than just prior restraints, a matter that was hotly debated in the 19th century.  See generally Case of Fries, 9 F. Cas. 826, 839-40 (C.C.D. Pa. 1799) (No. 5126) (stating that freedom of press protects only against prior restraints); James Madison, Report to the General Assembly of Virginia, reprinted in The Kentucky-Virginia Resolutions and Mr. Madison's Report of 1799, at 60 (Virginia Comm'n on Constitutional Gov't ed., 1960) (stating that freedom of press goes beyond prior restraints); 1 St. George Tucker, Blackstone's Commentaries: With Notes of Reference app. 18-19 (1803) (same); Respublica v. Dennie, 4 Yeates 267, 269-70 (Pa. 1805) (concluding that right protects speech which is not "abuse of [the] liberty" against subsequent punishment, and leaving it to jury to decide whether speech was indeed abuse); 2 Story, supra note 16, § 1874, at 732-33 (seeming to suggest on one hand that right protects only against prior restraints, but on other that right extends to protection against subsequent punishments, guaranteeing "that every man shall be at liberty to publish what is true, with good motives and for justifiable ends"); Thomas M. Cooley, A Treatise on the Constitutional Limitations 421-22 (1868) (arguing that "mere exemption from previous restraints cannot be all that is secured by the [various state and federal] constitutional provisions"; essentially defining unprotected abuse as "publications [that] from their blasphemy, obscenity, or scandalous character, may be a public offence, or as by their falsehood and malice they may injuriously affect the standing, reputation, or pecuniary interests of individuals").
+
+    58.    See Ky. Const. art. XII, § 23 (1792); Mass. Const. pt. I, art. XVII (1780); N.C. Const. Decl. of Rights art. XVII (1776); Pa. Const. Decl. of Rights cl. XIII (1776); Vt. Const. ch. I, art. XV (1777).  But cf. Commonwealth v. Davis, 343 N.E.2d 847, 848-49 (Mass. 1976). See supra note 30 for discussion and criticism of Davis.
+
+    59.    But see, e.g., Stevens v. United States, 440 F.2d 144, 149 (6th Cir. 1971) (reading United States v. Miller, 307 U.S. 174 (1939), in my view erroneously, to say that "the Second Amendment right 'to keep and bear Arms' applies only to the right of the State to maintain a militia and not to the individual's right to bear arms").
+
+    60.    See Miller, 307 U.S. at 174.
+
+    61.    See id. at 182.  This absence of evidence might have been because there was never a trial: After the trial court dismissed the indictment on Second Amendment grounds, Miller and his codefendant Layton disappeared.  See David B. Kopel & Christopher C. Little, Communitarians, Neorepublicans, and Guns: Assessing the Case for Firearms Prohibition, 56 Md. L. Rev. 438, 533, 535 (1997).
+
+    62.    See Miller, 307 U.S. at 178.
+
+    63.    Id.
+
+    64.    It is also inconsistent with the justification clause.  See supra note 43 (quoting Blackstone, Cooley, and Story).  The Second Amendment was meant to protect against tyranny by keeping arms in private hands, not just in the hands of state governments.  All the leading late 1700s and 1800s authorities took the view that an armed citizenry protected "the security of a free State" by keeping its own private arms.  See Cooley, supra note 43, at 298 ("The meaning of the provision undoubtedly is, that the people, from whom the militia must be taken, shall have the right to keep and bear arms, and they need no permission or regulation of law for the purpose."); Story, supra note 43, at 265 (writing specifically of "[t]he right of the citizens to keep and bear arms").  The source for the Second Amendment -- the "right of the subject" to have arms guaranteed by the English Bill of Rights, see Blackstone, supra note 43, at *143-*144 -- of course referred to private possession of arms, since there were no sovereign states in England.
+
+    65.    Ind. Const. art. I, § 20 (1816) (emphasis added); see also Ky. Const. art. XII, § 23 (1792) (changing spelling of "defense" to "defence"); Mo. Const. art. XIII, § 3 (1820) (using Kentucky formulation but inserting "of" after "and"); Ohio Const. art. VIII, § 20 (1802) (using Kentucky formulation); Pa. Const. Decl. of Rights cl. XIII (1776) (same); Vt. Const. ch. I, art. XV (1777) (same).
+
+    66.    See U.S. Const. art. I, § 8, cl. 15 (giving Congress power "[t]o provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions"); U.S. Const. art. I, § 8, cl. 16 (giving Congress power "[t]o provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the Militia according to the discipline prescribed by Congress"); cf. Reynolds & Kates, supra note 2, at 1743-49 (suggesting that under states' right theory, Second Amendment would have to be interpreted as substantially limiting or even repealing Militia Clauses).
+
+    67.    N.H. Const. pt. I, art. XXII (1784); see also Mass. Const. pt. I, art. XVI (1780) ("The liberty of the press is essential to the security of freedom in a state it ought not, therefore, to be restricted in this commonwealth.").
+
+    68.    R.I. Const. art. I, § 20 (1842).
+
+    69.    N.C. Const. Decl. of Rights art. XV (1776).
+
+    70.    Pa. Const. Decl. of Rights art. XII (1776).
+
+    71.    H.R. Doc. No. 69-398, at 1030 (1927) (documenting Virginia's proposed amendments to the U.S. Constitution); see also id. at 1047 (documenting North Carolina's proposed amendments to U.S. Constitution; following Virginia form but capitalizing "liberty" and altering punctuation); id. at 1054 (documenting Rhode Island's proposed amendments to U.S. Constitution; following Virginia form but replacing "the" with "that" and altering punctuation).
+
+    72.    1 Annals of Cong. 451 (Joseph Gales ed., 1789) (documenting Madison's proposed amendments to the U.S. Constitution).
+
+    73.    Mass. Const. pt. I, art. XXI (1780); see also N.H. Const. pt. I, art. XXX (1784) (using Massachusetts formulation but replacing "accusation" with "action, complaint"); Vt. Const. ch. I, art. XVI (1786) (using Massachusetts formulation but omitting "either house of" and replacing "cannot" with "can not").
+
+    74.    Ark. Const. art. II, § 7 (1836); see also Ill. Const. art. VIII, § 22 (1818) (replacing semicolon and dash with comma and adding comma following "write"); Ind. Const. art. I, § 9 (1816) (setting off "and opinions" with commas, and following "write" with comma instead of dash); Ky. Const. art. XII, § 7 (1792) (same as Illinois); La. Const. art. VI, § 21 (1812) (same as Illinois but deleting comma after "write"); Mo. Const. art. XIII, § 16 (1820) (same as Illinois, but beginning with "That" and with "that" before "every"); Pa. Const. art. IX, § 7 (1790) (same as Illinois but with semicolon following "man"); Tenn. Const. art. XI, § 19 (1796) (same).
+
+    75.    N.H. Const. pt. I, art. XVII (1784).
+
+    76.    Id. pt. I, art. XXI.
+
+    77.    H.R. Doc. No. 69-398, at 1029 (1927) (documenting Virginia's proposed amendments to U.S. Constitution); id. at 1046 (documenting North Carolina's proposed amendments to U.S. Constitution; same as Virginia's but with "Jury" and "Securities" not capitalized).
+
+    78.    Id. at 1036 (documenting New York's proposed amendments to U.S. Constitution).
+
+    79.    Id. at 1054 (documenting Rhode Island's proposed amendments to U.S. Constitution).
+
+    80.    1 Annals of Cong. 453 (Joseph Gales ed., 1789) (documenting Madison's original proposed amendments to the U.S. Constitution).
+
+    81.    Fla. Const. art. I, § 18 (1838); see also Md. Const. Decl. of Rights art. XV (1776) (replacing "acts" with "facts" and "shall ever be made" with "ought to be made," and omitting "penal or"); N.C. Const. Decl. of Rights art. XXIV (1776) (same as Maryland); Tenn. Const. art. XI, § 11 (1796) ("That laws made for the punishment of facts committed previous to the existence of such laws, and by them only declared criminal, are contrary to the principles of a free government; wherefore no ex post facto law shall be made.").
+
+    82.    N.H. Const. pt. I, art. XXIII (1784).
+
+    83.    R.I. Const. art. I, § 14 (1842).
+
+    84.    Mass. Const. pt. I, art. XIV (1780); see also N.H. Const. pt. I, art. XIX (1784) (replacing "has" with "hath," and adding commas following "searches," "seizures," and "oath," and semicolon following "affirmation").
+
+    85.    Pa. Const. Decl. of Rights art. X (1776); see also Vt. Const. ch. I, art. XI (1777) (replacing comma following "search and seizure" with semicolon and "his, her or their" with "his or their," and inserting comma following "warrants").
+
+    86.    H.R. Doc. No. 69-398, at 1030 (1927) (documenting Virginia's proposed amendments to U.S. Constitution); see also id. at 1046 (documenting North Carolina's proposed amendments to U.S. Constitution; spelling "siezures" and "sieze" correctly; inserting "his" between "and" and "property"; eliminating capitalization of "Oath"; and altering punctuation).
+
+    87.    Id. at 1036 (1927) (documenting New York's proposed amendments to U.S. Constitution); see also id. at 1054 (documenting Rhode Island's proposed amendments to U.S. Constitution; replacing "Freeman" with "person"; spelling "seizures" and "seize" as "seisures" and "seise"; eliminating capitalization of "Warrants," "Oath," and "Affirmation"; inserting "his" between "or" and "property"; and altering punctuation).
+
+    88.    Vt. Const. ch. I, art. I (1777).
+
+    89.    N.H. Const. pt. I, art. IX (1784).
+
+    90.    Id. pt. I, art. XXXVI.
+
+    91.    Md. Const. Decl. of Rights art. XXXIII (1776).
+
+    92.    Va. Const. Bill of Rights § 16 (1776).
+
+    93.    N.Y. Const. art. XXXVIII (1777).
+
+    94.    R.I. Const. art. I, § 3 (1842).
+
+    95.    Del. Const. art. I, § 1 (1792).
+
+    96.    H.R. Doc. No. 69-398, at 1030-31 (1927) (documenting Virginia's proposed amendments to U.S. Constitution); see also id. at 1047 (documenting North Carolina's proposed amendments to U.S. Constitution; identical except adding commas after first "religion" and "it"); id. at 1053 (same).
+
+    97.    Ill. Const. art. VIII, § 14 (1818).
+
+    98.    N.H. Const. pt. I, art. XVIII (1784); see also Ohio Const. art. VIII, § 14 (1802):
+
+All penalities shall be proportioned to the nature of the offence.  No wise legislature will affix the same punishment to the crimes of theft, forgery, and the like, which they do to those of murder and treason.  When the same undistinguished severity is exerted against all offences, the people are led to forget the real distinction in the crimes themselves, and to commit the most flagrant with as little compunction as they do the slightest offences.  For the same reasons, a multitude of sanguinary laws are both impolitic and unjust; the true design of all punishments being to reform, not to exterminate, mankind.
+    99.    Ohio Const. art. VIII, § 23 (1802).
+
+    100.    Del. Const. art. I, § 16 (1792).
+
+    101.    Md. Const. Decl. of Rights art. XXX (1776).
+
+    102.    Mass. Const. pt. I, art. XXIX (1780); see also N.H. Const. pt. I, art. XXXV (1784) (replacing "supreme" with "supreme (or superior)").
+
+    103.    Md. Const. Decl. of Rights art. XXXIX (1776).  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
