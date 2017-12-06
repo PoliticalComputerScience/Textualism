@@ -69,7 +69,6 @@ def get_coords_from_svd_projection(V, model, words, verbose=False):
 """
 Main utility method for any users of this file. Bundles up three sub-processes to allow you 
 to get a three dimensional space on which to plot the similar words to the given one based on some model
-
 The current method computes the svd of the similar words, along with the original word, but throws out words of length
 2 or smaller by default.
 """

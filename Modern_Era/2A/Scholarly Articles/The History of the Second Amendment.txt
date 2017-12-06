@@ -1,0 +1,1417 @@
+Valparaiso University Law Review
+Volume 28
+Number 3 pp.1007-1039
+Spring 1994
+The History of the Second Amendment
+David E. Vandercoy
+This Article is brought to you for free and open access by the Valparaiso
+University Law School at ValpoScholar. It has been accepted for inclusion
+in Valparaiso University Law Review by an authorized administrator of
+ValpoScholar. For more information, please contact a ValpoScholar staff
+member at scholar@valpo.edu.
+Recommended Citation
+David E. Vandercoy, The History of the Second Amendment, 28 Val. U. L. Rev. 1007 (1994).
+Available at: http://scholar.valpo.edu/vulr/vol28/iss3/5
+THE HISTORY OF THE SECOND AMENDMENT
+DAVID E. VANDERCOY*
+A well regulated Militia, being necessary to the
+security of a free State, the right of the people to
+keep and bear Arms, shall not be infringed.'
+I. INTRODUCTION
+Long overlooked or ignored, the Second Amendment has become the object
+of some study and much debate. One issue being discussed is whether the
+Second Amendment recognizes the right of each citizen to keep and bear arms,2
+or whether the right belongs solely to state governments and empowers each
+state to maintain a military force.3
+The debate has resulted in odd political alignments which in turn have
+caused the Second Amendment to be described recently as the most
+embarrassing provision of the Bill of Rights.4 Embarrassment results from the
+politics associated with determining whether the language creates a state's right
+or an individual right. Civil libertarians support the individual rights recognized
+in the First, Fourth, Fifth, and Sixth Amendments and defend these rights
+against governmental abuse. Civil libertarians insist that each citizen be
+accorded the right to free speech, even if the citizen is a Nazi hatemonger.
+Similarly, criminals can count on a vigorous defense of the fourth amendment
+right to be free from unreasonable searches as well as the fifth amendment right
+not to incriminate oneself. All of this is true even though most of us would
+* Professor of Law, Valparaiso University School of Law.
+1. U.S. CONST. amend I.
+2. See generally David I. Caplan, Restoring the Balance: The Second Amendment Revisited,
+5 FORDHAM URB. L.J. 31, 40-41 (1976) (arguing that the first Congress stated that a well-regulated
+militia was "necessary" to the security of a free state, not just "sufficient," and that Congress
+recognized that the ordinary processes of law may be insufficient to protect the people at all times).
+3. See generally Keith A. Ehrman & Dennis A. Henigan, The Second Amendment in the
+Twentieth Century: Have You Seen Your Militia Lately?, 15 U. DAYTON L. REV. 5, 57 (1989)
+(arguing that the Framers' intent behind the Second Amendment was to assure the states that they
+would retain the right to an organized and effective militia, not to create broad individual rights);
+Peter B. Feller & Karl L. Gotting, The Second Amendment: A Second Look, 61 Nw. U. L. REV.
+46, 67-70 (1966) (asserting that the Second Amendment refers to the collective right of the body
+politic of every state to be protected by an independent state militia).
+4. See Nelson Lund, The Second Amendment, Political Liberty, and the Right to SelfPreservation,
+39 ALA. L. REV. 103 (1987); Sanford Levinson, The Embarrassing Second
+Amendment, 99 YALE L.J. 637 (1989).
+1007
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1008 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+agree that Nazi hate language is of no utility, and a criminal's confession, absent
+coercion, and the fruits of a search of his or her house are among the best
+indicators of actual guilt or innocence. Yet, we zealously defend these rights
+on the premise that governmental abuse of power is a greater evil than that
+posed by individual hatemongers or criminals.
+In the context of the Second Amendment, civil libertarian instincts are
+overcome by our fear of one another. As a consequence, we find civil
+libertarian organizations, such as the American Civil Liberties Union (ACLU),
+acting as participants in such groups as the National Coalition to Ban
+Handguns.' Indeed, the ACLU, typically at the forefront of defending
+individual rights against an encroaching government, takes the position that the
+Second Amendment protects only the state's right to an organized military-a
+well-regulated militia. It rejects any suggestion that the Second Amendment
+protects an individual right.
+While this phenomenon is interesting, it is not the subject of this Article.
+My purpose is much narrower. I will address the history of the Second
+Amendment and attempt to define its original intent. I will not suggest that
+original intent is controlling. On this point, I am reminded that George
+Washington once suggested, "Individuals entering into society, must give up a
+share of liberty to preserve the rest. The magnitude of the sacrifice must
+5. See Don P. Kates, Jr., Handgun Prohibition and the Original Meaning of the Second
+Amendment, 82 MICH. L. REV. 204, 207 (1983). The ACLU's summary of its national board's
+action at the June 14-15, 1980, meeting sets out the following policy considerations:
+The setting in which the Second Amendment was proposed and adopted
+demonstrates that the right to bear arms is a collective one existing only in the collective
+population of each state for the purpose of maintaining an effective state militia.
+The ACLU agrees with the Supreme Court's long-standing interpretation of the
+Second Amendment that the individual's right to bear arms applies only to the
+preservation of efficiency of a well regulated militia. Except for lawful police and
+military purposes, the possession of weapons by individuals is not constitutionally
+protected. Therefore there is no constitutional impediment to the regulation of firearms.
+Nor does the ACLU believe that there is a significant civil liberties value, apart
+from the Second Amendment, in an individual right to own or use firearms. Interests
+of privacy and self expression may be involved in any individual's choice of activities
+or possessions, but these interests are attenuated when the activity, or the object sought
+[sic] to be possessed is inherently dangerous to others. With respect to firearms, the
+ACLU believes that this quality of dangerousness justifies legal, regulation which
+substantially restricts the individual's interest in freedom of choice.
+Id. at 207 n. 15. At the same meeting, the board approved the following clarification: "It is the
+sense of this body that the word 'justifies' in the policy means we will affirmatively support gun
+control legislation." Id.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1009
+depend as well on situation and circumstance, as on the object to be obtained."
+The purpose of this Article is only to define those shares of liberty the
+Framers intended to retain and those given up in the context of the Second
+Amendment. By way of preview, this Article will contend that the original
+intent of the Second Amendment was to protect each individual's right to keep
+and bear arms, and to guarantee that individuals acting collectively could throw
+off the yokes of any oppressive government which might arise. Thus, the right
+envisioned was not only the right to be armed, but to be armed at a level equal
+to the government.
+To determine the original intent of the Second Amendment, this Article will
+examine the history of armed citizens in England, the Federalist and
+Antifederalist debates, the meaning of the word "militia," the constitutional
+ratification process, and the various state constitutions in existence at the time.
+II. THE RIGHTS OF ENGLISHMEN
+Eighteenth-century commentators frequently discussed the evils of standing
+armies.' Blackstone observed that professional soldiers endangered liberty!
+In free states, the defense of the realm was considered best left to citizens who
+took up arms only when necessary and who returned to their communities and
+occupations when the danger passed.9 Standing armies were viewed as
+instruments of fear intended to preserve the prince.'0
+A. The Establishment of the English Citizen Army
+Blackstone credits King Alfred, who ruled England from 871 to 901 A.D.,
+as establishing the principle that all subjects of his dominion were the realm's
+soldiers."' Other commentators trace the obligation of Englishmen to serve in
+6. George Washington further stated, "It is at all times difficult to draw with precision the line
+between those rights which must be surrendered, and those which may be preserved . . . ." See
+Letter from George Washington to the President of Congress (Sept. 17, 1787) in 1 DOCUMENTARY
+HISTORY OF THE RATIFICATION OF THE CONSTITUTION 305 (John P. Kaminski et al. eds., 1983).
+7. See JOHN P. REID, IN DEFIANCE OF THE LAw: THE STANDING-ARMY CONTROVERSY, THE
+TWO CONSTITUTIONS, AND THE COMING OF THE AMERICAN REVOLUTION 79-85 (1981).
+8. 1 WILLIAM BLACKSTONE, COMMENTARIES *320 [hereinafter COMMENTARIES].
+9. See generally Leon Friedman, Conscription and the Constitution: The Original Understanding,
+67 MICH. L. REV. 1493 (1969) (explaining that the existence of a standing army during
+peacetime was widely condemned as a threat to liberties).
+10. Id.
+11. COMMENTARIES, supra note 8, at *321.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1010 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+the people's army to 690 A.D.' 2 Regardless of the beginning date, an
+Englishman's obligation to serve in a citizen army is an old proposition.
+Coupled with this obligation to defend the realm was the obligation to provide
+oneself with weapons for this purpose.' 3
+King Henry II formalized his subjects' duties in 1181 by issuing the Assize
+of Arms.' 4 The arms required varied depending on the subjects' wealth, with
+the poorest freemen obligated to provide the least-an iron helmet and a
+lance. "5 The Assize required not only arms to be possessed, but precluded the
+possessor from selling, pledging, or in any other way alienating the weapons. 6
+In 1253, the armed population was expanded beyond freemen to include serfs,
+individuals bound to the land and the land's owner.17 Serfs were required to
+procure a spear and dagger.'"
+Inclusion of serfs in the citizen army was related to the mustering of men
+and arms which occurred early in 1253 for purposes of crossing the sea to
+Gascavy and supporting the realm against the King of Castile. 9 Another
+general levy occurred in 1297, which directed all men possessing land to a value
+of twenty pounds to provide themselves with horses and arms and to come to
+London for purposes of service in France.' °
+B. The Tudor Period
+The citizen-army concept continued to develop through the Tudor period.
+Henry VIII decreed that fathers must purchase longbows for sons between seven
+and fourteen years of age and teach them to shoot."' Each citizen between the
+age of fourteen and forty years was required to own and use a longbow unless
+12. David T. Hardy, Armed Citizens, Citizen Armies: Toward a Jurisprudence of the Second
+Amendment, 9 HARV. J.L. & PUB. POL'Y 559, 562 (1986) [hereinafter Hardy, Armed Citizens].
+13. William S. Fields &-David T. Hardy, The Militia and the Constitution: A Legal History,
+136 MIL. L. REv. 1, 8 (1992).
+14. See Arthur Allen Left, The LeffDictionary of Law: A Fragment, 94 YALE L.J. 1855, 2078
+(1985).
+15. 2 ENGLISH HISTORICAL DOCUMENTS 416 (David C. Douglas & George W. Greenaway
+eds., 1953) [hereinafter ENGLISH].
+16. See 1 FREDERICK POLLOCK & FREDERIC W. MAITLAND, THE HISTORY OF ENGLISH LAW
+BEFORE THE TIME OF EDWARD I 421-42, 565 (1968).
+17. David T. Hardy, The Second Amendment and the Historiography of the Bill of Rights, 4
+J.L. & POL. 1, 7 (1987) [hereinafter Hardy, Historiography].
+18. Id.
+19. SOURCES OF ENGLISH CONSTITUTIONAL HISTORY 141 (Carl Stephenson & Frederick G.
+Marcham eds., 1937) [hereinafter SOURCES].
+20. Id. at 163.
+21. 3 Hen. 8, ch. 13 (1511).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1011
+disabled.' Queen Elizabeth I formalized the process by issuing instructions
+for general musters of the citizen army in each county.' Commissions were
+issued to various knights to take charge of such musters.2 The purpose of the
+musters was to enable Queen Elizabeth to know the "numbers, qualities, abilities
+and sufficiency of all her subjects in that county .. . .from the age of sixteen
+years upward, that may be found able to bear armour or to use weapons on
+horseback or on foot."' The citizen army, during Queen Elizabeth's reign,
+acquired the name "militia."'
+By the end of the Tudor period, the citizen army or militia concept had
+become a fixed component in English life. The period's commentators
+attributed English military successes to the universal armament practice prevalent
+in England but absent on the continent. 7 Visitors from the continent even
+noticed the stark difference.' Historians suggested that English universal
+armament caused a moderation of monarchial rule and fostered individual
+liberties because the populace had in reserve a check which soon brought the
+fiercest and proudest King to reason: the check of physical force." However,
+the virtues of universal armament and the effect of universal armament on
+monarchial rule had not escaped Parliament's notice.
+C. The Stuart Period
+The early Stuart period was the single most important period in English
+history in terms of shaping the political theory of the American revolutionary
+leaders.' During this period, civil war occurred between Parliament and the
+crown, a King was executed, another King fled to France, a military dictatorship
+22. Id.
+23. SOURCES, supra note 19, at 397.
+24. See, e.g., SOURCES, supra note 19, at 396 (Records Concerning the Militia (1539-1577)).
+25. Id. at 397 (Instructions for General Musters (1572)).
+26. Id. at 396.
+27. JOHN FORTESCUE, THE GOVERNANCE OF ENGLAND, otherwise called THE DIFFERENCE
+BETWEEN AN ABSOLUTE AND A LIMITED MONARCHY 114-15 (C. Plummer ed., rev. ed. 1885).
+Fortescue saw Englishmen as healthy, wealthy, and well armed, "wherefore thai ben myghty, and
+able to resiste the adversaries of this realme, and to beet oper resumes that do, or woldee do them
+wronge. Lo, this is the fruty of Jus polliticum et regale, under which we live." Id.
+28. In 1539, the French ambassador reported that "in Canterbury, and the other towns upon
+the road, I found every English subject in arms who was capable of serving. Boys of 17 and 18
+have been called out without exception of place or person ... " L. BOYNTON, THE ELIZABETHAN
+MILITIA 8-9 (1967).
+29. See generally 3 THOMAS BABBINGTON MACAULAY, THE HISTORY OF ENGLAND FROM THE
+ACCESSION OF JAMES THE SECOND 47 (1900) (1st ed. 1849) (discussing English acceptance of a
+standing army by the end of the Tudor period).
+30. See H. LASKI, THE RISE OF EUROPEAN LIBERALISM (1936); John V. Orth, North Carolina
+Constitutional History, 70 N.C. L. REv. 1759, 1765 (1992).
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1012 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+ruled, supremacy of the English Parliament over the crown was established, and
+Parliament installed a new King and Queen and forced them to accede to a
+Declaration of Rights.31 Throughout this period, various factions sought to
+control the militia and intermittently to disarm opposing factions.32
+James I, the first Stuart monarch, took the Crown in 1603. 33 An agitated
+House of Commons immediately confronted him.' James had proclaimed that
+individuals elected to Parliament could be seated only if certified by the
+chancery; only proper men could be certified.3
+"
+Parliament took the position that it would determine who should be
+seated. 36 The relationship deteriorated, with James frequently asserting that
+Kings hold their thrones by the will of God, not Parliament, and that to dispute
+the King is blasphemy.37 James's position was that the King was the law and
+all rights flowed from the King. Consequently, in 1621, James advised
+Parliament that it existed only by the grace of the King."
+Legal commentators and Parliament assessed the question of the King's
+power differently. Lord Coke argued that the King's prerogative was limited
+to what the law of land allowed him.39 Coke's view was that the law of
+England was composed of only three parts: common law, statute, and
+custom.' Consequently, the King had no power outside of these. Parliament
+pointed out that its powers and liberties were "the ancient and undoubted
+birthright and inheritance of the subjects of England. . . . "' James I tore the
+page containing these words from the Journal of the Commons. 42
+James's son Charles fared no better in his relations with Parliament. In
+31. See THE PARLIAMENT OF WONDERS: COMMON DEBATES 1628 (Robert C. Johnson et al.
+eds., 1977) [hereinafter PARLIAMENT].
+32. Id.
+33. For a general discussion of this area, see 8 SAMUEL R. GARDINER, HISTORY OF ENGLAND
+FROM THE ACCESSION OF JAMES I TO THE OUTBREAK OF THE CIVIL WAR 1603-1642 (1965).
+34. Id.
+35. SOURCES, supra note 19, at 406-07.
+36. SOURCES, supra note 19, at 412-13.
+37. Roy G. Weatherup, Standing Armies and Armed Citizens: An Historical Analysis of the
+Second Amendment, 2 HASTINGS CONST. L.Q. 961, 966-67 (1975) (citing KING JAMES 1, THE
+WORKES OF THE MOST HIGH AND MIGHTIE PRINCE JAMES 529, 531 (1616)).
+38. Weatherup, supra note 37, at 967.
+39. SOURCES, supra note 19, at 441.
+40. Id.
+41. Id. at 429.
+42. Id.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1013
+1628, Parliament enacted the Petition of Right. 3 This petition enumerated
+Charles's violations of the rights of his subjects, including forced loans to the
+Crown, imprisonment without process, quartering of soldiers in English homes
+without the consent of the owner, and the execution of persons pursuant to
+martial law." The King agreed to acknowledge his excesses because he
+needed Parliament's assistance in raising revenues. Charles I thereafter
+dissolved Parliament and refused to call new Parliaments for eleven years.
+Charles I began developing his own army.' Charles attempted to raise
+funds for additional military forces by writs or assessments on each
+individual."7 In addition, ecclesiastical canons were added which advised
+subjects that bearing arms against the King would result in damnation.'
+Scotland went into open rebellion.
+Charles I was forced to call Parliament to session in 1640 for purposes of
+raising additional taxes because of the rebellion. 9 The new Parliament,
+frequently called the Long Parliament because of its extended tenure,' seized
+the opportunity to assert its influence to the detriment of the monarchy.
+Parliament secured for itself the power of dissolving and eliminating the King's
+prerogative courts.3 ' Additionally, Parliament demanded that Lord Strafford,
+the King's leading minister, be removed from his post on the grounds that
+Strafford had raised a standing army in Ireland. 2 The King complied;
+Stratford was executed; and Ireland revolted.
+Swelled with its success in outmaneuvering the King, the Long Parliament
+moved to seize control of the militia."3 The King balked and refused to accede
+to this demand. Parliament moved forward and appointed its own officers to
+43. See Joyce A. McCray Pearson, The Federal and State Bill of Rights: A Historical Look at
+the Relationship Between America's Documents of Individual Freedom, 1993 How. L.J. 43, 46
+(discussing the second antecedent of the federal bill of rights).
+44. SOURCES, supra note 19, at 450-52.
+45. 2 HISTORICAL COLLECTIONS 257 (J. Rushworth ed., 1721).
+46. References to this army appear at SOURCES, supra note 19, at 490 (The Nineteen
+Propositions, June 1, 1642, in which Parliament insisted on removal and discharge of the same).
+47. SOURCES, supra note 19, at 455-56.
+48. Weatherup, supra note 37, at 968.
+49. Lawrence Herman, The Unexplored Relationship Between the Privilege Against Compulsory
+Self-Incrimination and the Involuntary Confession Rule (Part 1), 53 OHIO ST. L.J. 101, 136 (1992)
+(discussing Charles's reconvening Parliament in order to get an appropriation of money).
+50. See Daniel R. Coquillette, Ideology and Incorporation III: Reason Regulated-The PostRestoration
+English Civilians, 1653-1735, 67 B.U. L. REV. 289, 301 (1987) (discussing the Long
+Parliament).
+51. SOURCES, supra note 19, at 479-81.
+52. Id. at 477-78.
+53. Id. at 486-87.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1014 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+take charge of the militia by passing the bill the King had refused to sign as an
+Ordinance of Parliament in 1642. 4 Parliament called out the militia and
+warned that militia units mustered under authority other than that of Parliament
+would be punished.55 The King did the same, and civil war ensued.56
+The actual ability of Parliament or the King to muster the militia is unclear.
+Charles attempted to disarm many militia units by confiscating public magazines
+and seizing the weapons of residents.57 In addition, Charles sought to arm
+Catholics he had previously disarmed to secure their assistance.5
+" These acts
+could be considered as evidence that Parliament was more successful at securing
+the support of local militias than was Charles I. In any event, Parliament's
+forces prevailed. Charles I was executed in 1649 and the Kingship and the
+House of Lords were abolished. England was declared a free state.59
+Parliament's declaration notwithstanding, England was not a free state. The
+militia, mustered in 1642, became standing armies by 1649. After a period of
+years, the citizen-soldiers no longer served as the need arose. Many were
+unwilling to follow the dictates of Parliament. Parliament created its own army,
+known as the "New Model Army" in 1645.' True to its roots, a large portion
+of the army perceived that its loyalties lay with the people, not Parliament.
+Several events fostered this perception. One event was Parliament's failure to
+pay the soldiers. Other events included Parliament's favoring a national
+Presbyterian church.6'
+Many army leaders, including Oliver Cromwell, were advocates of religious
+freedom. Those army leaders took the position that the English people's
+freedom of worship was a right over which Parliament had no control. Thus,
+part of the army, initially raised by Parliament, saw itself as an independent
+political force empowered to act in the name of the people. The army,
+increasingly subject to Cromwell's control, proposed an "Agreement of the
+People," which excluded Parliament's power over religion, impressing men into
+the army or navy, or requiring accused persons to incriminate themselves.62
+Parliament rejected the "Agreement. "63
+54. Id.
+55. SOURCES, supra note 19, at 488.
+56. Id. at 487.
+57. JOYCE LEE MALCOLM, THE RIGHT OF THE PEOPLE TO KEEP AND BEAR ARMS: THE
+ORIGINS OF THE SECOND AMENDMENT 8-9 (1981).
+58. Id. at 393-94.
+59. SOURCES, supra note 19, at 523.
+60. EDMUND S. MORGAN, INVENTING THE PEOPLE 73 (1988).
+61. Id. at 67.
+62. Id. at 72.
+63. Id. at 73 (citing 7 JOHN RUSHwORTH, HISTORICAL COLLECTIONS 867-68 (1721)).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1015
+Consequently, soldiers took an oath, called a "Solemn Engagement," to
+remain together until their demands for back pay and political changes were
+met.' The army defined Parliament's authority and dictated when it would
+meet.' Subsequently, Parliament attempted to disband the army. The army
+declined and eventually took over the government, installing the Rump
+Parliament.' When a subsequent Parliament attempted to disband the army,
+it was dissolved.67 Ultimately, another Parliament bestowed on Cromwell the
+role of Lord Protector.' This Parliament also attempted to reduce the army's
+size and revitalize the militia.' Cromwell, however, dissolved Parliament and
+created a military government. Segments of the army, paid regularly by the
+government, were assigned to each of eleven military districts.' Cromwell's
+army was authorized to disarm all Catholics, opponents of the government, and
+anyone else judged dangerous.71 When Cromwell died in 1659, the Rump
+Parliament met again and enacted laws that empowered government officials to
+confiscate arms from landowners to protect the Commonwealth.' Shortly
+thereafter, legislation was passed authorizing the seizure of arms from Catholics,
+anyone who had borne arms against Parliament, or anyone else judged to be
+dangerous to the State.'
+In 1660, the army intervened and General George Monk reinstated
+members of Parliament who had been purged in 1648 because they favored the
+monarchy. 4 Parliament then restored the monarchy by placing Charles II, the
+executed King's son, on the throne. Charles II was in an uncomfortable
+position. He had no army. His father was executed after the Civil War.
+Because of the policy of universal armament and the Civil War, the English
+people were heavily armed. Cromwell's army of 60,000 was mingled with the
+rest of the population. Consequently, Charles II decided to develop his own
+army and to disarm the population.75
+64. MORGAN, supra note 60, at 74.
+65. SOURCES, supra note 19, at 507 (citing THE HEADS OF THE PROPOSALS (1647)).
+66. Hardy, Historiography, supra note 17, at 573.
+67. Id.
+68. Id.
+69. Id.
+70. Id.
+71. STEPHEN P. HALBROOK, THAT EVERY MAN BE ARMED: THE EVOLUTION OF A
+CONSTITUTIONAL RIGHT 45 (1984); DAVID T. HARDY, ORIGINS AND DEVELOPMENT OF THE
+SECOND AMENDMENT (1986).
+72. Hardy, Historiography, supra note 17, at 574 (citing ORDINANCES AND ACTS OF THE
+COMMONWEALTH AND PROTECrORATE 1317 (London 1911)).
+73. Id.
+74. MORGAN, supra note 60, at 94.
+75. Robert J. Cottrol & Raymond T. Diamond, The Second Amendment: Toward an AfroAmericanist
+Reconsideration, 80 GEo. L.J. 309, 321 (1991).
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1016 VALPARAISO UNIVERSITY LAWREVIEW [Vol. 28
+Charles II disbanded the army except for troops he believed would be loyal
+to his government.' Parliament assisted by enacting the Militia Act of 1661
+which vested control over the militia in the King.' Charles II began molding
+a militia loyal to the throne by directing that his officer corp assemble volunteers
+for separate training and "disaffected persons. . . not allowed to assemble and
+their arms seized."' In 1662, the more select militia was authorized to seize
+arms of anyone judged dangerous to the Kingdom.79 In addition, gunsmiths
+were ordered to report weekly on the number of guns made and sold;
+importation of firearms was banned."
+A move toward total disarmament occurred with passage of the Game Act
+of 1671.8 The Game Act dramatically limited the right to hunt to those
+persons who earned over £100 annual income from the land.' More
+importantly, and unlike any prior game act, it made possession of a firearm by
+other than those qualified to hunt illegal and provided for confiscation of those
+arms. 83
+Charles II's successor, his brother James, pursued the disarmament.
+James, however, was the object of suspicion because he was Catholic. As King,
+James was also the official head of the Anglican Church. He sat on the throne
+of a country that barred Catholics from holding appointed office.84
+James was challenged only a few months after taking the throne by Charles
+II's illegitimate son, the Duke of Monmouth, who proclaimed himself as the
+Savior of Anglicanism.' James crushed the rebellion and, in doing so,
+doubled his standing army to 30,000 men.86 He used his kingly "dispensing
+power," which permits kings to make an occasional exception to the law, to
+appoint Catholic officers to enter his army. James quartered his new troops in
+private homes in violation of Parliamentary enactments. The populace thus
+became suspicious of whether James might plan to impose his religion on
+76. Hardy, Historiography, supra note 17, at 574.
+77. SouRcEs, supra note 19, at 541.
+78. 8 CALENDAR OF STATE PAPERS (DOMESTIC), Charles II, No. 188, at 150 (July 1660).
+79. See J.R. WESTERN, THE ENGLISH MIITIA IN THE EIGHTEENTH CENTURY 10 (1965).
+80. Joyce Lee Malcolm, The Right of the People to Keep and Bear Arms: The Common Law
+Tradition, 10 HAST. CONST. L.Q. 285, 299-300 (1983) [hereinafter Malcolm, Tradition].
+81. 22 & 23 Car. 2, ch. 25 (1671).
+82. Id.
+83. Id.
+84. SouRcEs, supra note 19, at 555.
+85. Hardy, Historiography, supra note 17, at 577.
+86. Weatherup, supra note 37, at 140.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1017
+England."'
+James continued disarmament by enforcing it in Ireland. The common
+perception was that James was disarming Protestants in Ireland and the new
+Whig party that opposed him. James then asked Parliament to repeal the test
+acts that precluded Catholics from holding office, to suspend the Habeas Corpus
+Act, and to abandon the militia concept in favor of standing armies."s
+Parliament refused.
+James responded by having his Judges find that the laws of England were
+the King's laws and the King could dispense with them." The King replaced
+Protestants with Catholics at high government posts, including the military; he
+then placed 13,000 men of his army outside London.' In 1688, James's sonin-law,
+William of Orange, a Protestant, landed in England with a large Dutch
+army. James's army deserted him and he fled to France.
+William and Mary became sovereigns in 1689. Parliament restricted their
+powers by adopting the Declaration of Rights.9 William and Mary were
+required to accept the rights enumerated in the Declaration as the rights of their
+subjects and to rule in accordance with Parliament's statutes. 92 The
+Declaration recited the abuses by James, including the raising and keeping of a
+standing army without Parliament's consent, quartering of troops in private
+homes, and disarming Protestant subjects. The declaration set forth the positive
+right of Protestant subjects to have arms for their defense, suitable to their
+conditions, and as allowed by law. 9
+'
+The Declaration did not create a new right. The English had been able to
+possess individual arms for centuries and at times were required to keep them.
+Nevertheless, the debates attending the Declaration make clear that Parliament
+thought the right should be recognized as a right of individuals. The Whigs in
+the Convention Parliament were the most outspoken in favor of the right to
+87. For example, King James II tried to force the Church of England's clergy to support his
+policy of religious tolerance and to read his Declaration of Indulgence from their pulpits. The
+Archbishop of Canterbury and six other bishops petitioned the King against the use of his dispensing
+power. King James had them charged with seditious libel. The jury acquitted, and the public
+endorsed the result. Edith G. Henderson, The Background of the Seventh Amendment, 80 HARV.
+L. REV. 289, 330-31 (1966).
+88. Id.
+89. See SOURCES, supra note 19, at 583; Godden v. Hales, 89 Eng. Rep. 1050 (K.B. 1686).
+90. Weatherup, supra note 37, at 141.
+91. SOURCES, supra note 19, at 599.
+92. Id. at 606.
+93. Id. at 601.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+possess arms to resist tyranny.' The members were aggrieved that the King
+and a prior Parliament had attempted to, and did, disarm some of the English
+subjects.95 An early draft of the grievance portion of the Declaration recited
+that "the Acts concerning the militia are grievous to the subjects,"" a reference
+to those portions of the civil war era militia acts that permitted the militia to
+disarm those suspected of disloyalty.
+To address this grievance, the draft stating the positive right first provided:
+"[I]t is necessary for the Publick Safety, that the Subjects which are Protestants,
+should provide and keep Arms for their common Defence. And that the Arms
+which have been seized, and taken from them, be restored."' This version
+stated a collective purpose for the right, public safety, and common defense.
+A second version followed that deleted the reference to the public safety but
+retained the collective purpose language: common defense. It altered the
+"should keep" language to "may keep." This version read, "Mhat the
+Subjects, which are Protestants, may provide and keep Arms, for their common
+Defence. ""
+The final version came after a compromise with the House of Lords. A
+prior Parliament, during the civil war era, had not only permitted its militia, a
+collective organization, to disarm others, but had also abolished the House of
+Lords. The House of Lords apparently objected to the "collective purpose"
+language in the Commons draft. It secured new language that completely
+eliminated the collective purpose-common defense language." The complete
+text, on this point, as adopted, reads "[T]hat the subjects which are Protestants
+may have arms for their defense suitable to their conditions and as allowed by
+law."' 00
+Several other points are important regarding this article of the declaration.
+First, the language that Protestant subjects may have arms "as allowed by law"
+was not construed as a limitation on possession, but rather a limitation on
+94. Malcolm, Tradition, supra note 80, at 307.
+95. The Declaration of Rights contained as its fifth and sixth charges against James II the
+assertion that he had attempted "to subvert" the "[liaws and [Il]iberties" by "raising and keeping a
+Standing army . . . in time of peace" and "[bly causing several good Subjects, being Protestants,
+to be disarmed at the same Time when Papists were both armed and employed contrary to Law."
+The Bill of Rights, 1 W. & M., sess. 2, ch. 2 (1689).
+96. JOURNAL OF THE HOUSE OF COMMONS FROM DEC. 26, 1688 TO OCT. 26, 1693, at 21-22
+(London 1742) (Lib. of Congress Rare Books Collection)).
+97. Malcolm, Tradition, supra note 80, at 307 (citing 10 H.C. JOUR., 1688-93, at 21-22).
+98. Id. (emphasis added).
+99. 1 W. & M., sess. 2, ch. 2 (1689).
+100. SOURCES, supra note 19, at 601.
+1018
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1019
+use.'' Parliament enacted a new game or hunting act that deleted firearms
+from the list of hunting equipment that could not be possessed except by the
+wealthy. " Arms could be confiscated if used to poach game, but possession
+of arms was protected as a matter of right. °3 However, the phrase "as
+allowed by law" highlights that what Parliament giveth, Parliament could take
+away. With or without the phrase, Parliament's Declaration of Rights only
+protected those rights from abuse by the monarchy. In 1689, like today, the
+non-constitutional English system permits the current Parliament to abrogate the
+rights granted by a prior Parliament.
+Second, the English Declaration of Rights states "that the subjects which
+are Protestants may have arms." 104 However, contemporaneous legislation in
+1689 made clear that while Catholics were not permitted to stockpile weapons,
+they were allowed to possess arms for defense of their house or person.'05
+Last, although the Declaration speaks solely in terms of an individual right to
+bear arms, a review of eighteenth-century literature indicates that the intended
+purpose was to provide both an individual and a collective right with the
+collective right being the more important."° A true collective right, however,
+could only be protected by guaranteeing the individual right.
+Two points should be addressed on this issue. First, during the civil war
+era and thereafter, both Parliament and the monarchy had proclaimed
+themselves, to the exclusion of the other, as the protector of the subjects' wellbeing.
+To facilitate the collective rights of the subjects, each had attempted to
+disarm the others' supporters. Thus, the collective organization intended to
+protect all subjects' liberty, the militia, became an instrument of governmental
+tyranny. The collective rights of all subjects could not be guaranteed if the
+government had the power to vest enforcement in one collective organization
+because the government controlled the organization. Accordingly, the
+government's power to appoint the officers of the militia and select its
+membership meant that the militia could become an instrument of the
+government, not the people. Thus, the people's collective rights were
+enforceable only if the power of enforcement, force of arms, was universally
+dispersed.
+101. 1 W. & M., Sess. 2, ch. 2 (1689).
+102. Malcolm, Tradition, supra note 80, at 309 (citing 4 & 5 W. & M., ch. 23 (1692)).
+103. Id. at 311 (citing Rex v. Gardner, Strange, 2 REPORTS 1098, 93 Eng. Rep. 1056 (K.B.
+1739)).
+104. SOURCES, supra note 19, at 601 ("Bill of Rights").
+105. Malcolm, Tradition, supra note 80, at 309 (citing 1 W. & M., ch. 15 (1689)).
+106. See HALBROOK, supra note 71.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1020 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+Ill. THE ENGLISH THEORISTS
+Accordingly, when Blackstone spoke of the rights of persons, he defined
+such rights as being either: 1) absolute, that is belonging to the person whether
+out of society or in it; or 2) relative, meaning the right is an incident of
+membership in society."m Blackstone described the right to keep arms as
+absolute or belonging to the individual, but ascribed both public and private
+purposes to the right. The public purpose was resistance to restrain the violence
+of oppression; the private was self-preservation." Blackstone described this
+right as necessary to secure the actual enjoyment of other rights which would
+otherwise be in vain if protected only by the dead letter of the laws. ,"e
+In addition to Blackstone, the views of other seventeenth- and eighteenthcentury
+English political theorists clearly influenced the political views of the
+colonists who ultimately would revolt and establish a new nation. e American
+political thought was strongly linked to "republican" thought in England."'
+The essence of republican thought was that a citizenry could rule itself without
+the paternal guiding hand of a monarch." 2
+One of the leading republican theorists was James Harrington."3
+Harrington's beliefs were simple and direct. He believed that ownership of land
+gave people independence.' This independence would cultivate rights now
+107. COMMENTARIES, supra note 8, at *88.
+108. Id. at 144.
+109. Id. at *140-41.
+110. See BERNARD BAILYN, THE IDEOLOGICAL ORIGINS OF THE AMERICAN REVOLUTION
+(1967); Michael W. McConnell, The Origins and Historical Understanding of Free Exercise of
+Religion, 103 HARV. L. REV. 1409 (1990).
+111. See JOHN G.A. POCOCK, THE MACHIAVELLIAN MOMENT: FLORENTINE POLITICAL
+THOUGHT AND THE ATLANTIC REPUBLICAN TRADITION 462-552 (1975); CAROLINE ROBBINS, THE
+EIGHTEENTH-CENTURY COMMONWEALTHMAN: STUDIES IN THE TRANSMISSION, DEVELOPMENT,
+AND CIRCUMSTANCES OF ENGLISH LIBERAL THOUGHT FROM THE RESTORATION OF CHARLES II
+UNTIL THE WAR WITH THE THIRTEEN COLONIES 385 (1959); Robert E. Shalhope, Republicanism
+and Early American Historiography, 39 WM. & MARY Q. 334, 334-37 (1982).
+112. See WILLIAM M. WIECEK, THE GUARANTEE CLAUSE OF THE U.S. CONSTITUTION 18-19
+(1972).
+113. See generally POCOCK, supra note 111 (tracing republican thought from Aristotle to
+Machiavelli and Florentine political theory, to James Harrington and the English civic humanists,
+to the eighteenth century's Radical Whigs, and, ultimately to the American Founders). For an indepth
+analysis of Harrington's political thought, see THE POLITICAL WORKS OF JAMES HARRINGTON
+(John G.A. Pocock ed., 1977).
+114. See generally JAMES HARRINGTON, The Commonwealth of Oceana, in THE POLITICAL
+WORKS OF JAMES HARRINOTON, supra note 113, at 170 (explaining that the way to mediate security
+of property with widespread civic participation was to redistribute property, especially non-feudal,
+"allodial" interest in land, broadly within society so that citizenship, and the opportunity to
+participate, would be widely available). Not all republicans, however, held egalitarian property
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1021
+considered fundamental, including the right of self-government. Harrington also
+believed that the actual independence attained would be a function of the
+citizen's ability to bear arms and use them to defend his rights." 5 He sought
+support from the works of Machiavelli, who proclaimed that there was a direct
+relationship between good arms and good laws.16
+A central thesis of Harrington's republican theory is that an armed
+population is a popular government's best protection against its enemies, both
+foreign and domestic. 117 While Harrington and subsequent republicans argued
+the virtue of armed citizenry, they warned that standing armies were to be
+avoided at almost all cost because such armies become the government's
+instrument to retain power."' Rather, a populace that possessed the land and
+arms inevitably would retain political power as well as serving as the best
+defense against the popular government's enemies.
+These views became tenets of early republican or whig political theorists
+during the eighteenth century." 9 Henry Neville argued that by arming the
+people, democracies could obtain incomparable advantage over neighboring
+aristocracies because the aristocracies could not arm their populace for fear they
+would seize the government." Robert Molesworth praised the armed and
+free Swiss, as well as his own brethren, the English, as examples of the virtue
+of arming the people as individuals. 2 '
+distribution notions. Fora discussion of elitist aspects of republicanism, see, e.g., Hendrick Hartog,
+Imposing Constitutional Traditions, 29 WM. & MARY L. REV. 75 (1987); Frank I. Michelman,
+Possession v. Distribution in the Constitutional Idea of Property, 72 IOWA L. REV. 1319 (1987).
+115. THE POLITICAL WORKS OF JAMES HARRINGTON, supra note 113.
+116. NICCOLO MACHIAVELIU, THE PRINCE AND THE DISCOURSES 44 (Luigi Ricci trans., Mod.
+Lib. ed. 1950) (1513).
+117. See JAMES HARRINGTON, THE POLITICAL WRITINGS OF JAMES HARRINGTON:
+REPRESENTATIVE SELECTIONS 74 (Charles Blitzer ed., 1955).
+118. MORGAN, supra note 60, at 157.
+119. See, e.g., BERNARD BAILYN, THE IDEOLOGICAL ORIGINS OF THE AMERICAN REVOLUTION
+(1967); POCOCK, supra note 111, at 462-552; ROBBINS, supra note 109, at 385. Although these
+historians are all part of a common movement, there do exist significant differences in the ways they
+view republicanism. See Shalhope, supra note 111, at 334-37.
+120. Hardy, Historiography, supra note 17, at 585 (citing CRISTOPHER HILL, SOME
+INTELLECTUAL ORIGINS OF THE ENGLISH REVOLUTION 27 (1980)).
+121. Hardy, Historiography, supra note 17, at 589 (citing FRANCOIS HOTMAN, FRANCOR
+CALLIA at iv (R. Molesworth trans., London 1711)).
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1022 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+IV. THE POLITICS OF THE FOUNDING FATHERS
+The English republican views on the relationship between arms and
+democracy profoundly influenced the views of the founding fathers."x Both
+the Federalists, those promoting a strong central government, and the
+Antifederal-ists, those believing that liberties including the right of self-rule
+would be protected best by preservation of local autonomy, agreed that arms and
+liberty were inextricably linked."
+The first discussion in which these views were articulated occurred in the
+context of Article 1, section 8 of the Constitution concerning the powers of
+Congress to raise a standing army and its power over the militia. As initially
+proposed, Congress was to be provided the power to raise armies. "
+Objections were raised that there was no check against standing armies in time
+of peace. "u The debate focused on how to avoid the dangers of a standing
+army; there was no dispute that a standing army posed a significant threat to the
+liberty of the people." The dilemma was that some type of national army
+would be necessary in time of war, but the results of waiting until war occurred
+to raise a national army could be disastrous. 27
+The solution adopted was two-fold. First, Congress would have the power
+to raise an army but no appropriation of money for that use could be for more
+122. The Founding Fathers were influenced by the fact that the entire body of republican
+philosophy known to them was based on English and classical history, which taught that popular
+possession of arms was vital to the preservation of liberty and a republican form of government.
+See Robert E. Shalhope, The Ideological Origins of the Second Amendnment, 69 J. AM. HIST. 599
+(1982).
+123. The unanimity with which Federalists and Antifederalists supported an individual right to
+bear arms is a reflection of their shared philosophical and historical heritage. The unanimity in the
+contemporary understanding of the Second Amendment helps explain the relative absence of
+recorded debate over it. What little debate there is appears at 1 ANNALS OF CONG. 778-80 (J. Gales
+ed., 1834) and relates to James Madison's proposal that the amendment provide that "no person
+religiously scrupulous shall be compelled to bear arms." Id.
+124. U. S. CONST. art. I, § 8, cl. 11-16. In these clauses, Congress may "declare War,...
+raise support Armies .... provide and maintain a Navy; ... make Rules for the Government and
+Regulation of the land and naval Forces; . . . provide for calling forth the Militia . . . provide for
+organizing, arming, and disciplining, the Militia . . . ." See also Chappell v. Wallace, 462 U.S.
+296, 301 (1983) (stating that the framers of the Constitution clearly contemplated that Congress have
+plenary authority over creation and maintenance of military).
+125. DOCUMENTARY HISTORY OF THE CONSTITUTION 560 (Dept. of State, 1900), reprinted in
+3 DOCUMENTARY HISTORY OF THE CONSTITUTION OF THE UNITED STATES OF AMERICA 1786-1870,
+at 560 (Johnson Reprint Corp. 1965).
+126. Id. at 560, 599, 677, 746.
+127. For a discussion of the debate concerning the military at the Constitutional Convention,
+see SAMUEL P. HUNTINGTON, THE SOLDIER AND THE STATE 80-97, 345-46 (1957).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1023
+than two years.'" s Because the people controlled the House of Representatives
+and the Senate, and Congress controlled the purse, the people were given an
+effective check against the dangers of a standing army. The second check
+against the dangers of a standing army was provided by the existence of the
+militia. Again, however, the necessity of providing for the common defense had
+to be satisfied while guarding against the national government's abuse of power.
+If the danger of a standing army was to be limited, the militia, which was
+then under the control of the states, must be available to meet national
+emergencies until an adequate standing army could be raised. Thus, the national
+government needed the power to call upon the militia. Conversely, the existence
+of a militia independent of federal control was deemed necessary as a check on
+the standing army which Congress was authorized to raise.'" The resolution
+was to provide Congress with the power to organize, arm, and discipline the
+militia and to govern such parts as may be called into federal service, but to
+reserve to the states the appointment of officers and actual training of the
+militia.J" The drafters of this particular language hastened to point out that
+the power to organize, arm, and discipline was intended only to allow Congress
+to prescribe the proportion of men to officers, specify the kind and size of arms,
+ensure that men were armed in fact either by themselves, the states, or by
+Congress, and to prescribe exercises. "' The States were to be in control of
+the militia by reason of the power to appoint officers and provide for the actual
+training. 32 The national government would be in control of the militia only
+when the militia was called out for national service and, even then, would have
+to rely on the State appointed officers to execute its orders.
+A. The Antifederalist View
+Additional views on the relationship between freedom and arms were
+expressed when the Constitution was being submitted to the states for
+ratification. The Antifederalist views were stated in pamphlets entitled Letters
+128. See U.S. CONST. art. I, § 8, cl. 12.
+129. Akhil Amar argues that the Second Amendment also provides a linguistic gloss on
+Congress's Article I military powers. An army constituted hired soldiers, unlike a militia that
+consisted of the general public. Consequently, Congress's power to raise an "army" involves
+authority to enlist soldiers, not conscript them. See Akhil R. Amar, The Bill of Rights as a
+Constitution, 100 YALE L.J. 1131 (1991).
+130. U.S. CONST. art. I, § 8, cl. 15 reserves to the states "the Appointment of the Officers,
+and the Authority of training the Militia according to the discipline prescribed by Congress."
+131. See 1 THE RECORDS OF THE FEDERAL CONVENTION OF 1787, at 386 (Max Farrand ed.,
+1911) [hereinafter RECORDS].
+132. U.S. CONST. art. 1, § 8, cl. 16 reserves "to the States respectively" the power to appoint
+the officers of any militia for which Congress might provide and to conduct the "training [of] the
+militia according to the discipline prescribed by Congress."
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1024 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+from the Federal Farmer to the Republican.133 Richard Henry Lee is credited
+with authorship."3 The self-styled federal farmer thought of himself as a
+supporter of federalism and republicanism. 35 His view of federalism was not
+that set forth in the proposed Constitution of 1787. The federal farmer argued
+that a distant national government was antithetical to freedom:
+[T]he general government, far removed from the people, and none of
+its members elected oftener than once in two years, will be forgot or
+neglected, and its laws in many cases disregarded, unless a multitude
+of officers and military force be continually kept in view, and
+employed to enforce the execution of the laws and to make the
+government feared and respected. No position can be truer than this,
+that in this country either neglected laws, or a military execution of
+them, must lead to revolution, and to the destruction of freedom.
+Neglected laws must first lead to anarchy and confusion; and a
+military execution of laws is only a shorter way to the same pointdespotic
+government. 136
+The federal farmer also saw evil in Congress's power to raise an army,
+despite the two-year limit on money appropriations and the states' control over
+the militia via the appointment of officers. 137 He understood the need to
+provide for the common defense but believed an additional check was necessary.
+He proposed requiring two-thirds consent in Congress before a standing army
+could be raised or the militia could be pressed into service by the national
+government." Additionally, the federal farmer argued that a select militia
+composed of less than all the people ought to be avoided. The farmer argued
+that, to preserve liberty, it is essential that the whole body of the people always
+possess arms, and be taught alike, especially when young, how to use them. 1
+39
+Another Antifederalist, George Mason, spoke on the relationship between
+133. LETTERS FROM THE FEDERAL FARMER TO THE REPUBLICAN (V. Bennett ed., 1978)
+[hereinafter FEDERAL FARMER].
+134. The true author of the Letters from the Federal Farmer to the Republican is unknown.
+The traditional view is that Richard Henry Lee of Virginia was the author. Steven R. Boyd argues
+that the overwhelming contemporary opinion was that Lee was indeed the "Federal Farmer." See
+Steven R. Boyd, Impact of the Constitution on State Politics: New York as a Test Case, in THE
+HUMAN DIMENSIONS OF NATION MAKING 270, 276 n.14 (J. Martin ed., 1976).
+135. Letter from the Federal Farmer (Oct. 13, 1787), reprinted in 2 THE COMPLETE ANTIFEDERAiiST251
+(H. Storing ed., 1981).
+136. FEDERAL FARMER, supra note 133, at 13.
+137. For Antifederalist attacks on standing armies, see, e.g., Essays by a [jMaryland] Farmer,
+in 5 HERBERT J. STORING, THE COMPLETE ANTI-FEDERALIST 22-28 (1981).
+138. Id. at 21-22.
+139. Id. at 124.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1025
+arms and liberty. Mason asserted that history had demonstrated that the most
+effective way to enslave a people is to disarm them. " Mason suggested that
+divine providence had given every individual the right of self-defense, clearly
+including the right to defend one's political liberty within that term. 4'
+Patrick Henry argued against ratification of the Constitution by Virginia,
+in part because the Constitution permitted a standing army and gave the federal
+government some control over the militia. 42 Henry objected to the lack of
+any clause forbidding disarmament of individual citizens; "the great object is
+that every man be armed . . . . Everyone who is able may have a gun." 43
+The Antifederalists believed that governmental tyranny was the primary evil
+against which the people had to defend in creating a new Constitution. To
+preserve individual rights against such tyranny, the Antifederalists argued for the
+addition of a Bill of Rights which included, among other rights, the right to keep
+and bear arms. "
+B. The Federalist View
+The Federalists, those supporting the Constitution as drafted, did not
+dispute the premise that governmental tyranny was the primary evil that people
+had to guard against.'45 Nor did the Federalists dispute the nexus between
+140. 3 THE PAPERS OF GEORGE MASON 1725-1792, at 1075 (Robert A. Rutland ed., 1970).
+141. Id. at 1075, 1076.
+142. Speeches by Patrick Henry Before the Virginia Ratifying Convention (June 5 & 7, 1788),
+reprinted in THE ANTI-FEDERAIiST PAPERS AND THE CONSTITUTIONAL CONVENTION DEBATES 199-
+216 (Ralph L. Ketcham ed., 1986).
+143. Don B. Kates, Handgun Prohibition and the Original Meaning of the SecondAmendment,
+82 MICH. L. REV. 204, 229 (1983).
+144. See David C. Williams, Civic Republicanism and the Citizen Militia: The Terrifying
+Second Amendment, 101 YALE L.J. 551 (1991).
+145. Madison warned that the greatest danger to the constitutional order and to the liberty of
+the citizen was not the possibility of a tyrant President, which he regarded as slight, but the risk that
+Congress would take over the powers of the other two branches of government. "The accumulation
+of all powers, legislative, executive, and judiciary, in the same hands," Madison wrote, "may justly
+be pronounced the very definition of tyranny." THE FEDERALIST No. 47, at 329 (James Madison)
+(Tudor Publishing Co. 1937). Power "is of an encroaching nature," and something more than
+"parchment barriers" is required to restrict it "from passing the limit assigned to it." Id., No. 48,
+at 321. The risk of congressional power is great, far greater than the risk from the President or the
+courts. Congress "alone has access to the pockets of the people." Id. at 321, 323. Its supposed
+influence over the people is an inducement to act, and it can expand its power in many ways,
+masking its encroachments "under complicated and indirect measures." Id. at 323. Madison
+concluded that "it is against the enterprising ambition of this department that the people ought to
+indulge all their jealousy and exhaust all their precautions." Id.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1026 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+arms and freedom." In one of the first Federalist pamphlets, Noah Webster
+argued that the proposed Constitution provided adequate guarantees to check the
+dangers of any standing army.'47 His reasoning acknowledged checks and
+balances, but did not rely on the same. Rather, Webster argued:
+Before a standing army can rule, the people must be disarmed; as they
+are in almost every Kingdom of Europe. The Supreme power in
+America cannot enforce unjust laws by the sword; because the whole
+body of the people are armed, and constitute a force superior to any
+bands of regular troops than can be, on any pretense, raised in the
+United States. '48
+Similarly, James Madison made clear that, although the proposed
+Constitution offered sufficient guarantees against despotism by its checks and
+balances, the real deterrent to governmental abuse was the armed
+population. 49 To the Antifederalist criticism of the standing army as a threat
+to liberty, Madison replied:
+To these [the standing army] would be opposed a militia amounting to
+near half a million of citizens with arms in their hands, officered by
+men chosen from amongst themselves, fighting for their common
+liberties, and united and conducted by government possessing their
+affections and confidence. It may well be doubted, whether a militia
+thus circumstanced could ever be conquered by such a proportion of
+regular troops . ... Besides the advantage of being armed, which
+Americans possess over the people of almost every other nation, the
+existence of subordinate governments, to which the people are
+146. WILLIAM H. RAWLE, A VIEW OF THE CONSTITUTION 125-26 (2d ed. 1829). Alexander
+Hamilton saw the people's possession of arms as guaranteeing freedom from state as well as from
+federal tyranny. The armed populace, "by throwing themselves into either scale, will infallibly make it preponderate" against either a federal or a state invasion of popular rights. THE FEDERALIST
+No. 28, at 228 (Alexander Hamilton) (John C. Hamilton ed., 1864).
+147. See STAFF OF SENATE SUBCOMM. ON THE CONSTITUTION, COMM. ON THE JUDICIARY,
+97TH CONG., 2D SESS., REPORT ON THE RIGHT TO KEEP AND BEAR ARMS 27 (Comm. Print 1982).
+148. NOAH WEBSTER, AN EXAMINATION INTO THE LEADING PRINCIPLES OF THE FEDERAL
+CONSTITUTION PROPOSED BY THE LATE CONVENTION HELD AT PHILADELPHIA 43 (Philadelphia
+1787), reprinted in PAMPHLETS ON THE CONSTITUTION OF THE UNITED STATES PUBLISHED DURING
+ITS DISCUSSION BY THE PEOPLE: 1787-1788, at 5 (Paul L. Ford ed., 1888).
+149. At the convention, James Madison remarked:
+As the greatest danger is that of disunion of the States, it is necessary to guard
+[against] it by sufficient powers to the Common Govt. and as the greatest danger to
+liberty is from large standing armies, it is best to prevent them, by an effectual
+provision for a good Militia.
+JAMES MADISON, NOTES OF DEBATES IN THE FEDERAL CONVENTION OF 1787, at 600 (Gouverneur
+Morris) (Ohio Univ. Press rev. ed. 1984).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+19941 SECOND AMENDMENT 1027
+attached, and by which the militia officers are appointed, forms a
+barrier against the enterprises of ambition, more insurmountable than
+any which a simple government of any form can admit of."5
+Another leading Federalist, Alexander Hamilton, voiced a similar view. 51
+Hamilton suggested that if the representations of the people, elected under the
+proposed Constitution, betrayed their constituents, the people retained the right
+to defend their political rights and possessed the means to do so. 152
+In summary, both Federalists and Antifederalists believed that the main
+danger to the republic was tyrannical government and the ultimate check on
+tyrannical government was an armed population. 53 Federalists and Antifederalists
+disagreed, however, on several issues. First, they disagreed as to
+whether sufficient checks and balances had been placed on the proposed national
+government to control the danger of oppression.' 5' Second, the Antifederalists
+believed a bill of rights should be incorporated into the Constitution to guarantee
+certain rights. 55 The Federalists argued that such a bill of rights was
+unnecessary because the power of the federal government was restricted to the
+grant of authority provided by the Constitution. 56 There was no need to
+150. THE FEDERALIST No. 46, at 310, 311 (James Madison) (Modem Library ed., 1937).
+151. See ALEXANDER HAMILTON AND THE FOUNDING OF THE NATION (Richard B. Morris ed.,
+1957).
+152. THE FEDERALIST No. 28 (Alexander Hamilton).
+153. See supra notes 133-52 and accompanying text.
+154. The Antifederalist warnings of inevitable doom, which would follow granting the central
+government an army power, were neutralized by a Federalist-proposed system of checks and
+balances that would prevent the army from usurping the power of the elected government and
+oppressing the people. See The Address and Reasons of Dissent of the Minority of the Convention
+of Pennsylvania to their Constituents (Dec. 18, 1787), reprinted in THE ANTI-FEDERAUST PAPERS
+AND THE CONSTITUTIONAL CONVENTION DEBATES 254-56 (R. Ketcham ed., 1986). The minority
+feared that:
+A standing army in the hands of a government placed so independent of the
+people, may be a fatal instrument to overturn the public liberties; it may be employed
+to enforce the collection of the most oppressive taxes, and to carry into execution the
+most arbitrary measures. An ambitious man who may have the army at his devotion,
+may step up into the throne, and seize upon absolute power.
+Id. at 254.
+The Federalists advanced the contrary view, including Alexander Hamilton who argued that
+if the central government was denied an army power then future generations would be unable to
+adequately protect themselves. THE FEDERALIST No. 23 (Alexander Hamilton).
+155. See 1 HERBERT J. STORING, THE COMPLETE ANTI-FEDERALIST: WHAT THE ANTIFEDERALISTS
+WERE FOR 64-70, 72 (1981) (discussing the debate between Federalists and Antifederalists
+over whether a constitution that based government on republican principles needed a bill
+of rights to protect individual liberties).
+156. Id.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1028 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+provide exceptions to powers not granted.157 Further, the Federalists argued
+that providing exceptions to powers not granted was dangerous because it could
+encourage a claim that powers not expressly stated had been granted.'
+Again, both sides not only agreed that the people had a right to be armed, both
+sides assumed the existence of an armed population as an essential element to
+preserving liberty. The framers quite clearly had adopted James Harrington's
+political theory that the measure of liberty attained and retained was a direct
+function of an armed citizenry's ability to claim and hold those rights from
+domestic and foreign enemies. 59
+V. THE RATIFICATION PROCESS
+The Federalist and Antifederalist pamphlets were written to influence the
+ratification process by which the proposed Constitution would become
+effective."W In addition to revealing the drafters' political philosophy, the
+pamphlets and other documents intended to influence ratification reveal
+additional concerns with the right to bear arms.' Antifederalists rejected the
+claim that the militia would serve as a deterrent to the threat posed by a standing
+army. 62 The responsive argument widely made was that Congress might be
+able to confine the existing militia force, all armed citizens, to a select militia
+made up of a small segment of the population. 3 Baron Von Steuben,
+157. Washington advised Lafayette: "There was not a member of the Convention, I believe,
+who had the least objection to what is contended for by the Advocates for a Bill of Rights ...
+3 RECORDs, supra note 131, at 297-98.
+158. THE FEDERALiST No. 84 (Alexander Hamilton).
+159. See supra notes 113-21.
+160. See PHILIP B. KURLAND & RALPH LERNER, THE FOUNDERS' CONSTITUTION (1987).
+161. Reid v. Covert, 354 U.S. 1, 24 (1957) ("Their fears were rooted in history. They knew
+that ancient republics had been overthrown by their military leaders.").
+162. Instead of a standing army providing for the nation's defense, the Antifederalists advocated
+the use of a well-regulated militia maintained by each state. These militia would be under the state
+governor's control but subject to requisition by the national government in time of need. The
+prevailing sentiment was that:
+The standing army with its upper-class officers and lower-class enlisted men was
+basically an aristocratic institution. It was associated with the British Crown and with
+European despotism. It was quite unnecessary in the eyes of many Americans. The
+distance of the United States from Europe meant that it required no permanent military
+force with the possible exception of small frontier garrisons to deal with the Indians.
+Consequently, it was generally agreed that primary reliance must be put on a citizen
+militia composed of part-time officers and enlisted men.
+HUNTINGTON, supra note 127, at 166-67.
+163. Virginia's Richard Henry Lee argued that select militia might be used to disarm the
+population and that, in any event, it would pose more of a danger to individual liberty than a militia
+composed of the whole population. He charged that a select militia "commit[s] the many to the
+mercy [and thel prudence of the few." Richard Henry Lee, LETTERS FROM THE FEDERAL FARMER:
+LETTER III (Oct. 10, 1787), reprinted in THE ANTIFEDERALISTS229 (Cecelia M. Kenyon ed., 1966).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1029
+Washington's Inspector General, had already proposed such a force."' The
+fear was that creation of a select militia, armed by and loyal to the federal
+government, would be accompanied by disarmament of the people in general.
+A. The State Conventions
+All of the arguments for and against ratification came to bear in the state
+conventions." In New York, Hamilton advocated adopting the Constitution
+and amending it, if necessary.'" Hamilton's argument was that if
+amendments were to be made, they ought to be made after adoption since an
+alteration would constitute a new proposal and must undergo a new decision in
+each state. 7
+Hamilton's argument prevailed. New York ratified the Constitution, but
+it included with the ratification statement a declaration of rights and a statement
+that ratification was made with the assumption that the rights enumerated in the
+declaration could not be abridged or violated and were consistent with the
+Constitution.'" Accordingly, New York ratified, but made clear that the
+people had a right to keep and bear arms and that the militia was to include all
+the people capable of bearing arms, not just a select few.
+Similarly, New Hampshire ratified the Constitution but stated:
+It is the Opinion of this Convention that certain amendments &
+alteration in the said Constitution would remove the fears and quiet the
+apprehensions of many of the good people of this State & more
+effectually guard against an undue Administration of the Federal
+Government-The Convention do therefore recommend that the
+164. See RUDOLF CRONAU, THE ARMY OF THE AMERICAN REVOLUTION AND ITS ORGANIZER
+(1923).
+165. See MAX FARRAND, THE FRAMING OF THE CONSTITUTION OF THE UNITED STATES
+(1913).
+166. The Federalist Papers, a collection of some 85 newspaper essays, was written between
+October 1787 and May 1788 by Alexander Hamilton, James Madison, and John Jay to persuade the
+New York state ratifying convention to adopt the Constitution. A standard critical edition in use
+today is THE FEDERALIST PAPERS (Clinton Rossiter ed., 1961).
+167. For example, in THE FEDERALIST No. 23, Publius addressed the need to adopt a
+constitution "at least equally energetic with the one proposed," relying upon the "[d]efective" nature
+of the Articles of Confederation. THE FEDERALIST No. 23, at 143, 146 (Alexander Hamilton)
+(Modem Library ed. 1941). The argument was frequently reiterated. See id. No. 15, at 93
+(Alexander Hamilton); id. No. 22, at 140 (Alexander Hamilton); id. No. 26, at 164-65 (Alexander
+Hamilton).
+168. See I THE DEBATES IN THE SEVERAL STATE CONVENTIONS ON THE ADOPTION OF THE
+FEDERAL CONSTITUTION AS RECOMMENDED BY THE GENERAL CONVENTION AT PHILADEPHIA, IN
+1787, at 327-31 (Jonathan Elliot ed., 2d ed. 1836) [hereinafter STATE DEBATES]
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1030 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+following alterations & provisions be introduced into the said
+Constitution.
+Twelfth
+Congress shall never disarm any citizen unless such as are or have
+been in Actual Rebellion.169
+In Pennsylvania, James Wilson argued against adding a bill of rights on
+grounds already offered by Madison," that such an enumeration was
+unnecessary and indeed dangerous since no person could enumerate all the rights
+of men.' 7' Pennsylvania ratified, but a substantial minority drafted a series
+of proposed amendments that included the following:
+That the people have a right to bear arms for the defense of
+themselves and their own State or the United States, or for the purpose
+of killing game; and no law shall be passed disarming the people or
+any of them unless for crimes committed, or real danger of public
+injury from individuals."n
+It is doubtful that the Pennsylvania minority was attempting to constitutionalize
+hunting as a sport. "
+7 Rather, the delegates were attempting to eliminate the
+possibility that game laws, used effectively in England at different points to
+disarm the population, would not produce a similar result in America.
+Samuel Adams made similar arguments in Massachusetts. 74 The
+argument that adoption must precede amendment prevailed. 7 ' In Virginia,
+Madison secured ratification, but George Mason, Patrick Henry, and Richard
+Henry Lee were successful in having the convention adopt a Declaration of
+Rights which was to be recommended to the First Congress for adoption as
+constitutional amendments.7 6 The right of the people to keep and bear arms
+169. See DOCUMENTS ILLUSTRATIVE OF THE FORMATION OF THE UNION OF THE AMERICAN
+STATES, H.R. DoC. NO. 398, 69th Cong., 1st Sess. 1007 (1927).
+170. 3 STATE DEBATES, supra note 168, at 626-27; 2 STATE DEBATES, supra note 168, at 436.
+171. The classic formulations of the mischief feared by inclusion of a bill of rights are found
+in the speech by James Wilson before the Pennsylvania ratifying convention. LEONARD W. LEVY,
+ORIGINAL INTENT AND THE FRAMERS' CONSTITUTION 270-72 (1988).
+172. PA. CONST. of 1776, Declaration of Rights, art. XIII.
+173. See 2 BERNARD SCHWARTZ, THE BILL OF RIGHTS: A DOCUMENTARY HISTORY 665
+(1975).
+174. Id. at 675.
+175. Id.
+176. See William S. Fields & David T. Hardy, The Militia and the Constitution: A Legal
+History, 136 MIL. L. REV. 1, 36 (1992) (discussing the unusual alignment in Virginia where liberals
+like Thomas Jefferson, Patrick Henry, and Richard Henry Lee joined forces with conservatives like
+George Mason to promote a bill of rights). The Virginia Proposals for a bill of rights were drafted
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1031
+was included as was the statement that a militia composed of the body of the
+people was the natural and safe defense of a free state. 177
+North Carolina's convention proposed that a declaration of rights be added
+to the Constitution which explicitly identified the right of people to keep and
+bear arms as a natural right and one of the means necessary to the pursuit and
+obtainment of happiness and safety."~ Identification of the right was
+accompanied by the statement that the militia, composed of the body of the
+people, trained to arms, is the natural and safe defense of a free state."7 The
+North Carolina convention refused to ratify the Constitution until the document
+included this and other rights." ° North Carolina did not ratify the Constitution
+until the Bill of Rights was drafted and submitted to the States.' Rhode
+Island followed an identical course by identifying the right of the people to keep
+and bear arms as a natural right, among others, and declining to ratify the
+Constitution until after the Bill of Rights had been drafted and submitted.182
+To summarize the state ratification process, three states, New York, New
+Hampshire, and Virginia, ratified while expressing their understanding that the
+people had a right to bear arms and that Congress would never disarm law
+abiding citizens. 83 Two states, North Carolina and Rhode Island, refused to
+ratify until individual rights, including the people's right to keep and bear arms,
+by a committee that included Antifederalists Lee and Mason, as well as Federalists James Madison,
+John Marshall, and George Wythe.
+177. The Virginia convention urged the adoption of the following language:
+That the people have a right to keep and bear arms; that a well-regulated militia,
+composed of the body of the people trained to arms, is the proper, natural, and safe
+defence for a free state; that standing armies, in time of peace, are dangerous to liberty,
+and therefore ought to be avoided, as far as the circumstances and protection of the
+community will admit; and that in all cases, the military should be under strict
+subordination to, and governed by, the civil power.
+3 STATE DEBATES, supra note 168, at 659.
+178. N.C. Proposal for a Declaration of Rights, § 19, in 4 STATE DEBATES, supra note 168,
+at 244.
+179. N.C. CONST. of 1776, Declaration of Rights, art. XVII.
+180. In August 1788, the North Carolina Convention refused to ratify the Constitution by a
+greater than two to one majority. The vote is recorded in 4 STATE DEBATES, supra note 151, at
+250-51. North Carolina did not ratify until November 1789. ROBERT A. RUTLAND, THE ORDEAL
+OF THE CONSTITUTION: THE ANTIFEDERALISTS AND THE RATIFICATION STRUGGLE OF 1787-88, at
+250-51 (1966).
+181. Id.
+182. See I STATE DEBATES, supra note 168, at 331-37.
+183. See Lawrence D. Cress, An Armed Community: The Origins and Meaning of the Right
+to Bear Arms, 71 J. AM. HIST. 22, 31 (1984).
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1032 VALPARAISO UNIVERSITY LAW REV1EW [Vol. 28
+were recognized by amendments.' 84 In Pennsylvania and Massachusetts, an
+effort was made to amend or condition ratification on amendment to include,
+among others, the right to keep and bear arms.'85 Efforts to amend were
+defeated but not on the merits. There is no evidence from any state convention
+that any speaker suggested that the proposed Constitution would permit
+disarming the public.
+B. The Framers' Views of the States and Their Role
+As discussed earlier, one of the disputes between the Federalists and
+Antifederalists related to the relative strength that ought to be given to the
+central government. Prior to adoption of the Constitution, the country was ruled
+by the Articles of Confederation.'86 These articles preserved the autonomy of
+the individual states and provided little power to the central government.187
+The proposed Constitution altered this balance in favor of the central
+government. The proposed change provoked substantial discourse."n In
+recent times, the Antifederalists have been called states' rights proponents as a
+consequence of their position that the proposed Constitution provided too much
+power to the central government, with too few checks, at the expense of the
+states. 189
+This label-states' rights proponents-is inaccurate and misleading.
+Federalists and Antifederalists feared governmental tyranny by all
+governments-state and federal. The framers of the Constitution, particularly
+the Antifederalists, were not attempting to preserve states' rights. They were
+attempting to preserve the people's rights by maintaining local autonomy in the
+form of the various state governments.
+The Antifederalists relied extensively on the works of Baron de
+184. See Patrick Conley, First in War, Last in Peace: Rhode Island and the Constitution, 1786-
+1790, in THE CONSTITUTION AND THE STATES: THE ROLE OF THE ORIGINAL THIRTEEN IN THE
+FRAMING AND ADOPTION OF THE FEDERAL CONSTITUTION 276-85 (Patrick Conley & John P.
+Kaminsky eds., 1988).
+185. See Stephen P. Halbrook, The Right to Bear Arms in the First State Bills of Rights:
+Pennsylvania, North Carolina, Vermont, and Massachusetts, 10 VT. L. REv. 255 (1985).
+186. The United States expanded its rulers' powers when it adopted the Constitution in place
+of the Articles of Confederation. See GERALD GUNTHER, CASES AND MATERIALS ON
+CONSTITUTIONAL LAW 77 (12th ed. 1991).
+187. See Harold G. Maier, The United States Constitution in its Third Century: Foreign
+Affairs. Distribution of Constitutional Authority: Preemption of State Law: A Recommended
+Analysis, 83 AM. J. INT'L L. 832, 832 (1989).
+188. JACKSON T. MAIN, THE ANTIFEDERALISTS: CRITICS OF THE CONSTITUTION, 1781-1788
+(1961).
+189. See, e.g., Akhil Reed Amar, Of Sovereignty and Federalism, 96 YALE L.J. 1425, 1452
+(1987).
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1033
+Montesquieu to support the proposition that the geographic size of an area
+strongly influenced its form of government.1" Montesquieu had written that
+democracy could survive only in a small-sized state, small enough to permit the
+actual participation of the people in government and small enough so that each
+citizen understands that promoting the public good directly promotes the
+individual.' 9' A middle-sized territory, as Montesquieu terms it, would
+inevitably become a monarchy; to an extensive territory, a despotic form of
+government was best adapted. In large republics, the public good is sacrificed
+to a multiplicity of views and the citizens do not perceive the nexus between
+promoting the public good and their individual welfare.
+According to Montesquieu, a middle-sized territory would tend to become
+a monarchy because ambitious persons who do not perceive the public good as
+beneficial to them seek grandeur by imposing their will on others. One person
+eventually prevails and assumes the role as prince. The monarchy then exists
+through a system of honor established by giving perks and titles. If the territory
+is too large, one person cannot command sufficient allegiance on honor of
+enough of the populace to control the territory. Ruling a large territory requires
+more than a system of titles and perks. Order can be maintained only by
+immediate, passive obedience to the rules; passive obedience can be achieved
+only by an instilling fear. The multiplicity of views, the dissents, are stifled by
+fear. According to Montesquieu, rule by fear, despotism, was a logical incident
+of the government of a large territory. Montesquieu's theory continued that
+while a small republic could internally maintain its republican character, it
+would be destroyed by foreign forces."2 The dilemma could be resolved only
+by a confederate republic, a form of government in which small states become
+individual members of an association which is able to provide security for the
+whole body. 93
+The Antifederalists used Montesquieu's well-known works to argue for a
+less powerful central government and more autonomy for the individual states,
+a government which would more closely resemble the Articles of Confederation
+model and Montesquieu's confederate republic rather than that proposed by the
+Constitution. Antifederalist publications confirm that preserving the autonomy
+of the states was a means to the end of protecting the people's rights, not an end
+190. Baron de Montesquieu (1689-1755) was a French political philosopher who classified
+various forms of government and their attributes. His ideas were well-regarded by the Americans;
+Jefferson once wrote that in economics, Adam Smith is generally recommended, in politics and
+government, Montesquieu's treatises held equal stature. "To Mr. Thomas Mann Randolph, New
+York, May 30, 1790," in 8 THE WRMNGS OF THOMAS JEFFERSON 31 (Memorial ed. 1903).
+191. MONTESQUIEU, THE SPIRIT OF LAWS, bk. VIII, ch. 16, at 176 (David W. Carrithers ed.,
+1977).
+192. Id. at bk. IX, ch. 1, p. 183.
+193. Id.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1034 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+in itself. In arguing against the new Constitution, the Pennsylvania Minority
+framed the question-"Is it probable that the dissolution of the state
+governments, and the establishment of one consolidated empire would be eligible
+in its nature, and satisfactory to the people in its administration?" "
+The answer - "I think not, as ... so extensive a territory could not be
+governed, connected and preserved, but by the supremacy of
+despotic power."' 95
+The reason - Being "satiated with the blessings of liberty" after "asserting
+their inalienable rights against foreign despots at the expense
+of so much blood and treasure," the people will spurn the
+shackles prepared for them under the new Constitution and
+confirm their liberties.1
+9
+Although the complaint was the dissolution of state governments, the problem
+was viewed as a loss of the people's rights.
+In another publication, an unidentified Pennsylvania Antifederalist, writing
+under the pen name Montezuma, purported to be an advocate of the Constitution
+and to give the "inside story" of the dark designs of the proponents.
+Montezuma suggested:
+We have taken pains to leave the legislatures of each free and
+independent state, as they now call themselves, in such a situation that
+they will eventually be absorbed by our grand continental vortex, or
+dwindle into petty corporations, and have power over little else than
+yoaking logs, of determining the width of cart wheels."9
+Montezuma continued that state legislatures would be powerless when the
+national government exercised exclusive control over commerce and the power
+to wage war, make peace, coin money, borrow money, organize the militia and
+call them forth to crush insurrections. 1
+" By eliminating the powers of the
+states, the clouds of popular insurrection would likewise be broken.'9
+Another Antifederalist writer, using the name John DeWitt, posed similar
+arguments to the people of Massachusetts to influence the ratification convention
+194. THE ANTIFEDERALISTS 40 (Cecelia M. Kenyon ed., 1966).
+195. Id.
+196. Id. at 40-41.
+197. Id. at 63.
+198. Id. at 64.
+199. Id.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1035
+in that state. The writer, whose true identity is unknown, argued that the strong
+national government would swallow up the state governments in a hasty stride
+to a Universal Empire in the Western World. The predicted result was a loss
+of the people's liberty.' Again, the Antifederalist argument was that
+retention of power by the states was necessary to secure the rights of the
+people."0
+The Antifederalists, while believing the people's rights would be protected
+best by strong state governments, did not trust those governments. Federalists
+also distrusted state governments. Both groups distrusted any government
+because, as George Mason stated, "considering the natural lust of power so
+inherent in man, I fear the thirst of power will prevail to oppress the
+people."' James Madison similarly distrusted not only man's ambition for
+pre-eminence and power but also the factionalism posed by groups of men
+organized and pursuing narrow interests under the banner of state
+government. 2
+D
+3
+The Revolutionary era and state constitutions illustrate the distrust of the
+states' power. It should not be surprising that Americans in the midst of a
+revolution against tyranny would be suspicious of government, particularly when
+dealing with plans for their own government. As a consequence, most of the
+state constitutions of the era vested primary governing authority in a popularly
+elected legislative branch of government, not the executive,' and contained
+a statement for a bill of rights.0 5 All contained a statement that all power
+originally rests in the people. 6 The state constitutions of Massachusetts,
+North Carolina, and Pennsylvania contained an explicit provision concerning the
+right to bear arms. The constitutions of Maryland, New Hampshire, New York,
+and Virginia identified the necessity of maintaining the militia to preserve the
+free state. New York's constitution, while providing for a militia but not a right
+to bear arms, also noted that Quakers could not be compelled to bear arms.
+200. Id. at 104-05.
+201. One leading Antifederalist shared and advocated this view. Mason argued that the people's
+political happiness rested on the state governments because the states, as smaller political units,
+provided more direct representation of the people. THE ANTIFEDERALISTS, supra note 194, at 272.
+202. 3 THE PAPERS OF GEORGE MASON 1052 (Robert A. Rutland ed., 1970).
+203. THE FEDERALIST No. 10 (James Madison).
+204. FEDERAL AND STATE CONSTITUTIONS OF THE UNITED STATES (Ben Poore Perley ed.,
+1924); Maryland, 817; Massachusetts, 956; New Hampshire, 1279, New Jersey, 1310 (religion);
+New York, 1329; North Carolina, 1409; Pennsylvania, 1540; South Carolina, 1640; Virginia, 1910.
+205. Id.; Maryland, 817; Massachusetts, 956; New Hampshire, 1279 (Bill of Rights added
+1784); New Jersey religion; New York, 1329 (militia, religion); North Carolina, 409; Pennsylvania,
+1540; Virginia, 1910.
+206. Id.; Massachusetts, 956; Maryland, 817; New Hampshire, 1279; New Jersey, 1310; New
+York, 1329; North Carolina, 1409; Virginia, 1910.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1036 VALPARAISO UNIVERSITY LAW REVIEW [Vol. 28
+Similarly, Maryland, New Hampshire, and Virginia provided for a militia but
+not explicitly for the right to bear arms. They also provided for popular revolt
+by giving the people the right to reform the government and the right to defend
+their life and liberty 7 and by providing that the doctrine of non-resistance
+against arbitrary power is slavish, absurd, and destructive." In context,
+providing for the militia, defined at this time as the body of people all bearing
+arms, appears to be the functional equivalent of providing each individual with
+the right to bear arms.
+VI. THE BILL OF RIGHTS
+With ratification complete and the First Congress assembled, James
+Madison introduced amendments setting forth what would eventually become the
+Bill of Rights. The ratification process had produced a call for such a
+declaration. Madison and Hamilton had argued that ratification must precede
+amendment and now the time had come to honor the implied promise that
+amendments would be made. Madison campaigned for a seat in the first
+Congress on the pledge that he favored amendments. 20 9
+Madison's first proposal was made on June 8, 1789, to the House of
+Representatives. It embodied nineteen substantive items and appeared to track
+the suggestions made by the various state conventions. Madison's first proposal
+was not in the form of a separate Bill of Rights. Instead, he proposed
+amendment by interlineation, placement of the individual amendments in the text
+of the Constitution. One of the proposed amendments was "that the right of the
+people to keep and bear arms shall not be infringed, a well-armed and wellregulated
+militia being the best security of a free country; but no conscientious
+objector shall be compelled to render military service in person.""'
+Madison's proposal called for this right and the right to freedom of the press,
+religion, and speech, to be inserted in Article 1, Section 9, between clauses 3
+and 4. Article 1, Section 9 concerns limitations on Congress's power over
+citizens, namely, no suspension of habeas corpus, no ex post facto laws, and no
+bills of attainder. Madison's suggested placement of this amendment
+demonstrates that he understood the right to bear arms to be an individual right.
+Had Madison viewed the right as the states' right, the more logical placement
+of the right would have been in Article 1, Section 8, clause 16, which reserves
+to the states the power to appoint the officers of the militia and provides
+authority to train the same.
+207. Id.; New Hampshire, 1279.
+208. Id.; Maryland, 818; Virginia, 1909.
+209. EDWARD DUMBAULD, THE BILL OF RIGHTS AND WHAT IT MEANS TODAY 33 (1957).
+210. Hardy, Arned Citzens, supra note 12, at 609.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1037
+In addition, Madison's notes regarding the introduction of his proposals
+contain an outline which suggests he should read the amendments and explain
+that they first relate to private rights. He then instructed himself to explain the
+deficiencies of the English Declaration of Rights. Among the deficiencies was
+that the declaration was a mere act of Parliament and that guarantees were not
+sufficiency broad, namely, no freedom of press or conscience and the restriction
+of arms to Protestants.2 '
+Madison's proposals were referred to a select committee that reported to
+the House sitting as a committee of the whole. When the proposal left the select
+committee, it read:
+A well regulated Militia, composed of the body of the people, being
+the best security of a free state, the right of the people to keep and
+bear arms shall not be infringed; but no person religiously scrupulous
+shall be compelled to bear arms. 212
+In the House, the debate focused on the last clause. The argument was as
+follows:
+Mr. Gerry - This declaration of rights, I take it, is intended to
+secure the people against the maladministration of the Governments if
+we could suppose that, in all cases, the rights of the people would be
+attended to, the occasion for guards of this kind would be removed.
+Now, I am apprehensive that this clause would give an opportunity to
+the people in power to destroy the Constitution itself. They can
+declare who are those religiously scrupulous and prevent them from
+bearing arms.
+21
+1
+An amendment to remove the "religiously scrupulous" language failed.214
+Madison yielded to pressure to set forth amendments at the end of Constitution.
+Seventeen articles of amendment were sent to the Senate."'
+The Senate streamlined the package by combining some amendments and
+simplifying others. On the right to bear arms, the Senate omitted the words
+"composed of the body of the people" and deleted the provision exempting
+211. Id.
+212. THE FOUNDERS CONSTITUTION 211 (Philip B. Kurland & Ralph Lerner eds., 1987).
+213. Id.
+214. See WILLIAM MILLER, THE FIRST LIBERTY 123 (1986).
+215. The House labeled its sections of what became the Bill of Rights as "articles." See Mark
+P, Denbeaux, The First Word of the First Amendment, 80 Nw. U. L. REv. 1156, 1166 (1986).
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+1038 VALPARAISO UNIVERSIT LAW REVIEW [Vol. 28
+conscientious objectors from service.21 The Senate rejected language that
+would have added the words, "for the common defense" as part of the phrase
+"the right of the people to keep and bear arms (for the common defense) shall
+not be infringed." 217 Ultimately twelve articles were sent to the states for
+ratification. The first two failed, but the other ten were ratified.218 The
+language of the Second Amendment, as adopted, read:
+A well-regulated Militia, being necessary to the security of a free
+State, the right of the people to keep and bear arms, shall not be
+infringed.2 9
+VI. CONCLUSION
+English history made two things clear to the American revolutionaries:
+force of arms was the only effective check on government, and standing armies
+threatened liberty. Recognition of these premises meant that the force of arms
+necessary to check government had to be placed in the hands of citizens. The
+English theorists Blackstone and Harrington advocated these tenants. Because
+the public purpose of the right to keep arms was to check government, the right
+necessarily belonged to the individual and, as a matter of theory, was thought
+to be absolute in that it could not be abrogated by the prevailing rulers.
+These views were adopted by the framers, both Federalists and
+Antifederalists. Neither group trusted government. Both believed the greatest
+danger to the new republic was tyrannical government and that the ultimate
+check on tyranny was an armed population. It is beyond dispute that the second
+amendment right was to serve the same public purpose as advocated by the
+English theorists. The check on all government, not simply the federal
+government, was the armed population, the militia. Government would not be
+accorded the power to create a select militia since such a body would become
+the government's instrument. The whole of the population would comprise the
+militia. As the constitutional debates prove, the framers recognized that the
+common public purpose of preserving freedom would be served by protecting
+each individual's right to arms, thus empowering the people to resist tyranny and
+preserve the republic. The intent was not to create a right for other
+216. DUMBAULD, supra note 209, at 46.
+217. The Senate did so without explanation. See Hardy, Armed Citizens, supra note 12, at 611.
+218. Of the two amendments that were defeated, one concerned the apportionment of
+representatives, and the other would have prevented congressional salary increases from taking effect
+until after the next election of representatives. Peter Suber, Population Changes and Constitutional
+Amendments. Federalism Versus Democracy, 20 U. MICH. J. L. 409, 440 (1987). The ten
+amendments that were ratified became the Bill of Rights in 1791. Maeva Marcus, The Adoption of
+the Bill of Rights, 1 WM. & MARY BILL OF RIGHTS J. 115, 118 (1992).
+219. U.S. CONST. amend II.
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5
+1994] SECOND AMENDMENT 1039
+governments, the individual states; it was to preserve the people's right to a free
+state, just as it says.
+Vandercoy: The History of the Second Amendment
+Produced by The Berkeley Electronic Press, 1994
+Valparaiso University Law Review, Vol. 28, No. 3 [1994], Art. 5
+http://scholar.valpo.edu/vulr/vol28/iss3/5

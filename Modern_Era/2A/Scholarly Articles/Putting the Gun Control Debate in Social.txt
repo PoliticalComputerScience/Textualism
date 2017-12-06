@@ -1,0 +1,426 @@
+Fordham Law Review
+Volume 73 | Issue 2 Article 2
+2004
+Putting the Gun Control Debate in Social
+Perspective
+Erwin Chemerinsky
+This Article is brought to you for free and open access by FLASH: The Fordham Law Archive of Scholarship and History. It has been accepted for
+inclusion in Fordham Law Review by an authorized editor of FLASH: The Fordham Law Archive of Scholarship and History. For more information,
+please contact tmelnick@law.fordham.edu.
+Recommended Citation
+Erwin Chemerinsky, Putting the Gun Control Debate in Social Perspective , 73 Fordham L. Rev. 477 (2004).
+Available at: http://ir.lawnet.fordham.edu/flr/vol73/iss2/2
+KEYNOTE ADDRESS
+PUTTING THE GUN CONTROL DEBATE IN
+SOCIAL PERSPECTIVE
+Erwin Chemerinsky*
+INTRODUCTION
+Imagine that it is the year 2087. On the occasion of the tricentennial
+celebration of the Constitution, the United States calls a
+constitutional convention to draft a new document for America's
+fourth century. The delegates meet in Philadelphia as they did three
+centuries earlier. There is universal agreement among the delegates
+that the new constitution should contain a statement of fundamental
+individual rights. Assuming that social attitudes about firearms are
+the same as today, will the new constitution contain an amendment
+about the right of individuals to bear arms? If there were a
+constitutional convention now, would a provision like the Second
+Amendment remain?
+Putting the issue this way requires that the issue of guns be put in a
+larger social and political context. The reality, of course, is that
+conservatives will favor such an amendment and liberals will oppose
+it. There will be a geographic divide, with more rural residents
+wanting such an amendment, and more urban residents opposing it.
+There will be a gender divide, with more men than women wanting
+constitutional protection for gun ownership.
+The political context is ironic. Conservatives, who generally favor
+more narrow interpretations of individual rights, urge a broad view of
+the Second Amendment, and for progressives it is just the opposite.
+John Ashcroft, who certainly has taken a very restrictive view of the
+protections of Bill of Rights provisions, such as the First and Fourth
+Amendment, takes an expansive approach to the Second
+Amendment) But for liberals, just the opposite is true; their usually
+* Alston & Bird Professor of Law, Duke Law School. I want to thank Sara Phillips
+for her excellent research assistance. This Essay originated as my keynote address at
+Fordham Law School's Symposium on the Second Amendment sponsored by the
+John Glenn Institute of Ohio State University.
+1. See Letter from John Ashcroft, United States Attorney General, to James J.
+Baker, Executive Director, Institute for Legislative Action, National Rifle
+FORDHAM LAW REVIEW
+broad view of individual liberties does not include the Second
+Amendment.
+It is now familiar that liberals and conservatives have very different
+views about what the Second Amendment means.2 The former argue
+that it is about "collective rights"; that the Second Amendment was
+meant only to limit the ability of Congress to regulate firearms in a
+way that would keep state governments from protecting themselves.
+The latter contend that the Second Amendment is about an
+"individual right": protecting the right of individuals to have guns. 3
+Ultimately, the constitutional convention in 2087 must choose
+between these two views. More specifically, it will have to decide
+whether to put any provision regarding guns in the new constitution.
+Inescapably, this choice will require deciding whether the constitution
+should safeguard a right of individuals that would limit the ability of
+the government to engage in gun control.
+I find it difficult to predict what a constitutional convention would
+do on this issue. Probably, the outcome would depend on the political
+composition of the body and perhaps what deals need to be struck in
+order to produce a document. But I also find it hard to predict what
+the United States Supreme Court ultimately will do when it must
+decide the meaning of the Second Amendment.4
+In this Essay, I want to make three points about this choice,
+whether it is faced at a mythical constitutional convention or in the
+Supreme Court. First, ultimately the choice between these competing
+theories is not about constitutional theory or evidence; it is a political
+and value choice. Second, the political and value choice must be
+understood in a cultural context. But third, focusing on the politics
+and culture can obscure the legal issues regarding gun control that are
+likely to arise and be faced by courts.
+Association (May 17, 2001), reprinted in Mathew S. Nosanchuk, The Embarrassing
+Interpretation of the Second Amendment, 29 N. Ky. L. Rev. 705, 799-800 (2002).
+2. See, e.g., Symposium on the Second Amendment: Fresh Looks, 76 Chi.-Kent
+L. Rev. 3 (2000) (containing articles describing both views).
+3. Obviously, there are other theories and nuanced and sophisticated variations
+of these arguments. For example, at this Symposium, Professor Saul Cornell offered
+a different approach, suggesting that the Second Amendment be understood as being
+about the right of individuals to have guns for service in the militia. See Saul Cornell
+& Nathan DeDino, A Well-Regulated Right: The Early American Origins of Gun
+Control, 73 Fordham L. Rev. 487 (2004).
+4. Actually, I predict that the Court will avoid the choice between the individual
+and the collective rights views by holding that under either view gun control laws can
+be upheld. Even if the Second Amendment is interpreted from the individual rights
+perspective, that does not mean that there is an absolute right. The Supreme Court
+could uphold virtually all gun control laws by concluding that they serve a sufficiently
+important social interest as to be constitutional under either approach to the Second
+Amendment. As described infra in Part III, the Court may well be able to avoid a
+choice between the two views of the Second Amendment by deciding that the Second
+Amendment is not incorporated and does not apply to state and local governments,
+and that federal gun control laws only need meet rational basis review.
+[Vol. 73
+GUN CONTROL DEBATE
+My focus is on the debate over the meaning of the Second
+Amendment. As a matter of legal and political rhetoric, it is
+fascinating and unlike any other area of constitutional law. I do not
+seek to take and defend a position in this debate; there already has
+been so much written on both sides, I doubt I have anything to add in
+that regard. But as a scholar who has followed this literature closely,
+without ever writing on the topic, I want to offer a few thoughts on the
+gun control debate.
+I. INTERPRETING THE SECOND AMENDMENT
+When preparing my Constitutional Law casebook,5 I wanted to
+include material on the Second Amendment. This issue is an
+important constitutional one and students are interested in it, but it
+generally was given no attention in constitutional law casebooks. Still,
+I was unsure about what to include or where to place it in the book.
+The last Supreme Court decision on the Second Amendment, United
+States v. Miller,6 was in 1939 and its discussion is relatively brief. After
+a lot of thought, I decided to use the Second Amendment as an
+illustration of the debate over constitutional interpretation.
+Both sides of the debate over the Second Amendment have
+arguments based on the constitution's text, the framers' intent,
+tradition, and social policy. One side emphasizes the preamble to the
+Second Amendment, that it is about protecting a well-regulated
+militia, while the other side stresses the latter part of the Amendment
+concerning the right of individuals to keep and bear arms. Each side
+has a strong argument of what the framers intended.7
+The two sides of the debate disagree vehemently over the relevance
+of social policy. Supporters of gun control and the collective rights
+approach point to the human costs of guns. It has been estimated that
+economically the cost of gun violence is on the border of $100 billion
+per year.8 In 2002, 71.1% of murders,9 42.1% of robberies ° and 19%
+of aggravated assaults" committed in the United States involved
+firearms. In 2001, nearly 30,000 Americans died as a direct result of
+5. Erwin Chemerinsky, Constitutional Law (2001).
+6. 307 U.S. 174, 178 (1939).
+7. Contrast the review of the history and intent of the Second Amendment in
+United States v. Emerson, 270 F.3d 203 (5th Cir. 2001), reh"g en banc denied, 281 F.3d
+1281 (5th Cir. 2001), cert. denied, 536 U.S. 907 (2002) (finding that history supports
+the individual rights approach) with Silveira v. Lockyer, 328 F.3d 567 (9th Cir. 2003)
+(finding that history supports the collective rights approach).
+8. Jon S. Vernick et al., Technologies to Detect Concealed Weapons: Fourth
+Amendment Limits on a New Public Health and Law Enforcement Tool, 31 J.L. Med.
+& Ethics 567 (2003).
+9. FBI, U.S. Dep't of Justice, Crime in the United States 22 (2002), at
+http://www.fbi.gov/ucr/cius-02/pdf/2section2.pdf. There were 16,204 incidents of
+murder in 2002. Id. at 19.
+10. Id. at 32. The total number of robberies was 420,637. Id. at 31.
+11. Id. at 38. The total number of aggravated assaults was 894,348. Id. at 37.
+2004]
+FORDHAM LAW REVIEW
+gunfire, whether by murder, suicide, or accident. 12 An additional
+63,012 Americans were injured by firearms and 1433 youths under the
+age of 18 were killed by firearms.13
+But opponents of gun control dismiss the relevance of these
+statistics in determining the meaning of the Second Amendment.
+They argue that the text and framers' intent, and not social policy,
+should control constitutional interpretation. Also, of course, they will
+dispute whether gun control is likely to make any difference as to
+these harms. 4
+Ultimately, there are persuasive arguments on both sides, on every
+level, over the meaning of the Second Amendment.15 I thus have
+found that the Second Amendment works very well as a vehicle for
+discussing the methods of constitutional interpretation. Inevitably,
+there is a spirited discussion among students who are fairly evenly
+divided between the two camps, with each side making the
+appropriate arguments to support their position.
+Consistently, I find that the more liberal students defend the
+individual rights approach to the Second Amendment and the more
+conservative students advocate the collective rights approach.
+Discussion rarely, if ever, changes anyone's mind.
+Not surprisingly, this is no different for judges. The Fifth Circuit
+panel that decided United States v. Emerson16 was, by any measure,
+more conservative than the Ninth Circuit panel which decided Silveira
+v. Lockyer.17 As would be expected, the Fifth Circuit adopted the
+individual rights approach and the Ninth Circuit took the collective
+rights view. Both panels conscientiously looked at all available
+material, but the choice of the theory was seemingly driven by
+underlying ideology. Nor is it surprising that the one Justice on the
+current Court who has signaled his view on the Second Amendment is
+Justice Thomas, likely the most conservative member of the Court. s
+12. Nat'l Ctr. For Injury Prevention and Control, Ctr. for Disease Control and
+Prevention, Web-based Injury Statistics Query Reporting System (July 7, 2004),
+available at http://www.cdc.gov/ncipc/wisqars.
+13. Id.
+14. See, e.g., Todd Barnet, Gun "Control" Laws Violate the Second Amendment
+and May Lead to Higher Crime Rates, 63 Mo. L. Rev. 155 (1998).
+15. There is truly voluminous literature debating the meaning of the Second
+Amendment. For articles reflecting some of these views, see Sanford Levinson, The
+Embarrassing Second Amendment, 99 Yale L.J. 637 (1989); Glenn Harlan Reynolds,
+A Critical Guide to the Second Amendment, 62 Tenn. L. Rev. 461 (1995); and David
+Yassky, The Second Amendment: Structure, History, and Constitutional Change, 99
+Mich. L. Rev. 588 (2000).
+16. 270 F.3d 203 (5th Cir. 2001). reh'g en banc denied, 281 F.3d 1281 (5th Cir.
+2001). cert. denied. 536 U.S. 907 (2002).
+17. 312 F.3d 1052 (9th Cir. 2002).
+18. See Printz v. United States, 521 U.S. 898, 936-39 (1997) (Thomas, J.,
+concurring).
+[Vol. 73
+GUN CONTROL DEBATE
+The point is that the meaning of the Second Amendment is not
+determined by the application of constitutional theory or interpretive
+methodologies. It is a product entirely of the values and politics of the
+individual. This does not deny that legal arguments are made in terms
+of text, framers' intent, tradition, and social policy. Rather, in an area
+such as this, with strong arguments and views on each side, a judge or
+scholar inevitably will come to a conclusion and then justify it based
+on the ample available material. The choice is going to depend on the
+ideology of the interpreter. This phenomenon, of course, is not
+unique to the Second Amendment. But the Second Amendment is an
+excellent illustration of the difference between discovery and
+justification; how people discover their views is quite different from
+how those views are justified. This is true for both sides of the Second
+Amendment debate: each side, based on its political ideology, has a
+position and each is defended based on all available materials. In the
+hypothetical constitutional convention or in the Supreme Court or for
+any person trying to decide, whether there is an individual right to
+have guns is a value choice; it is not a decision that can be made by
+applying constitutional theories or interpretive methodologies.
+II. THE CULTURAL CONTEXT
+The political and value choice described above must be understood
+in the larger cultural context. Society is obviously deeply divided over
+the issue of gun control and the meaning of the Second Amendment.
+There appears to be no bridge between the two sides. Those who
+oppose gun control espouse a romantic individualism where guns are
+part of individual freedom and the right of people to protect
+themselves. Those who favor gun control stress the collective good
+and the harms guns cause to society. These are radically different
+visions.
+But what is interesting and puzzling is why this divide developed;
+what accounts for the differing visions? One possibility is that it is a
+reflection of differences in personal experience. For example, some in
+our society hunt, some abhor hunting; without question, the former
+oppose gun control, while the latter favor it. For some, hunting is an
+exhilarating hobby. For others, it is not a fair sport at all when one
+side is an unarmed animal and the other is a hunter with a rifle with a
+super-scope and the latest technology.
+While this provides some of the explanation for the difference in
+views about guns, it does not really account for why conservatives
+consistently take the individual rights position, while progressives take
+the collective rights approach. It is not clear why hunters would want
+to protect weapons that never could be used for that purpose, such as
+handguns or machine guns that would shred an animal. Nor does this
+explain why gun control foes oppose strict background checks and
+2004]
+FORDHAM LAW REVIEW
+registration; hunters would seemingly have no problem with this so
+long as it allowed them to retain the guns they needed for hunting.
+Nor does the likelihood that a person has been or might be a victim
+of crime account for the difference. One might expect that those most
+vulnerable to violent crimes-city dwellers, women-would be the
+strongest opponents of gun control. Yet, the opposite is true as these
+are groups that consistently favor laws restricting ownership of guns.
+A second possible cultural explanation for the divide in attitudes
+over firearms might be that it is based on the perceived need to
+protect oneself from tyrannical government. A frequent theme in
+anti-gun control literature is that a right to own guns is important so
+that people can stage a revolution if necessary and oppose a tyrannical
+government. Obviously, this argument has rhetorical appeal to some
+in society; it expresses a rugged individualism where people can stand
+up to the government, with arms if necessary.
+But for those who don't share this perspective, the argument seems
+silly. With the possible exception of the Civil War, never in the 217-
+year history of the United States have people needed guns for this
+purpose. If ever there were a truly tyrannical government in the
+United States, it is highly questionable that individuals having their
+own guns would make much difference. Interestingly, Robert Bork
+put this best when he said: "The Second Amendment was designed to
+allow states to defend themselves against a possibly tyrannical
+national government. Now that the federal government has stealth
+bombers and nuclear weapons, it is hard to imagine what people
+would need to keep in the garage to serve that purpose."19 The
+incredibly remote chance that guns might be helpful against a
+tyrannical government hardly seems a reason to accept the
+tremendous human costs of guns.
+Also, I always have found an irony to this argument. One would
+imagine that those who fear a tyrannical government would be most
+likely to favor robust judicial protection of individual rights and equal
+protection. Courts enforcing constitutional rights are one of the best
+checks to prevent tyranny. But, of course, it is conservatives who
+oppose gun control who also urge the most limited role for the courts
+and the narrowest scope for individual rights."z
+A third possible cultural explanation for differences of opinions
+over guns is that it relates to perceived distrust in the government.
+Slippery slope arguments play a critical role in gun control debates.
+Those who take the individual rights approach oppose all forms of
+government regulation of guns and frequently express their fear that
+19. Robert H. Bork, Slouching Towards Gomorrah 166 note (1996).
+20. Robert Bork, quoted above, obviously is an exception to this pattern, in that
+he is a conservative who does not view the Second Amendment as protecting an
+individual's right to have guns. Id.
+[Vol. 73
+GUN CONTROL DEBATE
+once the government begins regulating, there is no stopping it.
+Background checks or registration are perceived as just the first step
+to the government confiscating every gun.
+But this, too, doesn't succeed in explaining the political divide over
+guns. Surely liberals distrust the government just as much as
+conservatives. In fact, in the area of criminal procedure, it generally is
+conservatives who favor more deference to the police, and liberals
+who want more constitutional limits on police behavior through the
+Fourth and Fifth Amendments. This seems at odds with the distrust
+in the government and law enforcement that underlies the individual
+rights position. Also, slippery slope arguments have rhetorical appeal,
+but are much weaker as a matter of logic; there is no reason why
+registration is the first step to a progression that will lead to the
+confiscation of all guns.
+This brief review of possible cultural explanations for the difference
+in views between liberals and conservatives about guns leaves me
+puzzled. There does not seem to be a rational account for why
+conservatives consistently take the individual rights view, while
+liberals take the collective rights position. One could imagine it
+having turned out just the other way, as liberals would urge a broad
+view of the Second Amendment, as they do for other Bill of Rights
+provisions. But something else is going on to account for why guns
+and gun control have become such powerful symbols in our cultural
+divide. This issue seems a fascinating one, but so far has not been
+addressed in the huge literature of the Second Amendment.
+III. OBSCURING THE LEGAL ISSUES
+My goal thus far has been to center the gun control debate in the
+larger political and cultural context. But I fear that doing so obscures
+the legal issues that are likely to confront courts. Indeed, having read
+so much of the scholarly literature in the gun control debate, I have
+the sense that relatively little of it has anything to do with the legal
+issues concerning guns that will need to be addressed in the courts in
+the years ahead. The question before courts is not going to be
+whether the government can ban all ownership of firearms. Yet, that
+seems to be the underlying question debated in so much of the
+scholarly literature.
+The major recent cases concerning guns involved laws limiting
+ownership of guns by those subject to restraining orders in domestic
+relations cases,2 and a ban on assault weapons.22 Proposals for
+further control of guns include: universal background checks; a
+21. See Emerson, 270 F.3d at 203 (upholding the law, though adopting the
+individual rights approach).
+22. See Lockyer, 328 F.3d at 567 (upholding the ban on assault weapons, while
+adopting the collective rights approach).
+2004]
+FORDHAM LAW REVIEW
+national registry for guns; more limits on the ability of those with a
+history of mental illness or violence to have guns; greater restrictions
+on particular types of guns and ammunition that are likely to cause
+grave harms; and more liability for gun manufacturers in civil cases.
+What are likely to be the legal issues when existing laws, like those
+in Emerson 3 or Lockyer,24 or possible future laws, like those
+mentioned above, are challenged in the courts? One issue is sure to
+be whether the Second Amendment applies to state and local
+governments. The Supreme Court has never held that the Second
+Amendment is incorporated or that it even applies to state and local
+governments. Although I agreed with the Ninth Circuit's analysis and
+conclusions in Silveira in upholding California's assault weapons ban,
+I found it very troubling that the court simply assumed that the
+Second Amendment applies to the states. If the Second Amendment
+is not incorporated, then there was no need for the court to even
+consider whether the individual or collective rights approach is best.
+The case should have been decided simply on the grounds that the
+Second Amendment did not apply at all. The court, apparently out of
+a desire to express its views on the constitutional debate, begged the
+question of whether the Second Amendment is incorporated.
+A second major legal issue concerns what level of scrutiny should
+be used, even assuming that the individual rights position is accepted.
+The assumption in the debate seems to be that an individual rights
+approach would mean strict scrutiny would be used when courts
+appraise the constitutionality of gun control measures. But there is no
+reason why this must necessarily be so. There are claims of individual
+rights under textual provisions of the Constitution which receive only
+rational basis review. Claims of economic liberties, such as freedom
+of contract under the Due Process Clause, have received only rational
+basis review.
+A third issue which will need to be resolved by courts concerns
+what is an infringement of the right to bear arms, even assuming an
+individual rights approach is taken. Is a requirement for background
+checks a violation of an individual's rights under the Second
+Amendment? Does liability for gun manufacturers violate this right?
+It is easy to imagine that even if the individual rights approach is
+taken, courts could allow such regulation and liability on the grounds
+that they do not infringe upon the rights protected by the Second
+Amendment.
+Indeed, it is striking that the intense debate in the public and
+scholarly arenas over the meaning of the Second Amendment seems
+to have so little relevance to these legal questions. It is easy to
+imagine a court accepting the individual rights approach and then
+23. Emerson, 270 F.3d at 203.
+24. Lockyer, 328 F.3d at 567.
+[Vol. 73
+GUN CONTROL DEBATE
+upholding every likely gun restriction. State and local laws could be
+upheld by courts reaffirming that the Second Amendment is not
+incorporated. Federal laws could be upheld by courts using rational
+basis review.
+Put another way, the debate between the individual and collective
+rights approaches to the Second Amendment might be completely
+irrelevant to resolving the legal issues actually likely to arise and
+confront courts. The enormous attention focused on this choice
+between perspectives of the Second Amendment obscures the real
+legal issues likely to be litigated and faced by courts.
+CONCLUSION
+The debate over the meaning of the Second Amendment will never
+be resolved. Guns have become such a symbol and the debate is so
+visceral that it is difficult to imagine a bridge between the two sides.
+For one side, guns are a symbol of individual freedom; gun ownership
+is seen as a fundamental personal right, and gun control is regarded as
+a major step towards tyranny. For the other side, guns inflict
+enormous death and pain and suffering and gun control is an essential
+step towards protecting public safety. For those on this side, like
+myself, it is inconceivable why someone would want to be near, let
+alone own, a gun.
+The debate over the Second Amendment can be phrased in the
+fanciest language and each side can develop sophisticated arguments
+as to the meaning of the Constitution's text, supported by apt
+quotations from relevant framers. But in the end, these arguments are
+just ways in which each side defends its deeply held views about guns
+and gun control.
+At any point in time, certain issues define who is a liberal and who
+is a conservative. Guns today seem to be such an issue. Certainly,
+politically this is so, and if Emerson and Lockyer are predictors, this
+proposition will be true in the courts as well, and judges' decisions will
+reflect their underlying ideologies. With regard to the meaning of the
+Second Amendment, conservative judges are likely to take the
+individual rights approach and liberal judges are likely to take the
+collective rights approach.
+Yet, I wonder if the abstract choice between the two competing
+world views of the Second Amendment will really be necessary. If the
+Second Amendment is not deemed to be incorporated, and if only
+rational basis review is used, then virtually all gun control can be
+upheld, no matter which approach is taken.
+2004]
+Notes & Observations

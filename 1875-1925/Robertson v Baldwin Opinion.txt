@@ -1,0 +1,137 @@
+MR. JUSTICE BROWN, after stating the facts in the foregoing language, delivered the opinion of the Court.
+
+Upon what ground the court below dismissed the writ and remanded the petitioners does not appear, but the record raises two questions of some importance: first, as to the constitutionality of Rev.Stat. §§ 4598, 4599, insofar as they confer jurisdiction upon justices of the peace to apprehend deserting seamen and return them to their vessel; second, as to the conflict of the same sections, and also § 4596, with the Thirteenth Amendment to the Constitution, abolishing slavery and involuntary servitude.
+
+Section 4598, which was taken from § 7 of the Act of July 20, 1790, reads as follows:
+
+"SEC. 4598. If any seaman who shall have signed a contract to perform a voyage shall at any port or place desert, or shall absent himself from such vessel without leave of the master or officer commanding in the absence of the master, it shall be lawful for any justice of the peace within the United States, upon the complaint of the master, to issue his warrant to apprehend such deserter and bring him before such justice, and if it then appears that he has signed a contract within the intent and meaning of this title, and that the voyage agreed for is not finished, or altered, or the contract otherwise dissolved, and that such seaman has deserted the vessel or absented himself without leave, the justice shall commit him to the house of correction or common jail of the city, town, or place, to remain there until the vessel shall be ready to proceed on her voyage, or till the master shall require his discharge, and then to be delivered to the master, he paying all the cost of such commitment, and deducting the same out of the wages due to such seaman. "
+
+Page 165 U. S. 278
+
+Section 4599, which was taken for § 53 of the Shipping Commissioners' Act of June 7, 1872, authorizes the apprehension of deserting seamen, with or without the assistance of the local public officers or constables and without a warrant, and their conveyance before any court of justice or magistrate of the state, to be dealt with according to law.
+
+Section 4596, which is also taken from the same act, provides punishment by imprisonment for desertion, refusal to join the vessel, or absence without leave.
+
+1. The first proposition, that Congress has no authority under the Constitution to vest judicial power in the courts or judicial officers of the several states, originated in an observation of Mr. Justice Story, in Martin v. Hunter's Lessees, 1 Wheat. 304, 14 U. S. 330, to the effect that "Congress cannot vest any portion of the judicial power of the United States, except in courts ordained and established by itself." This was repeated in Houston v. Moore, 5 Wheat. 1, 18 U. S. 27, and the same general doctrine has received the approval of the courts of several of the states. United States v. Lathrop, 17 Johns. 4; Ely v. Peck, 7 Conn. 239; United States v. Campbell 6 Hall's Law Jour. 113. These were all actions for penalties, however, wherein the courts held to the familiar doctrine that the courts of one sovereignty will not enforce the penal laws of another. Huntington v. Attrill, 146 U. S. 657, 146 U. S. 672. In Commonwealth v. Feely, 1 Va.Cases 325, it was held by the General Court of Virginia, in 1813, that the state courts could not take jurisdiction of an indictment for a crime committed against an act of Congress.
+
+In Ex Parte Knowles, 5 Cal. 300, it was also held that Congress had no power to confer jurisdiction upon the courts of a state to naturalize aliens, although, if such power be recognized by the legislature of a state, it may be exercised by the courts of such state of competent jurisdiction.
+
+In State v. Rutter, 12 Niles' Register 115, 231, it was held in 1817 by Judges Bland and Hanson of Maryland that Congress had no power to authorize justices of the peace to issue warrants for the apprehension of offenders against the laws of
+
+Page 165 U. S. 279
+
+the United States. A directly contrary view, however, was taken by Judge Cheves of South Carolina in Ex Parte Rhodes, 12 Niles' Register 264.
+
+The general principle announced by these cases is derived from the third article of the Constitution, the first section of which declares that
+
+"The judicial power of the United States shall be vested in one Supreme Court and in such inferior courts as the Congress may from time to time ordain and establish,"
+
+the judges of which courts "shall hold their offices during good behavior," etc., and, by the second section,
+
+"The judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority; to all cases affecting ambassadors, other public ministers and consuls; to all cases of admiralty and maritime jurisdiction; to controversies to which the United States shall be a party; to controversies between two or more states; between a state and citizens of another state; between citizens of different states; between citizens of the same state claiming lands under grants of different states, and between a state or the citizens thereof, and foreign states, citizens or subjects."
+
+The better opinion is that the second section was intended as a constitutional definition of the judicial power, Chisholm v. Georgia, 2 Dall. 419, 2 U. S. 475, which the Constitution intended to confine to courts created by Congress -- in other words, that such power extends only to the trial and determination of "cases" in courts of record, and that Congress is still at liberty to authorize the judicial officers of the several states to exercise such power as is ordinarily given to officers of courts not of record -- such, for instance, as the power to take affidavits, to arrest and commit for trial offenders against the laws of the United States, to naturalize aliens, and to perform such other duties as may be regarded as incidental to the judicial power, rather than a part of the judicial power itself. This was the view taken by the Supreme Court of Alabama in Ex Parte Gist, 26 Ala. 156, wherein the authority of justices of the peace and other such officers to arrest and commit for a violation of the criminal law of the United States
+
+Page 165 U. S. 280
+
+was held to be no part of the judicial power within the third article of the Constitution. And in the case of Prigg v. Pennsylvania, 16 Pet. 539, it was said that, as to the authority conferred on state magistrates to arrest fugitive slaves and deliver them to their owners under the Act of February 12, 1793, while a difference of opinion existed and might still exist upon this point in different states, whether state magistrates were bound to act under it, no doubt was entertained by this Court that state magistrates might, if they chose, exercise the authority, unless prohibited by state legislation. See also Moore v. Illinois, 14 How. 13; In re Kaine, 14 How. 103.
+
+We think the power of justices of the peace to arrest deserting seamen and deliver them on board their vessel is not within the definition of the "judicial power" as defined by the Constitution, and may be lawfully conferred upon state officers. That the authority is a most convenient one to entrust to such officers cannot be denied, as seamen frequently leave their vessels in small places, where there are no federal judicial officers and where a justice of the peace may usually be found with authority to issue warrants under the state laws.
+
+2. The question whether sections 4598 and 4599 conflict with the Thirteenth Amendment, forbidding slavery and involuntary servitude, depends upon the construction to be given to the term "involuntary servitude." Does the epithet "involuntary" attach to the word "servitude" continuously, and make illegal any service which becomes involuntary at any time during its existence, or does it attach only at the inception of the servitude, and characterize it as unlawful because unlawfully entered into? If the former be the true construction, then no one, not even a soldier, sailor, or apprentice, can surrender his liberty, even for a day, and the soldier may desert his regiment upon the eve of battle, or the sailor abandon his ship at any intermediate port or landing, or even in a storm at sea, provided only he can find means of escaping to another vessel. If the latter, then an individual may, for a valuable consideration, contract for the surrender of his personal liberty for a definite time and for a recognized purpose, and subordinate his going and coming to the will of
+
+Page 165 U. S. 281
+
+another during the continuance of the contract; not that all such contracts would be lawful, but that a servitude which was knowingly and willingly entered into could not be termed "involuntary." Thus, if one should agree, for a yearly wage, to serve another in a particular capacity during his life, and never to leave his estate without his consent, the contract might not be enforceable for the want of a legal remedy, or might be void upon grounds of public policy; but the servitude could not be properly termed "involuntary." Such agreement for a limited personal servitude at one time were very common in England, and by statute of June 17, 1823, 4 Geo. IV. c. 34, § 3, it was enacted that if any servant in husbandry or any artificer, calico printer, handcraftsman, miner, collier, keelman, pitman, glassman, potter, laborer or other person should contract to serve another for a definite time and should desert such service during the term of the contract, he was made liable to a criminal punishment. The breach of a contract for personal service has not, however, been recognized in this country as involving a liability to criminal punishment, except in the cases of soldiers, sailors, and possibly some others; nor would public opinion tolerate a statute to that effect.
+
+But we are also of opinion that even if the contract of a seaman could be considered within the letter of the Thirteenth Amendment, it is not, within its spirit, a case of involuntary servitude. The law is perfectly well settled that the first ten amendments to the Constitution, commonly known as the "Bill of Rights," were not intended to lay down any novel principles of government, but simply to embody certain guaranties and immunities which we had inherited from our English ancestors, and which had, from time immemorial, been subject to certain well recognized exceptions arising from the necessities of the case. In incorporating these principles into the fundamental law, there was no intention of disregarding the exceptions, which continued to be recognized as if they had been formally expressed. Thus, the freedom of speech and of the press (Art. I) does not permit the publication of libels, blasphemous or indecent articles, or other publications injurious to public morals or private reputation; the right of the people
+
+Page 165 U. S. 282
+
+to keep and bear arms (Art. II) is not infringed by laws prohibiting the carrying of concealed weapons; the provision that no person shall be twice put in jeopardy (Art. V) does not prevent a second trial if upon the first trial the jury failed to agree or if the verdict was set aside upon the defendant's motion, United States v. Ball, 163 U. S. 662, 163 U. S. 627, nor does the provision of the same article that no one shall be a witness against himself impair his obligation to testify if a prosecution against him be barred by the lapse of time, a pardon, or by statutory enactment, Brown v. Walker, 161 U. S. 591, and cases cited. Nor does the provision that an accused person shall be confronted with the witnesses against him prevent the admission of dying declarations, or the depositions of witnesses who have died since the former trial.
+
+The prohibition of slavery in the Thirteenth Amendment is well known to have been adopted with reference to a state of affairs which had existed in certain states of the Union since the foundation of the government, while the addition of the words "involuntary servitude" were said, in the Slaughterhouse Cases, 16 Wall. 36, to have been intended to cover the system of Mexican peonage and the Chinese coolie trade, the practical operation of which might have been a revival of the institution of slavery under a different and less offensive name. It is clear, however, that the amendment was not intended to introduce any novel doctrine with respect to certain descriptions of service which have always been treated as exceptional, such as military and naval enlistments, or to disturb the right of parents and guardians to the custody of their minor children or wards. The amendment, however, makes no distinction between a public and a private service. To say that persons engaged in a public service are not within the amendment is to admit that there are exceptions to its general language, and the further question is at once presented, where shall the line be drawn? We know of no better answer to make than to say that services which have from time immemorial been treated as exceptional shall not be regarded as within its purview.
+
+From the earliest historical period, the contract of the sailor
+
+Page 165 U. S. 283
+
+has been treated as an exceptional one, and involving, to a certain extent, the surrender of his personal liberty during the life of the contract. Indeed the business of navigation could scarcely be carried on without some guaranty, beyond the ordinary civil remedies upon contract, that the sailor will not desert the ship at a critical moment or leave her at some place where seamen are impossible to be obtained -- as Molloy forcibly expresses it, "to rot in her neglected brine." Such desertion might involve a long delay of the vessel while the master is seeking another crew, an abandonment of the voyage, and, in some cases, the safety of the ship itself. Hence, the laws of nearly all maritime nations have made provision for securing the personal attendance of the crew on board, and for their criminal punishment for desertion, or absence without leave, during the life of the shipping articles.
+
+Even by the maritime law of the ancient Rhodians, which is supposed to antedate the birth of Christ by about 900 years, according to Pardessus (Lois Mar. vol. 1, page 250), if the master or the sailors absented themselves by night, and the vessel were lost or damaged, they were bound to respond in the amount of the loss.
+
+In the compilation of maritime laws known as the "Consulate of the Sea," it was also provided that a sailor should not go ashore without permission, upon the penalty of being obliged to pay any damage occasioned by his absence, and, in default of his being able to respond, of being thrust in prison until he had paid all such damage. Chapters 121, 124; 2 Pardessus 146-148.
+
+A like provision is found in the Rules of Oleron, promulgated in the reign of Henry III., by which, Art. V, the seamen were forbidden to leave the ship without the master's consent. "If they do, and by that means she happens to be lost or damnified, they shall be answerable for the damage." 1 Pet.Ad. xi. A similar prohibition is found in article 17 of the Laws of Wisbuy. 1 Pet.Ad. lxxiii.
+
+The laws of the towns belonging to the Hanseatic League, first enacted and promulgated in 1597, were still more explicit and severe. No seaman might go ashore without the consent
+
+Page 165 U. S. 284
+
+of the master or other officer, and if he remained longer than the time allowed, was condemned to pay a fine or suffer an imprisonment (Arts. 22 and 23); and, by article forty, if a seaman went ashore without leave, and the ship happened to receive any damage, "he shall be kept in prison upon bread and water for one year," and if any seaman died or perished for the want of the assistance of the absent seaman, the latter was subject to corporal punishment, and, by article forty-three,
+
+"if an officer or seaman quits a ship and conceals himself, if afterwards he is apprehended, he shall be delivered up to justice to be punished; he shall be stigmatized in the face with the first letter of the name of the town to which he belongs."
+
+1 Pet.Ad. cii.
+
+By the Marine Ordinance of Louis XIV., which was in existence at the time the Constitution was adopted (Title Third, Art. III),
+
+"if a seaman leaves a master without a discharge in writing before the voyage is begun, he may be taken up and imprisoned wherever he can be found, and compelled to restore what he has received, and serve out the time for which he had engaged himself for nothing, and if he leaves the ship after the voyage is begun, he may be punished corporally."
+
+Art. V:
+
+"After the ship is laded, the seamen shall not go ashore without leave from the master, under pain of five livres for the first fault, and may be punished corporally if they commit a second."
+
+The present Commercial Code of France, however, makes no express provision upon the subject; but by the general mercantile law of Germany, Art. 532,
+
+"the master can cause any seaman, who, after having been engaged, neglects to enter upon or continue to do his duties, to be forcibly compelled to perform the same."
+
+By the Dutch Code, Art. 402,
+
+"the master or his representative can call in the public force against those who refuse to come on board, who absent themselves from the ship without leave and refuse to perform to the end of the service for which they were engaged."
+
+Nearly all of the ancient commercial codes either make provision for payment of damages by seamen who absent
+
+Page 165 U. S. 285
+
+themselves from their ships without leave or for their imprisonment or forcible conveyance on board. Some of the modern commercial codes of Europe and South America make similar provisions. Argentine Code, Art. 1154. Others, including the French and Spanish Codes, are silent upon the subject.
+
+Turning now to the country from which we have inherited most immediately our maritime laws and customs, we find that Malynes, the earliest English writer upon the law merchant, who wrote in 1622, says in his Lex Mercatoria (vol. I, c. 23) that
+
+"mariners in a strange port should not leave the ship without the master's license, or fastening her with four ropes, or else the loss falls upon them. . . . In a strange country, the one-half of the company at least, ought to remain on shipboard, and the rest who go on land should keep sobriety and abstain from suspected places, or else should be punished in body and purse; like as he who absents himself when the ship is ready to sail. Yea, if he give out himself worthier than he is in his calling, he shall lose his hire -- half to the admiral and the other half to the master."
+
+Molloy, one of the most satisfactory of early English writers upon the subject, states that if seamen depart from a ship without leave or license of the master and any disaster happens, they must answer, quoting Art. V of the Rules of Oleron in support of his proposition.
+
+There appears to have been no legislation directly upon the subject until 1729, when the Act of 2 Geo. II. c. 36, was enacted "for the better regulation and government of seamen in the merchants' service." This act not only provided for the forfeiture of wages in case of desertion, but for the apprehension of seamen deserting or absenting themselves, upon warrants to be issued by justices of the peace, and, in case of their refusal to proceed upon the voyage, for their committal to the house of correction at hard labor. Indeed, this seems to have furnished a model upon which the act of Congress of July 20, 1790 (1 Stat. 131), for the government and regulation of seamen in the merchants' service, was constructed. The provisions of this act were substantially repeated by the
+
+Page 165 U. S. 286
+
+Act of 1791 (31 Geo. III, c. 39), and were subsequently added to and amended by the acts of 5 & 6 Wm. IV, c.19, and 7 & 8 Vict., c. 112.
+
+The modern law of England is full and explicit upon the duties and responsibilities of seamen. By Merchants' Shipping Act 1854, 17 & 18 Victoria, c. 104, section 243, a seaman guilty of desertion might be summarily punished by imprisonment, by forfeiture of his clothes and effects, and all or any part of his wages. Similar punishment was meted out to him for neglecting or refusing to join his ship or to proceed to sea, or for absence without leave at any time. By section 246,
+
+"whenever at the commencement or during the progress of any voyage, any seaman or apprentice neglects or refuses to join, or deserts from or refuses to proceed to sea in any ship in which he is duly engaged to serve,"
+
+the master was authorized to call upon the police officers or constables to apprehend him without warrant and take him before a magistrate who, by article 247, was authorized to order him to be conveyed on board for the purpose of proceeding on the voyage.
+
+The provision for imprisonment for desertion seems to have been repealed by the Merchants' Seamen (Payment of Wages and Rating) Act of 1880, but the tenth section of that act retained the provision authorizing the master to call upon the police officers or constables to convey deserting seamen on board their vessels.
+
+This act, however, appears to have been found too lenient, since, in 1894, the whole subject was reconsidered and covered in the new Merchants' Shipping Act, 57 & 58 Vict., c. 60, of 748 sections, section 221 of which provides not only for the forfeiture of wages in case of desertion, but for imprisonment with or without hard labor, except in cases arising in the United Kingdom. The provision for the arrest of the deserting seaman and his conveyance on board the ship is, however, retained both within and without the kingdom. §§ 222, 223. This is believed to be the latest legislation on the subject in England.
+
+The earliest American legislation which we have been able
+
+Page 165 U. S. 287
+
+to find is an act of the Colonial General Court of Massachusetts, passed about 1668, wherein it was enacted that any mariner who departs and leaves a voyage upon which he has entered shall forfeit all his wages and shall be further punished by imprisonment or otherwise, as the case may be circumstanced, and if he shall have received any considerable part of his wages and shall run away, he shall be pursued as a disobedient runaway servant. Mass.Col.Laws (ed. 1889) 251, 256.
+
+The provision of Rev.Stat. § 4598, under which these proceedings were taken, was first enacted by Congress in 1790. 1 Stat. 131, § 7. This act provided for the apprehension of deserters and their delivery on board the vessel, but apparently made no provision for imprisonment as a punishment for desertion; but by the Shipping Commissioners' Act of 1872, 17 Stat. 243, § 51, now incorporated into the Revised Statutes as section 4596, the court is authorized to add to forfeiture of wages for desertion imprisonment for a period of not more than three months, and for absence without leave, imprisonment for not more than one month. In this act and the amendments thereto, very careful provisions are made for the protection of seamen against the frauds and cruelty of masters, the devices of boarding house keepers, and, as far as possible, against the consequences of their own ignorance and improvidence. At the same time, discipline is more stringently enforced by additional punishments for desertion, absence without leave, disobedience, insubordination, and barratry. Indeed, seamen are treated by Congress, as well as by the Parliament of Great Britain, as deficient in that full and intelligent responsibility for their acts which is accredited to ordinary adults, and as needing the protection of the law in the same sense in which minors and wards are entitled to the protection of their parents and guardians. Quemadmodum pater in filios, magister in discipulos, dominus in servos vel familiares. The ancient characterization of seamen as "wards of admiralty" is even more accurate now than it was formerly.
+
+In the face of this legislation upon the subject of desertion and absence without leave, which was in force in this country
+
+Page 165 U. S. 288
+
+for more than sixty years before the Thirteenth Amendment was adopted, and similar legislation abroad from time immemorial, it cannot be open to doubt that the provision against involuntary servitude was never intended to apply to their contracts.
+
+The judgment of the court below is therefore
+
+Affirmed.
