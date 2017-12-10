@@ -1,0 +1,1069 @@
+Chicago-Kent Law Review
+Volume 76
+Issue 1 Symposium on the Second Amendment: Fresh
+Looks
+Article 2
+October 2000
+The History and Politics of Second Amendment
+Scholarship: A Primer
+Carl T. Bogus
+Follow this and additional works at: http://scholarship.kentlaw.iit.edu/cklawreview
+Part of the Law Commons
+This Article is brought to you for free and open access by Scholarly Commons @ IIT Chicago-Kent College of Law. It has been accepted for inclusion
+in Chicago-Kent Law Review by an authorized editor of Scholarly Commons @ IIT Chicago-Kent College of Law. For more information, please
+contact dginsberg@kentlaw.iit.edu.
+Recommended Citation
+Carl T. Bogus, The History and Politics of Second Amendment Scholarship: A Primer, 76 Chi.-Kent. L. Rev. 3 (2000).
+Available at: http://scholarship.kentlaw.iit.edu/cklawreview/vol76/iss1/2
+THE HISTORY AND POLITICS OF SECOND AMENDMENT
+SCHOLARSHIP: A PRIMER
+CARL T. BOGUS*
+This Symposium not only brings together the most impressive
+collection of scholars ever to address the Second Amendment but
+represents something of an historical event as well. A short
+description of the history and politics of Second Amendment
+scholarship is necessary to explain why that is so.
+If there is such a thing as settled constitutional law, the Second
+Amendment may have been its quintessential example. The United
+States Supreme Court addressed the Amendment three' times-in
+1876,2 1886,3 and 19394-and on each occasion held that it granted the
+people a right to bear arms only within the militia.' Although in some
+circles today there is much discussion about what the word "militia"
+means, the Supreme Court had no trouble with the term. It held that
+the Amendment referred to the militia defined in Article I, Section 8
+of the Constitution, that is, the militia organized by Congress and
+* Associate Professor, Roger Williams University School of Law. The author thanks
+Michael A. Bellesiles, Michael C. Dorf, Cynthia J. Giles, and Lois G. Schwoerer for their
+helpful comments on a draft of this Article.
+1. Some include within this list a fourth case, Miller v. Texas, 153 U.S. 535 (1894).
+However, the Court merely found there was no federal question and dismissed that case on
+jurisdictional grounds. Id. at 537-38. The Court brushed aside the defendant's argument that a
+state statute making it unlawful to carry dangerous weapons on one's person violated the
+Second Amendment with the comment that it had "examined the record in vain ... to find
+where the defendant was denied the benefit" of either the Second or Fourth Amendments, "and, even if he were, it is well settled that the restrictions of these amendments operate only
+upon the federal power, and have no reference whatever to proceedings in state courts." Id. at
+538. Arguably this consists only of dicta and a holding that the Second and Fourth
+Amendments are binding only on the federal government and not on the states. For whatever it
+is worth (and I, for one, think it is not worth much), the substantive comment is consistent with
+United States v. Cruikshank, 92 U.S. 542 (1876), which it cites, and the collective right
+interpretation of the Second Amendment.
+2. Cruikshank, 92 U.S. 542 (1876).
+3. Presser v. Illinois, 116 U.S. 252 (1886).
+4. United States v. Miller, 307 U.S. 174 (1939).
+5. See Cruikshank, 92 U.S. at 553 (holding that the Second Amendment leaves the people
+to look for their protection to the "internal police"); Presser, 116 U.S. at 584 (holding that an
+Illinois military code which prohibited public drilling with arms for anyone not in a militia did
+not violate the Second Amendment); United States v. Miller, 307 U.S. at 178 (holding that the
+Second Amendment does not guarantee a right to keep a "shotgun having a barrel of less than
+eighteen inches in length" if it is not necessary to maintain a "well regulated militia").
+CHICA GO-KENT LA W REVIEW
+subject to joint federal and state control.6 This is generally referred to
+as the "collective right" model because it holds that the Second
+Amendment grants the people a collective right to an armed militia,
+as opposed to an individual right to keep and bear arms for one's own
+purposes outside of, or even notwithstanding, governmental regulation.
+For nearly a century, the collective right model remained not
+only widely accepted but uncontroversial. While from time to time
+Second Amendment challenges were raised to ordinances or court
+orders restricting possession of firearms, the courts-relying on the
+Supreme Court's three opinions-steadfastly adhered to the
+collective right position.7 And as Professor Robert J. Spitzer discovered
+in the course of his work for this Symposium, from the time
+6. The Court wrote:
+The Constitution as originally adopted granted to the Congress power-"To provide
+for calling forth the Militia to execute the Laws of the Union, suppress Insurrections
+and repel Invasions; To provide for organizing, arming and disciplining, the Militia,
+and for governing such Part of them as may be employed in the Service of the United
+States, reserving to the States respectively, the Appointment of the Officers, and the
+Authority of training the Militia according to the discipline prescribed by Congress."
+With obvious purpose to assure the continuation and render possible the effectiveness
+of such forces the declaration and guarantee of the Second Amendment were made. It
+must be interpreted and applied with that end in view.
+United States v. Miller, 307 U.S. at 178 (citation omitted).
+7. See, e.g., United States v. Tot, 131 F.2d 261, 266 (3d Cir. 1942), rev'd on other grounds,
+319 U.S. 463 (1943). The court wrote:
+It is abundantly clear both from the discussions of this amendment contemporaneous
+with its proposal and adoption and those of learned writers since that this amendment,
+unlike those providing for protection of free speech and freedom of religion, was not
+adopted with individual rights in mind, but as a protection for the States in the
+maintenance of their militia organizations against possible encroachments by the
+federal power.
+Id; see also United States v. Johnson, 497 F.2d 548, 550 (4th Cir. 1974) ("The courts have
+consistently held that the Second Amendment only confers a collective right of keeping and
+bearing arms which must bear a 'reasonable relationship to the preservation or efficiency of a
+well regulated militia."') (citation omitted); Stevens v. United States, 440 F.2d 144, 149 (6th Cir.
+1971) ("Since the Second Amendment right to 'keep and bear Arms' applies only to the right of
+the State to maintain a militia and not to the individual's right to bear arms, there can be no
+serious claim to any express constitutional right of an individual to possess a firearm."); Quilici
+v. Village of Morton Grove, 695 F.2d 261, 270 (7th Cir. 1982) ("[I]t seems clear that the right to
+bear arms is inextricably connected to the preservation of a militia.... [W]e conclude that the
+right to keep and bear handguns is not guaranteed by the second amendment."); United States
+v. Nelsen, 859 F.2d 1318, 1320 (8th Cir. 1988) ("Nelsen claims to find a fundamental right to
+keep and bear arms in [the Second] [A]mendment, but this has not been the law for at least 100
+years.... [Since Cruikshank, courts] have analyzed the second amendment purely in terms of
+protecting state militias, rather than individual rights."); Fresno Rifle and Pistol Club, Inc. v.
+Van de Kamp, 746 F.Supp. 1415, 1418 (E.D. Cal. 1990) ("It is clear that the Second Amendment
+guarantees a collective rather than an individual right"); Vietnamese Fishermen's Ass'n v.
+Knights of the Ku Klux Klan, 543 F.Supp. 198, 210 (S.D. Tex. 1982) ("[T]he Second
+Amendment does not imply any general constitutional right for individuals to bear arms and
+form private armies.").
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 5
+law review articles first began to be indexed in 1887 until 1960, all law
+review articles dealing with the Second Amendment endorsed the
+collective right model.8
+The first article advocating the "individual right" interpretation
+appeared in 1960. Titled The Right To Bear Arms, A Study in Judicial
+Misinterpretation, it was a student article in the William and Mary
+Law Review,9 and as Spitzer shows, it was marred by errors.10
+Nothing in the article suggests what motivated the author to write it,
+though the first source cited was the National Rifle Association's
+magazine, American Rifleman." The author conceded that courts
+adhered to the collective right view. He wrote:
+The majority of the jurisdictions have concluded that both the
+United States Constitution and the various state constitutions,
+having a similar provision relating to the right to bear arms, refer to
+the militia as a whole composed and regulated by the state as it
+desires. The individual does not have the right to own or bear
+individual arms, such being a privilege not a right.'2
+However, arguing that "society has recognized that man has the
+right to preserve his own species,"' 3 the author argued for a dual right,
+that is, both a collective right of the people to an armed, governmentregulated
+militia and an individual right to own arms for self-defense.
+Five years later the American Bar Foundation made the Second
+Amendment the topic for its annual essay contest in constitutional
+law. Contestants were asked to address the question: "What does the
+Second Amendment, guaranteeing 'the right of the people to keep
+and bear arms', mean? Does the guarantee extend to the keeping
+and bearing of arms for private purposes not connected with a
+militia?"'14 I do not know what prompted the Foundation to make the
+right to bear arms the subject of its essay contest, but I can guess. On
+November 22, 1963, President Kennedy was assassinated in Dallas,
+Texas. America was shaken. Two days later, Oswald was gunned
+down by Jack Ruby, who had carried a concealed handgun into
+Dallas police headquarters. In response, Senator Thomas Dodd of
+8. Eleven articles discussing the Second Amendment were published during this seventythree-year
+period. All endorsed the collective right model. See Robert J. Spitzer, Lost and
+Found: Researching the Second Amendment, 76 CHI.-KENT L. REV. 349, 364 & tbl.1 (2000).
+9. Stuart R. Hays, The Right to Bear Arms, A Study in Judicial Misinterpretation, 2 WM. &
+MARY L. REV. 381 (1960).
+10. See Spitzer, supra note 8, at 365-66.
+11. See Hays, supra note 9, at 381 n.1.
+12. Id. at 397.
+13. Id. at 405.
+14. 51 A.B.A. J. 554 (1965).
+CHICAGO-KENT LAW REVIEW
+Connecticut introduced legislation to ban the interstate sale of
+firearms to anyone under eighteen years of age. 5 Publicly, the
+National Rifle Association supported the bill. Opposing it would
+have presented the NRA with a serious public relations problem; Lee
+Harvey Oswald bought the rifle used to kill Kennedy by mail order
+from an advertisement in American Rifleman,16 and the NRA could
+not afford to be perceived as siding with assassins and criminals.
+Nevertheless, while officially supporting the bill the NRA spent
+$144,000 to alert its members about the proposed "anti-gun"
+legislation, suggesting they act individually to defeat "threats" to
+"loyal Americans."17 The bill never came out of committee.
+The Kennedy assassination woke America up to gun violence,
+and the existence of the gun lobby. A furious Senator Dodd called
+for an investigation "to identify and expose the activities of the
+powerful lobbyists who have successfully stopped gun legislation from
+being passed in every Congress."' 8 NRA President Bartlett Rummel
+wound up testifying before Congress, whom he told: "We have not
+drummed up people from all over the country to contact you... these
+communications to you have more or less arisen spontaneously."' 19
+The NRA won the battle (and, indeed, many subsequent battles) but
+demands for gun control would continue to grow, and increasingly the
+gun lobby would employ the Second Amendment as a defense against
+those efforts.
+This was the context in which the American Bar Foundation
+made the Second Amendment the subject of its 1965 essay contest.
+The winning essay, written by a Chicago lawyer named Robert A.
+Sprecher and published by the American Bar Association Journal in
+two installments, argued: "We should find the lost Second
+Amendment, broaden its scope and determine that it affords the right
+to arm a state militia and also the right of the individual to keep and
+bear arms." 20 Sprecher's article, though skillfully written, employed a
+flawed form of argument that was to be emulated by many of his
+successors. In support of his proposition, Sprecher cited Plato,
+Aristotle, Rousseau, Machiavelli, Adam Smith, Blackstone, Toynbee,
+15. See JOSH SUGARMANN, NATIONAL RIFLE ASSOCIATION: MONEY, FIREPOWER &
+FEAR 36 (1992).
+16. See id. at 35.
+17. Id. at 37.
+18. Id. (quoting Dodd).
+19. Id. at 36-37 (quoting Rummel).
+20. Robert A. Sprecher, The Lost Amendment, 51 A.B.A. J. 665, 669 (1965).
+[Vol. 76:3
+20001 THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 7
+the Magna Carta, the English Bill of Rights, the laws of Solon, the
+Declaration of Independence, Tom Paine, Alexander Hamilton,
+James Madison, Joseph Story, John Marshall, Hugo Black, Earl
+Warren, the Universal Declaration of Human Rights, and other
+authorities-all within nine pages. Needless to say, little or no effort
+was made to place quotations in context, within either the times and
+circumstances in which they were made or even the documents from
+which they were snipped. This was argument based not on a careful
+reading of history or on legal analysis but on Bartlett's Familiar
+Quotations.2
+Sprecher's article had other problems as well. "The few modern
+writers on the subject of the right to keep and bear arms are sharply
+divided as to whether the right is personal or relates solely to the
+militia," he wrote.2 2 Sprecher attempted to show the sharp division by
+quoting legal commentators on each side of the debate. The
+literature then contained twelve articles endorsing the collective right
+model, and Sprecher cited two. However, only a single article
+endorsing the individual right interpretation then existed: the student
+article in the William and Mary Law Review. Sprecher manufactured
+the "sharp division" by adding to the individual right side of the
+ledger a second, fifteen-year-old student article. This article,
+however, was badly misused. The author had not written to advocate
+an individual right interpretation of the Second Amendment but to
+urge adoption of uniform firearm laws, including a required national
+licensing system for target shooters, sportsmen, and others carrying
+firearms.23 With respect to the Second Amendment, the author stated
+that "viewed as a right to rebellion, this right to bear arms would
+seem to be no longer effective against an oppressive government
+controlling instruments of modern warfare. 2 4 He noted there were
+corresponding provisions in state constitutions but observed: "Every
+state now recognizes, however, that some degree of firearms
+regulation is constitutionally permissible and most states have
+enacted progressively more restrictive legislation. These statutes
+regulate possession, carrying, purchase, sale, and pledging of
+firearms."21
+21. JOHN BARTLETr, FAMILIAR QUOTATIONS (13th ed. 1955).
+22. Sprecher, supra note 20, at 668.
+23. See Frederick J. Kling, Note, Restrictions on the Right to Bear Arms: State and Federal
+Firearms Legislation, 98 U. PA. L. REV. 905, 908-11, 919 (1950).
+24. Id. at 906.
+25. Id. at 907.
+CHICAGO-KENT LAW REVIEW
+Sprecher's article is interesting because it was the first nonstudent
+article urging an individual right interpretation of the Second
+Amendment, received a major award, and was published in the
+journal with the widest circulation in the legal profession. It was to
+become the forerunner of an entire genre of Second Amendment
+writings, but not immediately. By the end of the decade, only one
+other article-a ten page, state bar journal article-had endorsed the
+individual right model. At this juncture, a total of three articles
+endorsed the individual right model and twenty-two subscribed to the
+collective right view. 26
+Over the next two decades things changed. From 1970 to 1989,
+twenty-five articles adhering to the collective right view were
+published (nothing unusual there), but so were twenty-seven articles
+endorsing the individual right model.27 However, at least sixteen of
+these articles-almost sixty percent-were written by lawyers who
+had been directly employed by or represented the NRA or other gun
+rights organizations, although they did not always so identify
+themselves in the author's footnote 8 Two of these authors, Stephen
+26. See Spitzer, supra note 8, at 366.
+27. See id.
+28. David I. Caplan wrote three articles: David I. Caplan, Handgun Control: Constitutional
+or Unconstitutional? -A Reply to Mayor Jackson, 10 N.C. CENTRAL L.J. 53 (1978); David I.
+Caplan, Restoring the Balance: The Second Amendment Revisited, 5 FORDHAM URBAN L.J. 31
+(1976); David I. Caplan, The Right of the Individual to Bear Arms: A Recent Judicial Trend, 1982
+DET. C.L. REV. 789, 789 n.t (1982) (identifying Caplan as voluntary counsel to the Federation
+of New York State Rifle & Pistol Clubs, Inc.).
+Robert Dowlut wrote three articles: Robert Dowlut, Federal and State Constitutional
+Guarantees to Arms, 15 U. DAYTON L. REV. 59, 59 n.* (1989); Robert Dowlut, The Right to
+Arms: Does the Constitution or the Predilection of Judges Reign?, 36 OKLA. L. REV. 65, 65 n.*
+(1983); Robert Dowlut & Janet A. Knoop, State Constitutions and the Right to Keep and Bear
+Arms, 7 OKLA. CITY U. L. REV. 177 (1982).
+Although the 1982 and 1983 articles identify Dowlut only as a member of the D.C. Bar, in
+1982 he identified himself elsewhere as a lawyer in the Office of General Counsel of the NRA.
+See SUBCOMM. ON THE CONST. OF THE SENATE COMM. ON THE JUDICIARY, 97TH CONG., 2D
+SESS., THE RIGHT TO KEEP AND BEAR ARMS 83 (Comm. Print 1982). The 1989 article
+identifies Dowlut as Deputy General Counsel for the NRA.
+Richard E. Gardiner wrote one article: Richard E. Gardiner, To Preserve Liberty-A Look
+at the Right to Keep and Bear Arms, 10 N. KY. L. REV. 63, 63 n.* (1982) (identifying Gardiner as
+NRA Assistant General Counsel).
+Alan M. Gottlieb wrote one article: Alan M. Gottlieb, Gun Ownership: A Constitutional
+Right, 10 N. KY. L. REV. 113, 113 n.* (1982) (identifying Gottlieb as President of the Second
+Amendment Foundation and Chairman of the Citizens Committee for the Right to Keep and
+Bear Arms).
+Stephen P. Halbrook wrote six articles: Stephen P. Halbrook, Encroachments of the Crown
+on the Liberty of the Subject: Pre-Revolutionary Origins of the Second Amendment, 15 U.
+DAYTON L. REV. 91 (1989); Stephen P. Halbrook, The Jurisprudence of the Second and
+Fourteenth Amendments, 4 GEO. MASON U. L. REV. 1 (1981); Stephen P. Halbrook, The Right
+to Bear Arms in the First State Bills of Rights: Pennsylvania, North Carolina, Vermont, and
+Massachusetts, 10 VT. L. REV. 255 (1985); Stephen P. Halbrook, To Keep and Bear Their Private
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 9
+P. Halbrook and Don B. Kates, Jr., deserve special mention. Each
+has turned himself into something of a cottage industry. Though, in a
+sense, they have become competitors, Halbrook and Kates have had
+strikingly similar careers. Both were briefly academics (Kates taught
+in a law school for three years and Halbrook in university philosophy
+departments for nine years) then left the academy to open law
+practices in which they represent gun rights organizations and firearm
+manufacturers, among others. Each has become a celebrity within
+the gun rights community, maintaining his prominence with a stream
+of books and articles. Between them they have, to date, written or
+edited at least eight books, 9 twenty-three law review articles,30 and
+Arms: The Adoption of the Second Amendment, 1787-1791, 31 N. KY. L. REV. 13 (1982);
+Stephen P. Halbrook, Tort Liability for the Manufacture, Sale, and Ownership of Handguns?, 6
+HAMLINE L. REV. 351 (1983); Stephen P. Halbrook, What the Framers Intended: A Linguistic
+Analysis of the Right to "Bear Arms," 49 LAW & CONTEMP. PROBS. 151 (Winter 1986).
+Halbrook also produced two other law review articles that, although not included in Spitzer's
+list because they do not deal centrally with the Second Amendment, are related to the right to
+bear arms: Stephen P. Halbrook, Firearms, the Fourth Amendment, and Air Carrier Security, 52
+J. AIR L. & COM. 585 (1987); Stephen P. Halbrook, The Right to Bear Arms in Texas: The Intent
+of the Framers of the Bills of Rights, 41 BAYLOR L. REV. 629 (1989).
+Although in these articles Halbrook identifies himself only as an attorney in Fairfax,
+Virginia, in 1986 Halbrook told a federal district court that he was a lawyer in the Office of
+General Counsel of the NRA. See Oefinger v. D.L.O. Manufacturing and Importing, No. 86-
+1396,1986 U.S. Dist. LEXIS 18370, at *1 (D. D.C. 1986).
+Don B. Kates, Jr. wrote two articles: Don B. Kates, Jr., Handgun Prohibition and the
+Original Meaning of the Second Amendment, 82 MICH. L. REV. 204 (1983); Don B. Kates, Jr.,
+The Second Amendment: A Dialog, 49 L. & CONTEMP. PROBS. 143 (Winter 1986).
+Kates has represented the Second Amendment Foundation. See Quilici v. Second
+Amendment Foundation, 769 F.2d 414, 415 (7th Cir. 1985).
+29. See STEPHEN P. HALBROOK, FREEDMAN, THE FOURTEENTH AMENDMENT, AND THE
+RIGHT TO BEAR ARMS, 1866-1876 (1998); STEPHEN P. HALBROOK, FIREARMS LAW
+DESKBOOK: FEDERAL AND STATE CRIMINAL PRACTICE (1995); STEPHEN P. HALBROOK, A
+RIGHT TO BEAR ARMS: STATE AND FEDERAL BILLS OF RIGHTS AND CONSTITUTIONAL
+GUARANTEES (1989); STEPHEN P. HALBROOK, TARGET SWITZERLAND: SWISS ARMED
+NEUTRALITY IN WORLD WAR II (1998); STEPHEN P. HALBROOK, THAT EVERY MAN BE
+ARMED: THE EVOLUTION OF A CONSTITUTIONAL RIGHT (1984) [hereinafter HALBROOK,
+THAT EVERY MAN BE ARMED].
+See also FIREARMS AND VIOLENCE: ISSUES OF PUBLIC POLICY (Don B. Kates, Jr. ed.,
+1984); DON B. KATES, JR. & GARY KLECK, THE GREAT AMERICAN GUN DEBATE: ESSAYS ON
+FIREARMS AND VIOLENCE (1997); RESTRICTING HANDGUNS: THE LIBERAL SKEPTICS SPEAK
+OUT (Don B. Kates. Jr. ed., 1979).
+30. In addition to the articles cited supra note 28, Halbrook's law review writings include:
+Stephen P. Halbrook, Congress Interprets the Second Amendment: Declarations by a Co-Equal
+Branch on the Individual Right to Keep and Bear Arms, 62 TENN. L. REV. 597 (1995); Richard
+E. Gardiner & Stephen P. Halbrook, NRA and Law Enforcement Opposition to the Brady Act:
+From Congress to the District Courts, 10 ST. JOHN'S J. LEGAL COMMENT. 13 (1994); Stephen P.
+Halbrook, Personal Security, Personal Liberty, and "the Constitutional Right to Bear Arms":
+Visions of the Framers of the Fourteenth Amendment, 5 SETON HALL CONST. L.J. 341 (1995);
+Stephen P. Halbrook, Rationing Firearms Purchases and the Right to Keep Arms: Reflections on
+the Bills of Rights of Virginia, West Virginia, and the United States, 96 W. VA. L. REV. 1 (1993);
+Stephen P. Halbrook, The Right of the People or the Power of the State: Bearing Arms, Arming
+Militias, and the Second Amendment, 26 VAL. U. L. REV. 131 (1991); Stephen P. Halbrook,
+CHICAGO-KENT LAW REVIEW
+countless op-ed pieces and other writings about the right to bear arms
+and the evils of gun control.31 Kates writes a monthly column titled
+Gun Rights for Handguns magazine. 32 Books by both men are sold
+over the NRA Web site.33 Halbrook and Kates have their own Web
+sites as well, promoting themselves to potential clients and fans
+(Kates's site includes pictures of his son and his favorite works of art,
+featuring Eugene Delacroix's Liberty Leading the People, with
+Liberty leading the charge against the government while clasping a
+banner in one hand and a musket in the other).3
+4 In terms of
+intramural gun community politics, however, Halbrook and Kates
+have positioned themselves somewhat differently: Halbrook has
+allied himself with the NRA while Kates is associated with competing
+organizations such as the Second Amendment Foundation.
+Halbrook, especially, advocates an insurrectionist theory of the
+Second Amendment. That is, he argues the Amendment is designed
+to ensure that citizens are armed and ready to fight against their own
+government should it become tyrannical. Halbrook believes the
+framers wanted "a force of the whole armed populace.., to counter
+inroads on freedom by government,"35 and "to guarantee the right of
+the people to have 'their private arms' to prevent tyranny and to
+overpower an abusive standing army or select militia. ' 36
+Second-Class Citizenship and the Second Amendment in the District of Columbia, 5 GEO.
+MASON U. Civ. RTS. L.J 105 (1995).
+In addition to the writings listed supra note 28, Kates's law review articles include: Daniel
+D. Polsby & Don B. Kates, Jr., American Homicide Exceptionalism, 69 U. COLO. L. REV. 969
+(1998); Don B. Kates, Jr., Bigotry, Symbolism, and Ideology in the Battle over Gun Control, 1992
+PUB. INTEREST L. REV. 31; Don B. Kates, Jr., Gun Control: Separating Reality from Symbolism,
+20 J. CONTEMP. L. 353 (1994); Don B. Kates, Jr., The Second Amendment and the Ideology of
+Self-Protection, 9 CONST. COMMENT. 87 (1992); Randy E. Barnett & Don B. Kates, Under Fire:
+The New Consensus on the Second Amendment, 45 EMORY L.J. 1139 (1996) [hereinafter Barnett
+& Kates, Under Fire]; Don B. Kates, Jr., The Value of Civilian Handgun Possession as a
+Deterrent to Crime or a Defense Against Crime, 18 AM. J. CRIM. L. 113 (1991); Don B. Kates, Jr.
+& Daniel D. Polsby, Of Genocide and Disarmament, 86 J. CRIM. L. & CRIMINOLOGY 247 (1995)
+(book review).
+31. See, e.g., Don B. Kates, Jr., Forefathers Firm on Bearing Arms, CHI. TRIB., Dec. 14,
+1993, § 1 at 21; Don B. Kates, Jr., Shot Down: Cops, Criminals, and Criminologists Are Equally
+Skeptical About Firearm Prohibition, NAT'L REV., March 6, 1995, at 49; Stephen P. Halbrook,
+The Gun Question: Our Right to Bear Arms, HOUS. CHRON., July 30, 1995, at Cl; Stephen P.
+Halbrook, The Second Amendment Stands, USA TODAY, Jan. 16,1991, at 8A.
+32. See, e.g., Don B. Kates, Jr., Gun Rights: New Scholarship on the Right to Arms,
+HANDGUNS, June 2000, at 32.
+33. See NRA Online Store (visited May 17, 2000) <http://www.nrahq.org/store>.
+34. See Stephen P. Halbrook, Attorney at Law (visited May 16, 2000) <http://
+www.members.aol.com/protell>; Don B. Kates, Attorney at Law (visited May 17, 2000) <http://
+www.donkates.com>.
+35. HALBROOK, THAT EVERY MAN BE ARMED, supra note 29, at 195.
+36. Id. at 77.
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 11
+In 1994, Harvard University Press published To Keep and Bear
+Arms: The Origins of an Anglo-American Right37 by Joyce Lee
+Malcolm. Praised by insurrectionists as "the definitive historical
+treatise on the right to arms,"3'8 and ballyhooed in American
+Rifleman,39 Malcolm's book went into a third printing within a year of
+its initial publication. The book got attention outside the gun rights
+community as well. Justice Antonin Scalia pronounced the book
+"excellent" and noted he was impressed that Malcolm was not a
+"member of the Michigan Militia, but an Englishwoman. '
+40 It was an
+amusing assumption. Malcolm's name may sound British, and
+Bentley College, where Malcolm teaches history, may sound like a
+college at Oxford, but in fact Malcolm is American and Bentley is a
+business college in Massachusetts. "1
+The Second Amendment was derived from the English
+Declaration of Rights of 1689, which included a provision providing
+that, "Subjects which are Protestants may have Arms for their
+Defence suitable to their Conditions and as allowed by Law. '42
+Malcolm's thesis is that this created an individual, English right to
+have arms-that is, it gave individuals the right to keep and bear arms
+notwithstanding the enactment of any laws to the contrary-and that
+the American founders accepted this legacy in the Second
+Amendment. Although this thesis may sound plausible to those
+uninitiated in English history, it has been severely criticized. 43 The
+37. JOYCE LEE MALCOLM, TO KEEP AND BEAR ARMS: THE ORIGINS OF AN ANGLOAMERICAN
+RIGHT (1994).
+38. Barnett & Kates, Under Fire, supra note 30, at 1187; see also Nelson Lund, The Past
+and Future of the Individual's Right to Arms, 31 GA. L. REV. 1, 6 (1996): Robert J. Cottrol &
+Raymond T. Diamond, The Fifth Auxiliary Right, 104 YALE L.J. 995 (1995) (reviewing
+MALCOLM, supra note 37); Glenn Harlan Reynolds, A Line of Defense, 80 A.B.A. J. 94 (1994)
+(reviewing MALCOLM, supra note 37).
+39. See Book Review, AM. RIFLEMAN, Apr. 1994, at 27; see also WAYNE LAPIERRE,
+GUNS, CRIME, AND FREEDOM 14-15 (1994), cited in Carl T. Bogus, The Hidden History of the
+Second Amendment, 31 U.C. DAVIS L. REV. 309, 376 n.318 (1998). As of this writing, LaPierre
+is the Executive Vice President of the NRA. See National Rifle Association of America (visited
+July 22, 2000) <http://www.nra.org>.
+40. ANTONIN SCALIA, A MATTER OF INTERPRETATION: FEDERAL COURTS AND THE
+LAW 136-37 n.13 (1997).
+41. Bentley College describes its mission as "providing the most advanced business
+education possible." See Bentley College-At a Glance (visited June 5, 2000) <http://
+www.bentley.edu/about-bentley/facts>. Malcolm was educated at Barnard College and
+Brandeis University. See Bentley Academic Departments-History Faculty (visited June 5, 2000)
+<http://ecampus.bentley.edu/dept/hi/fbio3.htm>. In no way am I suggesting that Malcolm is less
+qualified to write on the subject because she is an American.
+42. DECLARATION OF RIGHTS art. 7 (1689). The Declaration may be found in LOIS G.
+SCHWOERER, THE DECLARATION OF RIGHTS, 1689, at 295 (1981).
+43. The two most notable earlier criticisms may be found in Bogus, supra note 39, at 375-
+86; and Garry Wills, To Keep and Bear Arms, N.Y. REV. BOOKS, Sept. 21, 1995, at 62. This
+CHICAGO-KENT LAW REVIEW
+provision was not meant to address whether the government could
+regulate the possession of arms (everyone accepted that it could) but
+rather who could do so, crown or Parliament. This is what the phrase "as allowed by law" was all about. Parliament passed laws allowing
+certain subjects to have specified weapons, and the king was obliged
+to respect Parliament's law-making authority in this, as well as other,
+areas. Criticisms notwithstanding, Malcolm's work remains one of
+the foundational texts of the individual right school.
+A new chapter in the history of Second Amendment scholarship
+began in 1989 when Sanford Levinson published an article titled The
+Embarrassing Second Amendment in the Yale Law Journal.- The
+significance was not so much the content of the article-it was a
+twenty-three page essay saying little more than had been said before
+by Halbrook and Kates (both of whom it cited)-but the pedigree of
+the author. Levinson, who holds an endowed chair in one of the
+nation's elite law schools, is a prominent constitutional scholar, as
+well as a liberal Democrat. Though on the one hand Levinson denied
+he was taking a position at all-"[i]t is not my style to offer 'correct'
+or 'incorrect' interpretations of the Constitution," he wrote45
+- the
+tone and tenor of the essay made clear Levinson's affinity not only for
+the individual right model but for insurrectionist theory as well.
+Levinson wrote that the implications of what he viewed as a proper
+reading of history
+might push us in unexpected, even embarrassing, directions: just as
+ordinary citizens should participate actively in governmental
+decision-making through offering their own deliberative insights,
+rather than be confined to casting ballots once every two or four
+years for those very few individuals who will actually make
+decisions, so should ordinary citizens participate in the process of
+law enforcement and defense of liberty rather than rely on
+professionalized peacekeepers, whether we call them standing
+armies or police.46
+Law professors are supposed to believe in the rule of law.
+Decisions are made peacefully in a constitutional democracy, through
+speech, political activity, the vote, and appeal to the courts. It is one
+thing for gun zealots to believe it is acceptable that disgruntled
+Symposium includes a strong refutation of Malcolm's thesis by the preeminent American
+authority on the Declaration of Rights of 1689. See Lois G. Schwoerer, To Hold and Bear
+Arms: The English Perspective, 76 CHI.-KENT L. REV. 27 (2000); see also Michael A. Bellesiles,
+14 L. & HIST. REV. 382 (1996) (book review) (expressing reservations about Malcolm's book).
+44. Sanford Levinson, The Embarrassing Second Amendment, 99 YALE L.J. 637 (1989).
+45. Id. at 642.
+46. Id. at 650-51.
+[Vol. 76:3
+2000] THE HISTORYAND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 13
+citizens take up arms, whether against the elected government or as
+vigilantes; it is quite another for a prominent, constitutional law
+professor to do so. And that was precisely Levinson's point. He
+suggested constitutional scholars had not taken the Second
+Amendment seriously simply because they did not like it. They did
+not like guns; and they did not like people who liked guns .
+4 Here was
+the true liberal -educated at Harvard and Stanford law schools,
+writing in the Yale Law Journal, a member not of the NRA but of the
+ACLU-willing to seek truth even if it offended his personal,
+political, or class prejudices and predilections.
+Levinson did not say this directly-and it was not quite true. "I
+have no personal interest in possessing or using a firearm," Levinson
+declared in a more obscure piece, noting his membership in the
+ACLU.48 Yet, as it turns out, Levinson is a political opponent of gun
+control. As a Democrat he wants his party to stop supporting gun
+control because he believes it needs gun owners in its coalition.49
+Moreover, he says he has "learned to treat with respect the views of
+those who view a general prohibition of firearm ownership as an
+important step toward tyranny. We should learn to take seriously the
+bumper sticker that states, 'If guns are outlawed, only the government
+will have guns."' 50 Levinson's genuine insurrectionist bent comes
+through in his version of the slogan, which traditionally reads, "If
+guns are outlawed, only outlaws will have guns."5 A full reading of
+this other piece suggests that Levinson's insurrectionist theory may be
+47. Levinson wrote:
+I cannot help but suspect that the best explanation for the absence of the Second
+Amendment from the legal consciousness of the elite bar, including that component
+found in the legal academy, is derived from a mixture of sheer opposition to the idea
+of private ownership of guns and the perhaps subconscious fear that altogether
+plausible, perhaps even "winning," interpretations of the Second Amendment would
+present real hurdles to those of us supporting prohibitory regulation.
+Id. at 642. "Perhaps 'we' might be led to stop referring casually to 'gun nuts,"' he wrote at
+another point. Id. at 659.
+48. Sanford Levinson, Democratic Politics and Gun Control, 1 RECONSTRUCTION 137, 140
+(1992).
+49. See id. at 138.
+50. Id. at 141.
+51. See, e.g., Cynthia Tucker, NRA Spins Its Lies Like a Gunslinger Twirls His Pistol,
+ATLANTA J. & CONST., March 19, 2000, at G5; Welton Jones, Death in the Afternoon-Blame
+the Tools, Not the Creators, SAN DIEGO UNION-TRIB., May 9, 1999, at El; William Booth, Dole
+Doesn't Make Teens' Top 10: Parents, Wary of Political Critics, Worry About Pop Culture,
+WASH. POST, June 5, 1995, at Al; William Raspberry, Problem Is Much Deeper: Gun Control
+Won't Stop the Killing in Our Cities, ATLANTA J. & CONST., Aug. 24, 1994, at A12; James
+Brooke, Brazil Is Now Leading Foreign Supplier of Handguns to the U.S., N.Y. TIMES, Aug. 21,
+1994, § 1 at 6 (all mentioning the slogan: "[When] guns are outlawed, only outlaws will have
+guns").
+CHICAGO-KENT LAW REVIEW
+motivated by political and policy preferences as well as a commitment
+to constitutional fidelity.
+Contrarian positions get play. Clarence Thomas got attention
+from the Reagan administration because he was a black man and an
+affirmative action recipient who opposed affirmative action. Law
+professors writing articles that say the courts are right and have
+always been right, or liberal Democrats supporting gun control, draw
+yawns. Levinson's Embarrassing Second Amendment piece got
+attention, both in the popular press52 and in the law reviews.53 It
+remains perhaps the best known law review article on the subject.
+Buoyed by the number of articles supporting its position, and the
+big catch in Sanford Levinson, the NRA launched a concerted effort
+to promote more writing supporting the individual right position.
+Through a related foundation, the NRA began distributing large sums
+to friendly scholars. In 1991 and 1992, it dispensed grants totaling
+$38,569.45 to Halbrook alone.54 In 1992, the NRA helped fund a new
+organization called Academics for the Second Amendment ("A2A")
+headed by Professor Joseph E. Olson of the Hamline University
+School of Law, who had recently been elected to the NRA's National
+Board of Directors.55 Though its published advertisements said A2A
+sought to "foster intellectually honest discourse" on the Second
+Amendment, 56 only the like-minded were invited to participate.57 In
+1994, the NRA launched an annual "Stand Up for the Second
+Amendment" essay contest, and offered a first prize of $25,000.58
+The NRA effort would turn out to be a great success. At least
+fifty-eight law review articles endorsing the individual right view
+would be published during the 1990s (compared to twenty-nine
+favoring the collective right position).59 The NRA and its allies would
+52. See, e.g., George F. Will, The Embarrassing Second Amendment, ST. PETERSBURG
+TIMES, March 21, 1991, at 23A; Michael Kinsley, TRB from Washington: Second Thoughts,
+NEW REPUBLIC, Feb. 26, 1990, at 4; Michael Isikoff, NRA Pushes Machine Gun Ownership,
+WASH. POST, Dec. 28, 1990, at A17.
+53. A Westlaw search conducted in the TP-ALL database on May 18, 2000, indicated that
+The Embarrassing Second Amendment has been cited in 195 law review articles.
+54. See Bogus, supra note 39, at 318 n.37.
+55. See Spitzer, supra note 8, at 377; THE AALS DIRECTORY OF LAW TEACHERS 1999-
+2000, at 764 (reporting that Olson joined the NRA Board in 1991).
+56. Advertisement titled "An Open Letter on the Second Amendment," copyrighted 1995
+by A2A (on file with author).
+57. See Wendy Kaminer, Second Thoughts on the Second Amendment, THE ATLANTIC
+MONTHLY, March 1996, at 32.
+58. See Spitzer, supra note 8, at 377.
+59. See id.
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 15
+make much of the number of articles supporting its position. More
+importantly, other prominent scholars would join the NRA camp.
+In 1991 and 1992, Akhil Reed Amar of Yale Law School
+published two articles about the Bill of Rights in which he addressed
+the Second Amendment, among other provisions.6° Amar saw the
+Second Amendment as granting a right belonging to the people
+collectively yet embraced insurrectionist theory nevertheless. "[T]o
+see the Amendment as primarily concerned with an individual right
+to hunt, or protect one's home, is like viewing the heart of the speech
+and assembly clauses as the right of persons to meet to play bridge, or
+to have sex," he wrote. 61 "In the event of central tyranny," he
+continued, "state governments could do what colonial governments
+had done in 1776: organize and mobilize their Citizens into an
+effective fighting force capable of beating even a large standing
+army. "62
+Yet in Amar's view this does not mean that the Second
+Amendment pertains to the government militia. "A good many
+modern scholars have read the Amendment as protecting only armsbearing
+in organized 'state militias,' such as SWAT teams and
+National Guard units. If this reading were accepted, the Second
+Amendment would be at base a right of state governments rather
+than Citizens," which, as Amar saw it, is not the case because the
+right is given not to the states but to the people.63 Citing Halbrook,
+Amar concluded "militia" means "all Citizens capable of bearing
+arms" because that is how the term was then understood.6 What
+Amar seemed not to recognize, or at least did not acknowledge, is
+that "militia" is defined in the Constitution itself.6 The founders
+disagreed about how the militia ought to be organized. For example,
+60. See Akhil Reed Amar, The Bill of Rights and the Fourteenth Amendment, 101 YALE
+L.J. 1193, 1205-11, 1261-62 (1992) [hereinafter Amar, Fourteenth Amendment]; Akhil Reed
+Amar, The Bill of Rights as a Constitution, 100 YALE L.J. 1131, 1162-75 (1991) [hereinafter
+Amar, Constitution]; see also AKHIL REED AMAR, THE BILL OF RIGHTS: CREATION AND
+RECONSTRUCTION 46-59 (1998).
+61. Amar, Constitution, supra note 60, at 1164.
+62. Id. at 1165.
+63. Id. at 1165-66.
+64. Id. at 1166.
+65. The Constitution provides:
+The Congress shall have Power... To provide for organizing, arming, and disciplining,
+the Militia, and for governing such Part of them as may be employed in the Service of
+the United States, reserving to the States respectively, the Appointment of the
+Officers, and the Authority of training the Militia according to the discipline
+prescribed by Congress.
+U.S. CONST. art. I, § 8.
+CHICAGO-KENT LAW REVIEW
+Madison favored a universal militia while Hamilton argued for a
+select militia. 66 However, they agreed as a constitutional matter to
+leave this up to Congress; and the Constitution expressly gives
+Congress the power to organize the militia. Thus, the militia is what
+Congress decides it is, regardless of whether it differs from an
+eighteenth-century model. Currently, the militia is indisputably the
+National Guard because Congress has so decided 67 (and Amar's
+suggestion notwithstanding, no one reasonably contends the militia
+includes SWAT teams). If Amar wrestled directly with Congress's
+power to define the militia, he might be forced to reconsider his
+insurrectionist view. How can the armed militia be a bulwark against
+governmental tyranny if it is organized and regulated by the
+government itself?
+In 1994, William Van Alstyne of the Duke University School of
+Law-citing Halbrook, Kates, and Levinson, among otherspublished
+a twenty-page essay endorsing the individual right
+position. 68 Van Alstyne suggested that the founders' purpose was to
+allow the people to keep and bear arms against government tyranny,
+but this suggestion was rather ambiguous. 69 Moreover, if this is
+66. Writing in The Federalist, Hamilton made it clear that the Constitution gives Congress
+the authority to organize the militia as it sees fit, adding: "What plan for the regulation of the
+militia may be pursued by the national government, is impossible to be foreseen." THE
+FEDERALIST NO. 29, at 178 (Alexander Hamilton) (Modern College Library ed.). Stressing that
+he was offering his personal opinion only, Hamilton stated he would advise Congress to opt for
+a "select corps of moderate extent." Id. at 179. Though some of Madison's writings may be
+read as an endorsement of a universal militia, Madison made it clear that the militia was to be
+organized by Congress. See THE FEDERALIST NOS. 53, 65 (James Madison). Moreover,
+Madison, who was the principal author of both the militia clause in Article I, Section 8 and the
+Second Amendment, stated that the Bill of Rights did not change any of the principal structure
+or principles of the Constitution. See THE DAILY ADVERTISER, June 9, 1789, in CREATING
+THE BILL OF RIGHTS: THE DOCUMENTARY RECORD FROM THE FIRST FEDERAL CONGRESS 63
+(Helen E. Veit et al. eds., 1991).
+67. See Michael C. Dorf, What Does the Second Amendment Mean Today?, 76 CHI-KENT
+L. REV. 291, 304-05 & nn.67-71 (2000).
+68. See William Van Alstyne, The Second Amendment and the Personal Right to Arms, 43
+DUKE L.J. 1236 (1994).
+69. The strongest passage reads as follows:
+There is, to be sure, in the Second Amendment, an express reference to the security of
+a "free State." It is not a reference to the security of THE STATE. There are
+doubtless certain national constitutions that put a privileged emphasis on the security
+of "the state," but such as they are, they are all unlike our Constitution ....
+Accordingly, such constitutions make no reference to any right of the people to keep
+and bear arms, apart from state service. And why do they not do so? Because, in
+contrast with the premises of constitutional government in this country, they reflect the
+belief that recognition of any such right "in the people" might well pose a threat to the
+security of "the state." In view of these different constitutions, it is commonplace to
+find that no one within the state other than its own authorized personnel has any right
+to keep and bear arms-a view emphatically rejected, rather than embraced, however,
+by the Second Amendment ....
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 17
+indeed what Van Alstyne meant to say, he undercut it by stating
+(without explanation) that the right to keep and bear arms extends to
+handguns but not howitzers. If the right is designed to allow the
+people to resist government tyranny, it would have the greatest
+application to weapons needed to combat the government's military
+forces than to those designed for self-protection, and would apply to
+howitzers before handguns.
+Before the decade drew to an end, two other prominent scholars
+endorsed an individual right view, though neither did so in a way that
+could fully please the NRA. Leonard W. Levy, winner of the Pulitzer
+Prize in history in 1969, devoted a short chapter to the Second
+Amendment in a book about the Bill of Rights. 70 "Believing that the
+amendment does not authorize an individual right is wrong," Levy
+declared. "The right to bear arms is an individual right."'" Moreover,
+wrote Levy, "the right is an independent one, altogether separate
+from the maintenance of a militia. '72 At first blush that seems like a
+strange conclusion since Levy begins his discussion by making much
+of the specific mention of the militia in the Amendment's preamble,73
+and states that the Amendment was, at least in part, designed to
+prevent the federal government from destroying the state militias.74
+Levy attempted to resolve the contradiction by explaining that the
+militia had become an anachronism because we no longer depend on
+it for national defense. Levy flatly rejected the insurrectionist view.
+"An armed public is not the means of keeping a democratic
+government responsible and sensitive to the needs of the people,"
+and allowing preparation for revolution leads to anarchy.75 As Levy
+saw it, although the militia purpose of the right has evaporated over
+time, a remaining residue "still enables citizens to protect themselves
+against law breakers. ' 76 In Levy's view this is not only a right subject
+to governmental regulation but indeed "a right that must be
+regulated. "77
+The most celebrated new member of the individual right view
+Id. at 1244 (citations omitted).
+70. See LEONARD W. LEVY, ORIGINS OF THE BILL OF RIGHTS 133-49 (1999).
+71. Id. at 134.
+72. Id. at 135.
+73. See id. at 133.
+74. See id. at 148.
+75. Id. at 149 (quoting the Supreme Court in Dennis v. United States regarding the
+proposition that allowing preparation for revolution leads to anarchy) (citation omitted).
+76. Id.
+77. Id.
+CHICAGO-KENT LAW REVIEW
+was Laurence H. Tribe of Harvard Law School, one of the best
+known law professors in America. In 1999, Tribe released the longawaited
+third edition of his famous treatise, American Constitutional
+Law.78 Tribe and his publisher promoted the book by broadcasting
+that Tribe, for the first time, addressed the Second Amendment-and
+that this most prominent of liberal constitutional scholars had
+concluded that the Amendment guarantees an individual right. "I've
+gotten an avalanche of angry mail from apparent liberals who said,
+'How could you?,"' Tribe told one interviewer. "But as someone who
+takes the Constitution seriously, I thought I had a responsibility to see
+what the Second Amendment says, and how it fits."79 This got
+attention. Tribe's view was widely reported in the press 8° and
+Charlton Heston invoked Tribe's name in his president's column in
+the NRA's magazine.8
+"
+Tribe wanted to transcend what he perceived to be a petty and
+partisan debate. He wrote in his treatise that Second Amendment
+scholarship was "radically underdeveloped" because of an insistence
+on seeing the right in "binary terms," that is, scholars subscribed
+either to the individual right school and argued that all forms of gun
+control were unconstitutional or to the collective right school and
+argued that the Second Amendment was irrelevant. 82 Tribe was going
+to rise above this and occupy a sensible middle position. Relying
+heavily on Amar, Tribe seemed to argue that because the militia
+included all able-bodied, adult, white males in the eighteenth century,
+a right given to militia members would, after the Thirteenth and
+Nineteenth Amendments, belong to everyone. 83 Tribe tried not to
+follow Amar into the insurrectionist thicket, but did not clearly define
+where this left him. Tribe wrote that "the core meaning of the
+Second Amendment is a populist/republican/ federalism one." 84 But
+Tribe also wrote that "gun ownership today has little political
+78. See 1 LAURENCE H. TRIBE, AMERICAN CONSTITUTIONAL LAW (3d ed., 2000).
+Actually, only the first volume was released. A second volume is to follow at an undisclosed
+future date. According to the index, the Second Amendment will be discussed in two separate
+chapters of the second volume.
+79. Tony Mauro, Scholar's Views on Arms Rights Anger Liberals, USA TODAY, Aug. 27,
+1999, at 4A.
+80. See, e.g., William Glaberson, Right to Bear Arms: A Second Look, N.Y. TIMES, May 30,
+1999, § 4 at 3; Mauro, supra note 79.
+81. See Charlton Heston, President's Column, AMERICAN HUNTER, Nov. 1, 1999, at 12,
+available in 1999 WL 13687111.
+82. 1 TRIBE, supra note 78, at 903.
+83. See id. at 898-99 n.213, 901-02 n.221.
+84. Id. at 902 n.221.
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 19
+significance and.., might well be thought to destroy rather than
+promote the kinds of values with which civic republicanism is
+associated."85
+The essence of what Tribe seemed to be saying was: the Second
+Amendment grants individuals a constitutional right; all constitutional
+right must be taken seriously; no rights are absolute; and gun
+control measures that "seek only to prohibit a narrow type of
+weaponry (such as assault rifles) or to regulate gun ownership by
+means of waiting periods, registration, mandatory safety devises, or
+the like.., are plainly constitutional." 86 But why are bans on assault
+weapons clearly constitutional?
+It is impossible to delineate the boundaries of a right, to decide
+what regulations are constitutionally permissible, without first clearly
+articulating the fundamental purposes of that right. Only then can
+one judge whether a restriction impinges on a fundamental purpose
+of the right. Tribe's formulation of a core purpose fulfilling "populist/
+republican/federalism" objectives is too imprecise to be useful.87
+Perhaps what Tribe was saying is that the Second Amendment
+gives states the right to have an armed militia so that they will be able
+play an active role in preserving their own security. The states have
+the principal obligation of protecting public safety within their
+borders, and the federal structure would be upset if the states were
+entirely beholden to the federal government for whatever armed
+force is necessary to protect public safety and welfare. Thus, while
+the main body of the Constitution gives Congress the authority to
+arm and organize the militia, the Second Amendment forbids
+Congress from either insisting upon unarmed militia or organizing the
+militia out of existence. 8 But if this indeed is Tribe's position then,
+his protestations notwithstanding, Tribe essentially embraces the
+85. Id. at 899.
+86. Id. at 902.
+87. "[T]he federal government may not disarm individual citizens without some unusually
+strong justification consistent with the authority of the states to organize their own militias,"
+Tribe wrote. Id. at 902 n.221.
+88. Tribe wrote that "it is clear that Congress may not, consistent with the Second
+Amendment, prohibit state militias from equipping their members with appropriate weaponry,
+just as Congress may not enact a general ban on membership in a state militia." Id. at 896
+(emphasis added). What is appropriate weaponry? Appropriate for what purpose? Tribe says
+bans on assault rifles are clearly constitutional, even though National Guardsmen are armed
+with assault weapons. Presumably, Tribe means: (a) bans on assault weapons in private hands,
+outside National Guard regulation and control, is constitutional; and (b) depriving a state of an armed National Guard would be constitutionally problematic. At bottom, this means there is
+no individual right, only a collective right to an armed state militia.
+CHICAGO-KENT LAW REVIEW
+collective right model, the sum and substance of which is that the
+Second Amendment protects the right of the states to have an armed
+militia.
+Following the horrific event in Littleton, Colorado on April 20,
+1999, Tribe and Amar seemed to have second thoughts about the
+Second Amendment, or at least about the political ramifications of
+their work. Amar published an article in the New Republic,89 and
+Amar and Tribe together wrote an op-ed article for the New York
+Times.90 The theme of both pieces was the same: no right is absolute
+so (whatever the Second Amendment may mean) "reasonable" 91 and
+"[r]ealistic ''
+92 gun controls are constitutionally permissible.
+Tribe and Amar also joined a group of more than forty historians
+and law professors in signing a letter to NRA President Charlton
+Heston, publicized in an advertisement in the New York Times, that
+stated "the law is well-settled that the Second Amendment permits
+broad and intensive regulation of firearms. ' 93 Unfortunately, little
+was clear beyond Tribe and Amar's desire to dissociate themselves
+and their work from the gun lobby. Writing together, Tribe and
+Amar said the core of the right to bear arms is "self-protection. ' 94
+That was an interesting term, for it straddled both self-defense and
+collective defense without definitely including or excluding either.
+89. See Akhil Reed Amar, Second Thoughts: What the Right to Bear Arms Really Means,
+NEW REPUBLIC, July 12, 1999, at 24.
+90. Laurence H. Tribe & Akhil Reed Amar, Well-Regulated Militias, and More, N.Y.
+TIMES, Oct. 28, 1999, at A31.
+91. Id.
+92. Amar, supra note 89, at 27.
+93. See advertisement, N.Y. TIMES, March 27, 2000, at A27. To view the ad, see Legal
+Community Against Violence (visited June 2, 2000) <http://www.Icav.orgfletter.html>. I was
+also, along with Tribe and Amar, both a signatory of the letter and an active participant in
+helping to organize the project.
+In 1995, Amar signed the A2A's "Open Letter on the Second Amendment." See supra
+note 56 and accompanying text. Amar's signing Second Amendment advertisements by
+organizations with diametrically opposed agendas is curious. Perhaps it reflects Amar's
+changing political concerns, or at least his increased awareness of how the gun lobby was using
+his name. However, in fairness to Professor Amar it should be noted that political objectives
+and tone aside, the texts of the advertisements themselves are not inconsistent. For example,
+the A2A letter stated that the right to bear arms is not absolute, and that "[nlothing in this
+statement... is intended to deny either the constitutionality of or the need for sensible gun
+laws." Id.
+My impression that Amar has had second thoughts after Littleton is strengthened by the
+fact that he did not sign an identical A2A open letter when it was republished by the Scholars
+for the Second Amendment in July 2000. See advertisement, Is the Second Amendment an
+Individual Right to Arms?, N.Y. TIMES, July 28, 2000, at A12. Akhil Amar is absent from the
+list of signatories posted on the A2A Web site. See Scholars for the Second Amendment (visited
+July 28, 2000) <http://www.2nd-scholars.org>.
+94. Tribe & Amar, supra note 90.
+(Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 21
+Amar's New Republic piece, published less than three months after
+Littleton, was even more obfuscatory. Amar connected the right to
+bear arms with the militia and military affairs, and then continued:
+Statists are right to see the amendment as localist and to note that
+law and government help bring the militia together. So, too, with
+the jury. Twelve private citizens who simply get together on their
+own to announce the guilt of a fellow citizen are not a lawful jury
+but a lynch mob. Similarly, private citizens who choose to own
+guns today are not a well-regulated militia of the people; they are
+gun clubs. But what the statist reading misses is that, when the law
+summons the citizenry together, these citizens act as the people
+outside of government, rather than as a professional and permanent
+government bureaucracy. A lynch mob is not a jury, but neither is
+the Occupational Safety and Health Administration. Likewise, the
+NRA and other gun clubs are not the militia, but neither is the
+National Guard.95
+Three observations may be made. First, Amar tells us many
+things the militia is not but not what it is. Second, Amar's thesis is
+self-contradictory. A militia is like a jury in that it embodies
+collective action. Juries are not lynch mobs because they act under
+lawful authority (and more than that, act only under close supervision
+and control by the court); yet people in the militia would be acting
+outside the government. It is difficult to make sense out of Amar's
+argument since a body of citizens acting under lawful authority,
+closely regulated by the state, and acting outside of government, is an
+oxymoron. Third, Amar never explains why he wants to define
+militia instead of allowing Congress to do so, as provided in Article I,
+Section 8 of the Constitution. 96 Why is the militia not the National
+Guard when Congress says it is, and the Constitution gives Congress
+the authority to organize the militia as it sees fit?
+Regardless of what the deficiencies may or may not be in their
+work on this topic, or what they believed the appropriate policy
+ramifications to be, Levinson, Amar, Van Alstyne, Levy, and Tribe's
+membership in the individual right school was politically important.
+These five important scholars97 gave this position respectability, and
+95. Amar, supra note 89, at 26.
+96. Amar expressly contradicts the Constitution on this key point. "A modern translation
+of the amendment might thus be: 'An armed and militarily trained citizenry being conducive to
+freedom, the right of the electorate to organize itself militarily shall not be infringed,"' he wrote.
+Id. at 24-25. That is, while the Constitution says the militia is organized by Congress, Amar says
+that, in some unexplained fashion, the electorate organizes itself into the militia. What does
+Amar mean by using the word electorate rather than people or citizenry? Is he implying the
+people organize themselves into the militia at the ballot box, perhaps by voting for members of
+Congress? Amar does not say.
+97. Other distinguished scholars also support the individual right view, including Randy E.
+CHICA GO-KENT LA W REVIEW
+their membership in the individual right camp was loudly trumpeted
+by the gun rights community. 8
+Much has also been made out of the sheer volume of articles
+supporting the individual right position. In a brief asking the
+Supreme Court to reconsider the right to bear arms, A2A told the
+Court (somewhat misleadingly) that thirty-seven of forty-one most
+recent law review articles addressing the Amendment endorsed the
+individual right model.99 A2A was disdainful of the opposing articles.
+"Their quality does not exceed their quantity," A2A told the Court.
+"Three of the four articles were written by employees of anti-gun
+lobbying groups, the fourth by a politician; all appear in minor
+reviews and none were published on their merits-each being in a
+symposium in which anti-gun groups and/or individuals were invited
+to submit articles dealing with their position."'1 Indeed, others
+wrote, so great is the new "consensus" about the Second Amendment
+that "much as physicists and cosmologists speak of a 'Standard
+Model' in terms of the creation and evolution of the Universe," the
+individual right model could now be renamed the standard model.10'
+The term "standard model" has caught on, used by both those who
+accept and reject its thesis. 102
+These three elements-the mass of individual right literature, the
+endorsement of the five prominent scholars, and use of the term
+standard model-combined to persuade many only cursorily familiar
+with the Second Amendment that the new scholarship has in fact led
+to a new consensus.10 3 Two Supreme Court justices have, for
+Barnett of Boston University School of Law, Robert J. Cottrol of George Washington
+University Law School, and Robert E. Shalhope, an historian at the University of Oklahoma, to
+name just three.
+98. See, e.g., David B. Kopel, The Sounds of the Supremes: A Reply to Professor Yassky, 18
+ST. LOUIS U. PUB. L. REV. 203, 204 (1999).
+99. See Brief for Amicus Curiae Academics for the Second Amendment et al., United
+States v. Lopez (No. 93-1260) [hereinafter A2A Brief]. Similar lists are set forth in David B.
+Kopel & Christopher C. Little, Communitarians, Neorepublicans, and Guns: Assessing the Case
+for Firearms Prohibition, 56 MD. L. REV. 438, 523 n.445 (1997), and Barnett & Kates, Under
+Fire, supra note 30, at 1143-44 nn.12-13 (1996). However, as Spitzer's research shows, though a
+majority of law review articles since 1980 have supported the individual right model, the
+numbers are not as lopsided as A2A and these other lists suggest.
+100. A2A Brief, supra note 99.
+101. Glenn Harlan Reynolds, A Critical Guide to the Second Amendment, 62 TENN. L. REV.
+461, 463 (1995).
+102. See Chris Mooney, Showdown: Liberal Legal Scholars Are Supporting the Right to Bear
+Arms. But Will Historians Shoot Them Down?, LINGUA FRANCA, Feb. 2000, at 26.
+103. Speaking of the individual right position, Cass R. Sunstein has remarked: "This was a
+frivolous, crazy position, and it no longer is anymore." Scott Heller, The Right to Bear Arms:
+Some Prominent Legal Scholars Are Taking a New Look at the Second Amendment, CHRON. OF
+HIGHER EDUC., July 21, 1995, at A8.
+[Vol. 76:3
+2000] THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 23
+example, taken note of these events and suggested that the Court
+should reconsider the Second Amendment. 1°4 A number of
+significant works endorsing the collective right model were also
+produced during the past decade.10 Nevertheless, the collective right
+model was, for the first time in more than a century, being seriously
+questioned.
+104. Citing Amar, Levinson, Van Alstyne, Halbrook, and Kates, among others, Justice
+Thomas wrote: "Marshaling an impressive array of historical evidence, a growing body of
+scholarly commentary indicates that the 'right to keep and bear arms' is, as the Amendment's
+text suggests, a personal right." Printz v. United States, 521 U.S. 898, 939 n.2 (1997) (Thomas,
+J., concurring). Justice Thomas went on to express the hope that the Court would be able to
+reconsider the Second Amendment at a future date.
+Citing Van Alstyne and standard modeler Joyce Lee Malcolm, Justice Scalia observed that
+he would find it "strange" if the Second Amendment does not grant an individual right. See
+SCALIA, supra note 40, at 136-37 n.13 (1997).
+On the other hand, Justice Souter, joined by Justices Stevens, Ginsburg, and Breyer, has
+hinted that the Second Amendment might grant a collective right. See United States v.
+Morrison, 120 S. Ct. 1740, 1765 n.ll (2000) (Souter, J., dissenting).
+All of this suggests that a number of Supreme Court justices may be eager to hear a
+Second Amendment case. And a case now making its way through the appellate process,
+United States v. Emerson, 46 F. Supp. 2d 598 (N.D. Tex. 1999), may provide them with such an
+opportunity.
+105. Five works deserve special mention. First, Garry Wills severely critiqued not only the
+conclusions but also the competence of insurrectionist scholars. See GARRY WILLS, A
+NECESSARY EVIL: A HISTORY OF AMERICAN DISTRUST OF GOVERNMENT 25-41, 112-33, 159,
+191-260 (1999).
+Second, Michael A. Bellesiles's original research changes much about what we knew, or
+thought we knew, about guns in eighteenth-century America. See MICHAEL A. BELLESILES,
+ARMING AMERICA: THE ORIGINS OF A NATIONAL GUN CULTURE (2000); Michael A.
+Bellesiles, Gun Laws in Early America: The Regulation of Firearms Ownership, 1607-1794, 16
+LAW & HIST. REV. 567 (1998); Michael A. Bellesiles, The Origins of Gun Culture in the United
+States, 1760-1865, 83 J. AM. HIST. 425 (1996).
+Third, Don Higginbotham, probably the foremost authority on the American militia, made
+a substantial contribution with Don Higginbotham, The Federalized Militia Debate: A Neglected
+Aspect of Second Amendment Scholarship, 55 WM. & MARY Q. 39 (1998).
+Fourth, Saul Cornell showed how standard modelers practice what historians call "law
+office history," or what I referred to as history based on Bartlett's Familiar Quotations, supra
+note 21 and accompanying text, that is, failing to place statements in historical context. See Saul
+Cornell, Commonplace or Anachronism: The Standard Model, the Second Amendment, and the
+Problem of History in Contemporary Constitutional Theory, 16 CONST. COMMENT. 221 (1999).
+Three worthwhile comments on Cornell's article follow in the same journal issue.
+Fifth, immodestly, I include one of my own works, in which I argued that Madison wrote
+the Second Amendment to assure his constituents and the South that Congress would not
+undermine the slave system by disarming the militia, on which the South relied for slave control.
+See Bogus, supra note 39.
+Three earlier works deserve not to be forgotten: Kenneth R. Bowling, "A Tub to the
+Whale": The Founding Fathers and Adoption of the Federal Bill of Rights, 8 J. EARLY REPUBLIC
+223 (1988); Lawrence Delbert Cress, An Armed Community: The Origins and Meaning of the
+Right to Bear Arms, 71 J. AM. HIST. 22 (1984); Frederick Bernays Wiener, The Militia Clause of
+the Constitution, 54 HARV. L. REV. 181 (1940). And though one of its authors is general counsel
+of a national gun control organization, a very useful article (and one of the most frequently
+cited) is Keith A. Ehrman & Dennis A. Henigan, The Second Amendment in the Twentieth
+Century: Have You Seen Your Militia Lately?, 15 U. DAYTON L. REV. 5 (1989).
+CHICA GO-KENT LA W REVIEW
+Until recently, there was little reason for scholars agreeing with
+the collective right model to address the topic. But the time had
+come to bring the collective right perspective up to date. With
+generous support from the Joyce Foundation, the Chicago-Kent Law
+Review sponsored this Symposium to take a fresh look at the Second
+Amendment and, particularly, the collective right theory. This is not,
+therefore, a balanced symposium. No effort was made to include the
+individual right point of view. Full and robust public debate is not
+always best served by having all viewpoints represented in every
+symposium.1°6 Sometimes one point of view requires greater
+illumination.
+Some of the contributors to this Symposium had written before
+about the right to bear arms, endorsing or leaning toward the
+collective right position. However, others were mainstream scholars
+who were asked to address the topic for the first time. No contributor
+was asked how he or she would come out or in any way encouraged to
+take a particular position. And, in fact, co-authors H. Richard Uviller
+and William G. Merkel conclude that the Second Amendment grants
+an individual right (though, in their view, it is a right that has become
+dormant) .107
+We were fortunate in recruiting a distinguished group of
+scholars-indeed, one of the most accomplished groups to address
+this or any topic in a symposium. They do not disappoint; they have
+produced a collection of highly original work, and made significant
+contributions to our understanding of the Second Amendment.
+Everyone who believes that this topic deserves to be taken seriously
+will be grateful.
+One last note before concluding. I have written about the
+campaign to develop a large body of literature supporting the
+individual right position and to create a perception that this view
+constitutes a standard model of scholarship (a perception this
+Symposium is likely to end). I have observed that some writers have
+106. A number of symposia have been largely or exclusively devoted to the individual right
+position. See, e.g., Second Amendment Symposium, 1998 BYU L. REV. 1 (five of six articles
+endorsing the individual right model); A Second Amendment Symposium Issue, 62 TENN. L.
+REV. 443 (seven of eight articles endorsing the individual right model); Symposium, Gun
+Control, 49 LAW & CONTEMP. PROBS. 1 (winter 1986) (all three articles devoted to the Second
+Amendment endorsing the individual right model); see also Editorial, Pacheco, Get the Soap,
+PHOENIX GAZETTE, Nov. 11, 1991, at A16 (describing an unbalanced symposium at the
+University of Arizona College of Law funded in part by the Second Amendment Foundation).
+107. See H. Richard Uviller & William G. Merkel, The Second Amendment in Context: The
+Case of the Vanishing Predicate, 76 CHI.-KENT L. REV. 403 (2000).
+[Vol. 76:3
+20001 THE HISTORY AND POLITICS OF SECOND AMENDMENT SCHOLARSHIP 25
+connections to gun rights organizations, and even that some received
+grants in connection with their writings. I do not, however, contend
+that anyone was paid or improperly influenced to advocate a position
+that he or she does not genuinely hold. On the contrary, I am
+convinced that individuals identified in this Article believe-many
+passionately-in what they have written. And I believe everyone,
+regardless of political affiliation or belief, is entitled to have his or her
+work judged on its merits.
+Why then discuss the history and politics of Second Amendment
+scholarship? Why not focus entirely on the merits? The history and
+politics of Second Amendment scholarship, including to some extent
+the political affiliations and agendas of the participants, is relevant
+because so-called standard modelers made it relevant. They have
+made much of both the size of the individual right literature and the
+prominence of certain scholars endorsing that position.1l 8 It is
+important, therefore, to understand the history and politics that have
+helped bring these about.
+108. See, e.g., supra notes 99-102 and accompanying text.
